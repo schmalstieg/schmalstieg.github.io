@@ -1,1 +1,0 @@
-We present the Virtual Showcase, a new multiviewer augmented reality display device thathas the same form factor as a real showcase traditionally used for museum exhibits.
