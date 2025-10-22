@@ -1,0 +1,1722 @@
+[
+  {
+    "year": "2025",
+    "month": "October 10",
+    "note": "Daejeon, South Korea",
+    "howpublished": "Keynote, ISMAR Workshop on Working Enhancement with Extended Reality",
+    "title": "Spatial Computing vs Situated Computing",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_173"
+  },
+  {
+    "year": "2025",
+    "month": "September 16",
+    "note": "Chemnitz, Germany",
+    "howpublished": "Keynote, AR/VR Workshop der Gesellschaft fuer Informatik",
+    "title": "Creating Intelligent Interfaces with Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_172"
+  },
+  {
+    "year": "2025",
+    "month": "August 8",
+    "note": "Zurich, Switzerland",
+    "howpublished": "Keynote, Medical Augmented Reality Summer School at Balgrist Hospital",
+    "title": "Augmented Reality Visualizations",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_171"
+  },
+  {
+    "year": "2025",
+    "month": "June 26",
+    "note": "Aarhus, Denmark",
+    "howpublished": "Invited Talk, Aarhus University",
+    "title": "Smart Augmented Reality with Scene Understanding",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_170"
+  },
+  {
+    "year": "2025",
+    "month": "May 12",
+    "note": "London, UK",
+    "howpublished": "Invited Talk, Huawei Device and Cloud Graphics Innovation Workshop",
+    "title": "Spatiotemporal Shading Caching",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_169"
+  },
+  {
+    "year": "2025",
+    "month": "April 4",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Invited Talk, 59th Photogrammetry Week",
+    "title": "Augmented Reality for Spatial Human-Computer Interaction",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_168"
+  },
+  {
+    "year": "2025",
+    "month": "February 20",
+    "note": "Vienna, Austria",
+    "howpublished": "Invited Talk, Snap Inc.",
+    "title": "Augmented Reality with Artificial Intelligence",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_167"
+  },
+  {
+    "year": "2025",
+    "month": "February 12",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Invited talk, Internationale Tagung Pr\\\"asenz Gestalten",
+    "title": "Pr\\\"asenz-Gestaltung im Roman und in VR - Das Beispiel des Versailler Gartens von 1669",
+    "author": "Kirsten Dickhaut, Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_166"
+  },
+  {
+    "year": "2025",
+    "month": "January 30",
+    "note": "Vienna, Austria",
+    "howpublished": "Keynote, Symposium Visual Computing Trends",
+    "title": "Augmented Reality for Human-Centered Artificial Intelligence",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_165"
+  },
+  {
+    "year": "2024",
+    "month": "October 25",
+    "note": "Seattle, USA",
+    "howpublished": "Keynote, ISMAR Workshop on Mobile Analytics from Situated Knowledge",
+    "title": "Human Augmentation With Artificial Intelligence Interfaces",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_164"
+  },
+  {
+    "year": "2024",
+    "month": "September 9",
+    "note": "Paris, France",
+    "howpublished": "Invited talk, University of Paris-Sarclay",
+    "title": "Augmented Reality for Human Intelligence Amplification",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_163"
+  },
+  {
+    "year": "2024",
+    "month": "May 3",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Invited talk, Summer Colloquium of the Max Planck Institute of Interactive Systems",
+    "title": "Emerging Directions in Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_162"
+  },
+  {
+    "year": "2024",
+    "month": "May 3",
+    "note": "Smolenice, Slovakia",
+    "howpublished": "Tutorial at the Central European Seminar on Computer Graphics",
+    "title": "Recent Trends in Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_161"
+  },
+  {
+    "year": "2023",
+    "month": "December 18",
+    "note": "Dresden, Germany",
+    "howpublished": "Invited talk, TU Dresden",
+    "title": "New Directions in Situated Analytics",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_160"
+  },
+  {
+    "year": "2023",
+    "month": "December 6",
+    "note": "Vienna, Austria",
+    "howpublished": "Keynote, ACM MUM 2023 ",
+    "title": "Augmented Reality, Digital Twins and Situated Analytics",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_159"
+  },
+  {
+    "year": "2023",
+    "month": "October 16",
+    "note": "Sydney, Australia",
+    "howpublished": "Keynote, ISMAR 2023 Workshop on Immersive and Situated Analytics",
+    "title": "How Digital Twins and Augmented Reality Can Make a Difference",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_158"
+  },
+  {
+    "year": "2023",
+    "month": "September 26",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Invited talk, Simulation/Dissimulation Symposium",
+    "title": "Storytelling in Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_157"
+  },
+  {
+    "year": "2023",
+    "month": "September 25",
+    "note": "Shenzen, China",
+    "howpublished": "Keynote, Huawei STW Symposium 2023",
+    "title": "New Directions in 3D Graphics Streaming",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_156"
+  },
+  {
+    "year": "2023",
+    "month": "August 3",
+    "note": "San Diego, USA",
+    "howpublished": "Invited Talk, Qualcomm Technologies Inc.",
+    "title": "Augmented Digital Twin",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_155"
+  },
+  {
+    "year": "2023",
+    "month": "June 15",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Keynote, XR EXPO",
+    "title": "Augmented Digital Twin",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_154"
+  },
+  {
+    "year": "2023",
+    "month": "April 20",
+    "note": "Hamburg, Germany",
+    "howpublished": "Keynote, Retreat Workshop of the VISUS group, University of Stuttgart",
+    "title": "Conclusions and Future Work",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_153"
+  },
+  {
+    "year": "2023",
+    "month": "March 8",
+    "note": "Kloster Seeon, Germany",
+    "howpublished": "Keynote, Spring Doctorial Consortium of the Media Informatics Group, LMU Munich",
+    "title": "Creating and Studying Situated Visualizations",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_152"
+  },
+  {
+    "year": "2022",
+    "month": "October 18",
+    "note": "Singapore",
+    "howpublished": "Tutorial, International Symposium on Mixed and Augmented Reality",
+    "title": "Tutorial: RagRug, a Toolkit for Situated Analytics",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_151"
+  },
+  {
+    "year": "2022",
+    "month": "July 15",
+    "note": "Virtual event, Lisbon, Portugal",
+    "howpublished": "Keynote, International Conference on Signal Processing and Applications (SIGMOD)",
+    "title": "Advances in Virtual Reality Streaming",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_150"
+  },
+  {
+    "year": "2022",
+    "month": "September 9",
+    "note": "Vienna, Austria",
+    "howpublished": "Invited Talk, GDC Symposium, Vienna University of Technology",
+    "title": "Augmented Reality Meets Digital Twins",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_149"
+  },
+  {
+    "year": "2022",
+    "month": "June 28",
+    "note": "Bordeaux, France",
+    "howpublished": "Keynote, French Visualization Day, University of Bordeaux",
+    "title": "Opportunities and Challenges of Situated Analytics",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_148"
+  },
+  {
+    "year": "2022",
+    "month": "October 13",
+    "note": "Melbourne, Australia",
+    "howpublished": "Invited talk, Immersive Analytics Lab, Monash University",
+    "title": "Tutorial: RagRug, a Toolkit for Situated Analytics",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_147"
+  },
+  {
+    "year": "2022",
+    "month": "October 10",
+    "note": "Adelaide, Australia",
+    "howpublished": "Invited talk, University of South Australia",
+    "title": "Tutorial: RagRug, a Toolkit for Situated Analytics",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_146"
+  },
+  {
+    "year": "2022",
+    "month": "October 11",
+    "note": "Adelaide, Australia",
+    "howpublished": "",
+    "title": "Situated Analytics and Digital Twins",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_145"
+  },
+  {
+    "year": "2022",
+    "month": "July 13",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Invited talk, SimTech Cluster of Excellence",
+    "title": "Situated Analytics and Digital Twins",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_144"
+  },
+  {
+    "year": "2022",
+    "month": "March 11",
+    "note": "Virtual event, Christchurch, New Zealand",
+    "howpublished": "Invited talk at the Workshop on Open Access Tools and Libraries for Virtual Reality at IEEE Virtual Reality 2022",
+    "author": "Dieter Schmalstieg",
+    "title": "RagRug: An open source toolkit for situated visualization and analytics",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_142"
+  },
+  {
+    "year": "2022",
+    "month": "March 22",
+    "note": "Virtual event, Adelaide, Australia",
+    "howpublished": "Invited Talk at the Australian Research Centre for Interactive and Virtual Environments",
+    "author": "Dieter Schmalstieg",
+    "title": "Current research on augmented and virtual reality at TU Graz",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_143"
+  },
+  {
+    "year": "2021",
+    "month": "February 8",
+    "note": "Virtual event, Vienna, Austria",
+    "howpublished": "Keynote, VISIGRAPP 2021",
+    "author": "Dieter Schmalstieg",
+    "title": "Visualization in the real world: Confluence of visualization and augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_133"
+  },
+  {
+    "year": "2021",
+    "month": "March 12",
+    "note": "Virtual event, St. Poelten, Austria",
+    "howpublished": "Keynote, Datascope Project Workshop organized by FH St. Poelten",
+    "author": "Dieter Schmalstieg",
+    "title": "Visualization in outdoor augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_134"
+  },
+  {
+    "year": "2021",
+    "month": "October 12",
+    "note": "Virtual event, Helsinki, Finland",
+    "howpublished": "Huawei Future Device Technology Summit",
+    "author": "Dieter Schmalstieg",
+    "title": "Situated visualization in augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_137"
+  },
+  {
+    "year": "2021",
+    "month": "October 18",
+    "note": "Virtual event, Gramado, Rio Grande do Sul, Brazil",
+    "howpublished": "Keynote, Symposium on Virtual and Augmented Reality (SVR 2021)",
+    "author": "Dieter Schmalstieg",
+    "title": "Situated analytics in augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_138"
+  },
+  {
+    "year": "2021",
+    "month": "November 22",
+    "note": "Konstanz, Germany",
+    "howpublished": "Keynote, Workshop of the DFG Trans-Regional Research Program TRR161",
+    "author": "Dieter Schmalstieg",
+    "title": "Ragrug - a toolkit for situated analytics",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_139"
+  },
+  {
+    "year": "2021",
+    "month": "November 24",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Invited Talk at the Visualization Institute of the University of Stuttgart",
+    "author": "Dieter Schmalstieg",
+    "title": "From visualization to augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_140"
+  },
+  {
+    "year": "2021",
+    "month": "June 22",
+    "note": "Virtual event, Stuttgart, Germany",
+    "howpublished": "Keynote, Status Seminar of DFG Transregion Project TRR161 \"Quantitative Methods in Visual Computing\"",
+    "author": "Dieter Schmalstieg",
+    "title": "Exploring the design space for situated analytics",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_135"
+  },
+  {
+    "year": "2021",
+    "month": "July 1",
+    "note": "Virtual event, London, UK",
+    "howpublished": "Noah's Ark Online Talk Series, Huawei London",
+    "author": "Dieter Schmalstieg",
+    "title": "Challenges in mixed and augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_136"
+  },
+  {
+    "year": "2019",
+    "month": "October 21",
+    "note": "Nanchang, China",
+    "howpublished": "Keynote, 2019 World Conference on VR Industry",
+    "author": "Dieter Schmalstieg",
+    "title": "Virtual reality and visualization",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_131"
+  },
+  {
+    "year": "2019",
+    "month": "July 25",
+    "note": "San Diego, USA",
+    "howpublished": "University Relationship Lecture, Qualcomm Research Center",
+    "author": "Dieter Schmalstieg",
+    "title": "Technologies for split rendering",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_128"
+  },
+  {
+    "year": "2019",
+    "month": "August 1",
+    "note": "Los Angeles, USA",
+    "howpublished": "Talk at ACM SIGGRAPH 2019",
+    "author": "Dieter Schmalstieg",
+    "title": "Shading atlas streaming",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_129"
+  },
+  {
+    "year": "2019",
+    "month": "July 2",
+    "note": "Dagstuhl, Germany",
+    "howpublished": "Invited talk, Dagstuhl Seminar on Real VR",
+    "author": "Dieter Schmalstieg",
+    "title": "Shading atlas streaming",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_127"
+  },
+  {
+    "year": "2019",
+    "month": "October 17",
+    "note": "Beijing, China",
+    "howpublished": "Keynote, ISMAR 2019",
+    "author": "Dieter Schmalstieg",
+    "title": "A research agenda for situated visualization",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_130"
+  },
+  {
+    "year": "2019",
+    "month": "October 21",
+    "note": "Nanchang, China",
+    "howpublished": "Invited talk, 2019 World Conference on VR Industry",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality in industrial environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_132"
+  },
+  {
+    "year": "2018",
+    "month": "October 23",
+    "note": "Berlin, Germany",
+    "howpublished": "Keynote, IEEE VIS Conference",
+    "author": "Dieter Schmalstieg",
+    "title": "When visualization met augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_126"
+  },
+  {
+    "year": "2017",
+    "month": "May 31",
+    "note": "Santa Clara, CA, USA",
+    "howpublished": "Tutorial, Augmented World Expo 2017",
+    "author": "Dieter Schmalstieg, Tobias H\\\"ollerer, Mark Billinghurst",
+    "title": "Augmented reality intro class",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_123"
+  },
+  {
+    "year": "2017",
+    "month": "May 5",
+    "note": "San Diego, CA, USA",
+    "howpublished": "Invited talk, Qualcomm Research Center San Diego",
+    "author": "Dieter Schmalstieg",
+    "title": "Streaming virtual reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_120"
+  },
+  {
+    "year": "2017",
+    "month": "May 11",
+    "note": "Denver, CO, USA",
+    "howpublished": "ACM CHI Conference",
+    "author": "Dieter Schmalstieg",
+    "title": "Retargeting video tutorials showing tools with surface contact to augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_121"
+  },
+  {
+    "year": "2017",
+    "month": "May 24",
+    "note": "Faak, Austria",
+    "howpublished": "Keynote, 9th Workshop on Medical Imaginging and Visualization",
+    "author": "Dieter Schmalstieg",
+    "title": "Inverse rendering for photorealistic mixed reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_122"
+  },
+  {
+    "year": "2017",
+    "month": "September 15",
+    "note": "San Diego, CA, USA",
+    "howpublished": "Invited talk, Qualcomm Engineering Lecture Series",
+    "author": "Dieter Schmalstieg",
+    "title": "The future of virtual and augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_124"
+  },
+  {
+    "year": "2017",
+    "month": "November 16",
+    "note": "San Diego, CA, USA",
+    "howpublished": "Invited talk, PTC Engineering Talks Series",
+    "author": "Dieter Schmalstieg",
+    "title": "Applications of inverse rendering for augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_125"
+  },
+  {
+    "year": "2016",
+    "month": "September 22",
+    "note": "Merida, Mexico",
+    "howpublished": "ISMAR 2016 Tutorial",
+    "author": "Dieter Schmalstieg, Tobias H\\\"ollerer",
+    "title": "Augmented reality - principles and practice",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_117"
+  },
+  {
+    "year": "2016",
+    "month": "July 24",
+    "note": "Anaheim, CA, USA",
+    "howpublished": "SIGGRAPH 2016 Course",
+    "author": "Dieter Schmalstieg, Tobias H\\\"ollerer",
+    "title": "Augmented reality - principles and practice",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_114"
+  },
+  {
+    "year": "2016",
+    "month": "February 27",
+    "note": "Rome, Italy",
+    "howpublished": "Opening Panel of VISIGRAPP 2016",
+    "author": "Dieter Schmalstieg",
+    "title": "Visual computing: What can we do and what not (yet)?",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_106"
+  },
+  {
+    "year": "2016",
+    "month": "February 27",
+    "note": "Rome, Italy",
+    "howpublished": "Keynote address, VISIGRAPP 2016",
+    "author": "Dieter Schmalstieg",
+    "title": "Trends and challenges of augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_107"
+  },
+  {
+    "year": "2016",
+    "month": "November 15",
+    "note": "Shonan, Japan",
+    "howpublished": "NII Shonan Meeting on Perception in Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "Ten things that excite me (about augmented reality)",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_119"
+  },
+  {
+    "year": "2016",
+    "month": "June 6",
+    "note": "Dagstuhl, Germany",
+    "howpublished": "Invited talk, Dagstuhl Seminar on Immersive Analytics",
+    "author": "Dieter Schmalstieg",
+    "title": "Situated visualization in augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_111"
+  },
+  {
+    "year": "2016",
+    "month": "October 19",
+    "note": "Berlin, Germany",
+    "howpublished": "Augmented World Expo Europe",
+    "author": "Dieter Schmalstieg",
+    "title": "Ismar 2016 research review",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_118"
+  },
+  {
+    "year": "2016",
+    "month": "September 19",
+    "note": "Merida, Mexico",
+    "howpublished": "ISMAR 2016",
+    "author": "Dieter Schmalstieg",
+    "title": "Instant mixed reality lighting from casual scanning",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_116"
+  },
+  {
+    "year": "2016",
+    "month": "June 8",
+    "note": "Dagstuhl, Germany",
+    "howpublished": "Dagstuhl Seminar on Immersive Analytics",
+    "author": "Dieter Schmalstieg",
+    "title": "Collaborative seamless desktop",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_112"
+  },
+  {
+    "year": "2016",
+    "month": "March 20",
+    "note": "Greenville, SC, USA",
+    "howpublished": "IEEE Virtual Reality Workshop on Immersive Analytics",
+    "author": "Dieter Schmalstieg",
+    "title": "Collaborative distributed cognition using a seamless desktop infrastructure",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_108"
+  },
+  {
+    "year": "2016",
+    "month": "September 18",
+    "note": "Merida, Mexico",
+    "howpublished": "ISMAR 2016 Tutorial AR101",
+    "author": "Dieter Schmalstieg",
+    "title": "Coherent rendering",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_115"
+  },
+  {
+    "year": "2016",
+    "month": "June 10",
+    "note": "Dagstuhl, Germany",
+    "howpublished": "Invited talk, Max Planck Institute of Informatics, Saarbr\\\"ucken, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "Authoring and visualization technologies for augmented reality experiences",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_113"
+  },
+  {
+    "year": "2016",
+    "month": "May 12",
+    "note": "Klagenfurt, Austria",
+    "howpublished": "Keynote address, ACM Multimedia Systems 2016",
+    "author": "Dieter Schmalstieg",
+    "title": "Advances and trends in augmented reality systems",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_110"
+  },
+  {
+    "year": "2016",
+    "month": "March 22",
+    "note": "Greenville, SC, USA",
+    "howpublished": "IEEE Virtual Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "Adaptive information density for augmented reality displays",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_109"
+  },
+  {
+    "year": "2015",
+    "month": "March 27",
+    "note": "Arles, France",
+    "howpublished": "IEEE Virtual 2015",
+    "author": "Dieter Schmalstieg",
+    "title": "Image-space illumination for augmented reality in dynamic environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_100"
+  },
+  {
+    "year": "2015",
+    "month": "February 25",
+    "note": "Graz, Austria",
+    "howpublished": "Invited talk, AVL Research Networking Day 2015",
+    "author": "Dieter Schmalstieg",
+    "title": "Illustrated instructions with augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_99"
+  },
+  {
+    "year": "2015",
+    "month": "September 29",
+    "note": "Fukuoka, Japan",
+    "howpublished": "Tutorial at IEEE ISMAR 2015",
+    "author": "Dieter Schmalstieg",
+    "title": "Global-scale localization in outdoor environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_103"
+  },
+  {
+    "year": "2015",
+    "month": "August 9",
+    "note": "Los Angeles, USA",
+    "howpublished": "ACM SIGGRAPH 2015",
+    "author": "Dieter Schmalstieg",
+    "title": "Contour - data-driven exploration of multi-relational datasets for drug discovery",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_102"
+  },
+  {
+    "year": "2015",
+    "month": "December 10",
+    "note": "Padova, Italy",
+    "howpublished": "Invited talk, Augmented Reality for Urban Cultural Heritage, closure event of the CultAR project",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality in cultar and trends for future exploitation",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_105"
+  },
+  {
+    "year": "2015",
+    "month": "October 15",
+    "note": "Vienna University of Technology, Austria",
+    "howpublished": "Invited talk, Austrian Computer Science Day",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality from visual computing",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_104"
+  },
+  {
+    "year": "2015",
+    "month": "July 8",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Keynote, Kick-Off Symposium of the DFG Trans-Regional Research Program TRR161",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality als zusammenspiel von graphik, vision und interaktion",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_101"
+  },
+  {
+    "year": "2014",
+    "month": "June 24",
+    "note": "Rostock, Germany",
+    "howpublished": "Invited talk, University of Rostock",
+    "author": "Dieter Schmalstieg",
+    "title": "Using gpgpu for graphics",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_95"
+  },
+  {
+    "year": "2014",
+    "month": "October 21",
+    "note": "Aachen, Germany",
+    "howpublished": "Keynote, UMIC Day, RWTH Aachen",
+    "author": "Dieter Schmalstieg",
+    "title": "Situated visualization with augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_97"
+  },
+  {
+    "year": "2014",
+    "month": "November 24",
+    "note": "Zurich, Switzerland",
+    "howpublished": "Invited talk, ETH Zurich",
+    "author": "Dieter Schmalstieg",
+    "title": "Outdoor augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_98"
+  },
+  {
+    "year": "2014",
+    "month": "September 11",
+    "note": "Munich, Germany",
+    "howpublished": "Panel, IEEE International Symposium on Mixed and Augmented Reality 2014",
+    "author": "Dieter Schmalstieg",
+    "title": "Have we solved the user interface problem for augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_96"
+  },
+  {
+    "year": "2013",
+    "month": "June 13",
+    "note": "Dagstuhl, Germany",
+    "howpublished": "Invited Talk, Dagstuhl Seminar on Virtual Realities",
+    "author": "Dieter Schmalstieg",
+    "title": "Visualization design for augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_91"
+  },
+  {
+    "year": "2013",
+    "month": "October 21",
+    "note": "Graz, Austria",
+    "howpublished": "Workshop Daten-Zukunft 2020, Joanneum Research",
+    "author": "Dieter Schmalstieg",
+    "title": "Personal intelligence with augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_93"
+  },
+  {
+    "year": "2013",
+    "month": "October 18",
+    "note": "Atlanta, GA, USA",
+    "howpublished": "IEEE Scientific Visualization",
+    "author": "Dieter Schmalstieg",
+    "title": "Noise-based volume rendering for the visualization of multivariate volumetric data",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_92"
+  },
+  {
+    "year": "2013",
+    "month": "April 24",
+    "note": "Plauer See, Germany",
+    "howpublished": "Invited Talk, Workshop on Emerging Topics in Visual Computing and Computer Graphics",
+    "author": "Dieter Schmalstieg",
+    "title": "Multi-user multi-display visualization",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_90"
+  },
+  {
+    "year": "2013",
+    "month": "April 15",
+    "note": "KAUST, Thuwal, Saudi Arabia",
+    "howpublished": "Invited Talk, KAUST Visualization Summit",
+    "author": "Dieter Schmalstieg",
+    "title": "Managed gpu processing",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_89"
+  },
+  {
+    "year": "2013",
+    "month": "November 6",
+    "note": "Graz, Austria",
+    "howpublished": "Austrian Small World User Group (OeSWUG) 2013",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality for gis",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_94"
+  },
+  {
+    "year": "2012",
+    "month": "March 4",
+    "note": "Orange County, CA, USA",
+    "howpublished": "Tutorial at IEEE Virtual Reality 2012",
+    "author": "Dieter Schmalstieg",
+    "title": "Trends in mobile augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_84"
+  },
+  {
+    "year": "2012",
+    "month": "March 7",
+    "note": "Orange County, CA, USA",
+    "howpublished": "Panel at IEEE Virtual Reality 2012",
+    "author": "Dieter Schmalstieg",
+    "title": "Systems engineering science: Obsolete or essential?",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_85"
+  },
+  {
+    "year": "2012",
+    "month": "July 18",
+    "note": "Rethymnon, Greece",
+    "howpublished": "International Symposium on Visual Computing (ISVC) 2012",
+    "author": "Dieter Schmalstieg",
+    "title": "Frame cache management for multi-frame rate systems",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_86"
+  },
+  {
+    "year": "2012",
+    "month": "December 4",
+    "note": "Ulm, Germany",
+    "howpublished": "Keynote, Conference on Mobile and Ubiquitous Multimedia (MUM) 2012",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality technology for smartphones",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_88"
+  },
+  {
+    "year": "2012",
+    "month": "November 14",
+    "note": "Darmstadt, Germany",
+    "howpublished": "Invited talk, 25 Years Fraunhofer IGD Symposium",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality meets mobile computing",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_87"
+  },
+  {
+    "year": "2011",
+    "month": "May 23",
+    "note": "Munich, Germany",
+    "howpublished": "Invited Talk, Technische Universitaet Muenchen",
+    "author": "Dieter Schmalstieg",
+    "title": "Truly mobile augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_81"
+  },
+  {
+    "year": "2011",
+    "month": "December 7",
+    "note": "Linz, Austria",
+    "howpublished": "Invited talk, Johannes Kepler University Linz",
+    "author": "Dieter Schmalstieg",
+    "title": "Smartphone augmented reality: Towards mass-market augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_83"
+  },
+  {
+    "year": "2011",
+    "month": "October 26",
+    "note": "Basel, Switzerland",
+    "howpublished": "Tutorial talk, IEEE International Symposium on Mixed and Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "Overview of mobile augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_82"
+  },
+  {
+    "year": "2010",
+    "month": "March 9",
+    "note": "Rostock, Germany",
+    "howpublished": "Invited Talk, University of Rostock, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "A room full of information",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_80"
+  },
+  {
+    "year": "2010",
+    "month": "February 18",
+    "note": "Innsbruck, Austria",
+    "howpublished": "Keynote address, IASTED International Conference on Computer Graphics and Imaging (CGIM 2010)",
+    "author": "Dieter Schmalstieg",
+    "title": "The future of augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_79"
+  },
+  {
+    "year": "2009",
+    "month": "October 19",
+    "note": "Orlando FL, USA",
+    "howpublished": "Workshop on Social Augmented Reality, IEEE International Symposium on Mixed and Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "In-situ content creation for mobile augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_77"
+  },
+  {
+    "year": "2009",
+    "month": "October 10",
+    "note": "San Diego CA, USA",
+    "howpublished": "Invited talk, Qualcomm Research Center",
+    "author": "Dieter Schmalstieg",
+    "title": "A framework for augmented reality on mobile phones",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_76"
+  },
+  {
+    "year": "2009",
+    "month": "February 9",
+    "note": "Magdeburg, Germany",
+    "howpublished": "Invited talk, University of Magdeburg",
+    "author": "Dieter Schmalstieg",
+    "title": "Effective visual communication in augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_75"
+  },
+  {
+    "year": "2009",
+    "month": "October 19",
+    "note": "Orlando, FL, USA",
+    "howpublished": "IEEE International Symposium on Mixed and Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "Detection and tracking of multiple targets with guaranteed frame rates on mobile phones",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_78"
+  },
+  {
+    "year": "2008",
+    "month": "December 18",
+    "note": "Vienna, Austria",
+    "howpublished": "Invited talk, VisForum, VRVis Research Center",
+    "author": "Dieter Schmalstieg",
+    "title": "Visualization techniques for augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_74"
+  },
+  {
+    "year": "2008",
+    "month": "January 18",
+    "note": "Tuebingen, Germany",
+    "howpublished": "Invited talk, WSI/GRIS, University of Tuebingen",
+    "author": "Dieter Schmalstieg",
+    "title": "Scalable augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_69"
+  },
+  {
+    "year": "2008",
+    "month": "March 9",
+    "note": "Reno, NV, USA",
+    "howpublished": "IEEE Virtual Reality 2008 - Workshop on Software Engineering and Architecturesfor Realtime Interactive Systems",
+    "author": "Dieter Schmalstieg",
+    "title": "Making augmented reality practical on mobile phones",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_71"
+  },
+  {
+    "year": "2008",
+    "month": "January 24",
+    "note": "Linz, Austria",
+    "howpublished": "Invited talk, Johannes Keppler University Linz",
+    "author": "Dieter Schmalstieg",
+    "title": "Interactive visualization and augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_70"
+  },
+  {
+    "year": "2008",
+    "month": "June 23",
+    "note": "Munich, Germany",
+    "howpublished": "Invited talk, Vodafone R \\& D Lab",
+    "author": "Dieter Schmalstieg",
+    "title": "Handheld augmented reality on mobile phones",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_73"
+  },
+  {
+    "year": "2008",
+    "month": "June 4",
+    "note": "Dagstuhl, Germany",
+    "howpublished": "Dagstuhl Seminar on Virtual Realities",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality 2.0",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_72"
+  },
+  {
+    "year": "2007",
+    "month": "November 14",
+    "note": "Nara, Japan",
+    "howpublished": "Keynote address, 6th IEEE International Symposium on Mixed and Augmented Reality (ISMAR'07)",
+    "author": "Dieter Schmalstieg",
+    "title": "Upscaling and downscaling augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_68"
+  },
+  {
+    "year": "2007",
+    "month": "March 11",
+    "note": "Charlotte, NC, USA",
+    "howpublished": "IEEE Virtual Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "Tracking for distributed mixed reality environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_62"
+  },
+  {
+    "year": "2007",
+    "month": "June 7",
+    "note": "Orlando FL, USA",
+    "howpublished": "Microsoft TechEd 2007",
+    "author": "Dieter Schmalstieg",
+    "title": "The making of signpost2007",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_66"
+  },
+  {
+    "year": "2007",
+    "month": "May 30",
+    "note": "Scuola Superiore Anna, Pisa, Italy",
+    "howpublished": "Meeting of the FP6 Presence Projects",
+    "author": "Dieter Schmalstieg",
+    "title": "Interaction and presence in urban environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_65"
+  },
+  {
+    "year": "2007",
+    "month": "September 10",
+    "note": "Dagstuhl, Germany",
+    "howpublished": "Seminar on \"Mobile Interfaces Meet Cognitive Technologies\"",
+    "author": "Dieter Schmalstieg",
+    "title": "From mobile augmented reality to ubiquitous augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_67"
+  },
+  {
+    "year": "2007",
+    "month": "May 25",
+    "note": "Medical University of Graz, Austria",
+    "howpublished": "Workshop on Systems Biology and Visualisation of Complex Medical and Biological Data",
+    "author": "Dieter Schmalstieg",
+    "title": "Current medical visualization research",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_64"
+  },
+  {
+    "year": "2007",
+    "month": "March 12",
+    "note": "Charlotte, NC, USA",
+    "howpublished": "IEEE Virtual Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality scouting for interactive 3d reconstruction",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_63"
+  },
+  {
+    "year": "2006",
+    "month": "July 17",
+    "note": "Santa Cesarea Terme, Italy",
+    "howpublished": "ARIS*ER Network Summer School",
+    "author": "Dieter Schmalstieg",
+    "title": "Recent advanced in augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_60"
+  },
+  {
+    "year": "2006",
+    "month": "March 25",
+    "note": "Alexandria, VA, USA",
+    "howpublished": "IEEE Symposium on 3D User Interfaces",
+    "author": "Dieter Schmalstieg",
+    "title": "A hybrid user interface for manipulation of volumetric medical data",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_57"
+  },
+  {
+    "year": "2006",
+    "month": "March 26",
+    "note": "Alexandria, VA, USA",
+    "howpublished": "IEEE Virtual Reality - Emerging Display Technology Workshop",
+    "author": "Dieter Schmalstieg",
+    "title": "Handheld augmented reality displays",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_58"
+  },
+  {
+    "year": "2006",
+    "month": "March 27",
+    "note": "Alexandria, VA, USA",
+    "howpublished": "IEEE Virtual Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "Designing immersive virtual reality for geometry education",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_59"
+  },
+  {
+    "year": "2006",
+    "month": "July 28",
+    "note": "Technische Universitaet Muenchen, Germany",
+    "howpublished": "Invited talk, Technische Universitaet Muenchen",
+    "author": "Dieter Schmalstieg",
+    "title": "Context driven visualization for augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_61"
+  },
+  {
+    "year": "2005",
+    "month": "June 10",
+    "note": "Prague, Czech Republic",
+    "howpublished": "Keynote talk, Central European Conference on Multimedia and Virtual Reality 2005 (CEMVRC05)",
+    "author": "Dieter Schmalstieg",
+    "title": "Problems of scale in augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_54"
+  },
+  {
+    "year": "2005",
+    "month": "November 30",
+    "note": "Vienna, Austria",
+    "howpublished": "Invited talk at the 3rd Symposium on Location Based Services and TeleCartography",
+    "author": "Dieter Schmalstieg",
+    "title": "Location based services with augmented reality and ubiquitous computing",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_56"
+  },
+  {
+    "year": "2005",
+    "month": "June 11",
+    "note": "Vienna, Austria",
+    "howpublished": "START/Wittgenstein Symposium of the Austrian Science Fund",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality for pervasive computing",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_55"
+  },
+  {
+    "year": "2005",
+    "month": "April 15",
+    "note": "Ludwig Maximilians-Universitaet Muenchen, Germany",
+    "howpublished": "Guest lecture at Ludwig Maximilians-Universitaet Muenchen, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality als real world-benutzerschnittstelle",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_53"
+  },
+  {
+    "year": "2004",
+    "month": "January 16",
+    "note": "Technische Universitaet Graz, Austria",
+    "howpublished": "Invited talk, Technische Universitaet Graz, Austria",
+    "author": "Dieter Schmalstieg",
+    "title": "Mobile augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_48"
+  },
+  {
+    "year": "2004",
+    "month": "June 3",
+    "note": "Fachhochschule Hagenberg, Austria",
+    "howpublished": "Invited talk, Fachhochschule Hagenberg, Austria",
+    "author": "Dieter Schmalstieg",
+    "title": "Mobile anwendungen von augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_50"
+  },
+  {
+    "year": "2004",
+    "month": "August 10",
+    "note": "Los Angeles CA, USA",
+    "howpublished": "SIGGRAPH 2004 Course no. 25 Developing Augmented Reality Applications",
+    "author": "Dieter Schmalstieg",
+    "title": "Distributed, collaborative and mobile augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_51"
+  },
+  {
+    "year": "2004",
+    "month": "October 20",
+    "note": "Fraunhofer IGD, Darmstadt, Germany",
+    "howpublished": "Invited talk at the Mobile Computing Kongress 2004",
+    "author": "Dieter Schmalstieg",
+    "title": "Die welt als interface",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_52"
+  },
+  {
+    "year": "2004",
+    "month": "June 2",
+    "note": "Medizin-Universitaet Graz, Austria",
+    "howpublished": "Invited talk, Medizin-Universitaet Graz, Austria",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality: Technologie und anwendungen in der medizin",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_49"
+  },
+  {
+    "year": "2003",
+    "month": "March 25",
+    "note": "Los Angeles, USA",
+    "howpublished": "Panel talk, IEEE Virtual Reality 2003",
+    "author": "Dieter Schmalstieg",
+    "title": "Mixed reality: The continuum from virtual to augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_44"
+  },
+  {
+    "year": "2003",
+    "month": "July 22",
+    "note": "Technische Universitaet Muenchen, Germany",
+    "howpublished": "Invited talk, Technische Universitaet Muenchen, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "A graphical tuplespace",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_46"
+  },
+  {
+    "year": "2003",
+    "month": "June 25",
+    "note": "University of Salzburg, Austria",
+    "howpublished": "Invited talk, University of Salzburg, Austria",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality for computer supported learning",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_45"
+  },
+  {
+    "year": "2003",
+    "month": "October 21",
+    "note": "Technische Universitaet Graz, Austria",
+    "howpublished": "Invited talk, Technische Universitaet Graz, Austria",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented and ubiquitous environments with studierstube",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_47"
+  },
+  {
+    "year": "2002",
+    "month": "April 10",
+    "note": "Technische Universitaet Dresden, Germany",
+    "howpublished": "Invited talk at the Technische Universitaet Dresden, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "Virtuelle arbeitsumgebungen durch augmented reality und pervasive computing",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_39"
+  },
+  {
+    "year": "2002",
+    "month": "March 21",
+    "note": "Cambridge, MA, USA",
+    "howpublished": "Invited talk at the Mitsubishi Electronic Research Center",
+    "author": "Dieter Schmalstieg",
+    "title": "Studierstube: Spontaneous collaborative augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_36"
+  },
+  {
+    "year": "2002",
+    "month": "March 26",
+    "note": "Orlando, Florida, USA",
+    "howpublished": "IEEE Virtual Reality 2002",
+    "author": "Dieter Schmalstieg",
+    "title": "Distributed applications for collaborative augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_38"
+  },
+  {
+    "year": "2002",
+    "month": "March 25",
+    "note": "Orlando, Florida, USA",
+    "howpublished": "Tutorial at IEEE Virtual Reality 2002",
+    "author": "Dieter Schmalstieg",
+    "title": "Developing augmented reality applications",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_37"
+  },
+  {
+    "year": "2002",
+    "month": "July 4",
+    "note": "ETH Zurich, Switzerland",
+    "howpublished": "Invited talk at the Symposium on Information Science and Engineering",
+    "author": "Dieter Schmalstieg",
+    "title": "Collaborative and mobile 3d workspaces",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_41"
+  },
+  {
+    "year": "2002",
+    "month": "June 25",
+    "note": "Podersdorf, Austria",
+    "howpublished": "GeoPo 2002 Workshop on Location Based Services and Mobile Navigation",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality as a user interface for mobile computing",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_40"
+  },
+  {
+    "year": "2002",
+    "month": "September 19",
+    "note": "Rikshospitalet Oslo, Norway",
+    "howpublished": "Invited talk at the EU funded Workshop on Augmented Reality for Image Guided Surgery",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality and visualization",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_42"
+  },
+  {
+    "year": "2002",
+    "month": "September 29",
+    "note": "Darmstadt, Germany",
+    "howpublished": "Panel talk at the IEEE ART02 Workshop",
+    "author": "Dieter Schmalstieg",
+    "title": "Artoolkit expert panel",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_43"
+  },
+  {
+    "year": "2001",
+    "month": "April 24",
+    "note": "University of Kiel, Germany",
+    "howpublished": "Invited talk at Christian Albrechts University of Kiel, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "Web-basierte interaktive 3d-benutzerschnittstellen",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_28"
+  },
+  {
+    "year": "2001",
+    "month": "July 24",
+    "note": "University of Koblenz-Landau, Germany",
+    "howpublished": "Invited talk at the University of Koblenz-Landau, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "User interface management fuer augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_33"
+  },
+  {
+    "year": "2001",
+    "month": "June 18",
+    "note": "Vienna University of Technology, Austria",
+    "howpublished": "Invited talk (Habilitationskolloquium) at Vienna University of Technology, Austria",
+    "author": "Dieter Schmalstieg",
+    "title": "Three-dimensional collaborative user interface technology",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_31"
+  },
+  {
+    "year": "2001",
+    "month": "October 7",
+    "note": "Zurich, Switzerland",
+    "howpublished": "Tutorial at the 5th International Symposium on Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "title": "An introduction to augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_35"
+  },
+  {
+    "year": "2001",
+    "month": "August 13",
+    "note": "Los Angeles, California, USA",
+    "howpublished": "SIGGRAPH 2001 Course no. 27: Augmented Reality: The Interface is Everywhere",
+    "author": "Dieter Schmalstieg",
+    "title": "Heterogeneous augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_34"
+  },
+  {
+    "year": "2001",
+    "month": "May 16",
+    "note": "Ludwig-Maximilians-Universitaet, Munich, Germany",
+    "howpublished": "Invited talk at Ludwig-Maximilians-Universitaet, Munich, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "Erweiterte realitaet fuer kollaborative benutzerschnittstellen",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_30"
+  },
+  {
+    "year": "2001",
+    "month": "June 29",
+    "note": "Technische Universitaet Muenchen, Munich, Germany",
+    "howpublished": "Invited talk at Technische Universitaet Muenchen",
+    "author": "Dieter Schmalstieg",
+    "title": "Dreidimensionale kollaborative benutzerschnittstellen",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_32"
+  },
+  {
+    "year": "2001",
+    "month": "April 24",
+    "note": "University of Kiel, Germany",
+    "howpublished": "Invited talk at Christian Albrechts University of Kiel, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality user interfaces",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_29"
+  },
+  {
+    "year": "2000",
+    "month": "August 3",
+    "note": "Columbia University, New York, NY, USA",
+    "howpublished": "Invited talk at the Computer Graphics and User Interfaces Group at Columbia University, New York, NY, USA",
+    "author": "Dieter Schmalstieg",
+    "title": "Studierstube: User interfaces for collaborative augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_23"
+  },
+  {
+    "year": "2000",
+    "month": "March 15",
+    "note": "Providence, RI, USA",
+    "howpublished": "Tutorial given at the Fraunhofer Center for Research in Computer Graphics",
+    "author": "Dieter Schmalstieg",
+    "title": "Software development for the studierstube framework",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_22"
+  },
+  {
+    "year": "2000",
+    "month": "August 11",
+    "note": "University of Washington, Seattle, WA, USA",
+    "howpublished": "Invited talk at the Human Interface Technologies Laboratory of the University of Washington, Seattle, WA, USA",
+    "author": "Dieter Schmalstieg",
+    "title": "Building collaborative user interfaces with augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_24"
+  },
+  {
+    "year": "2000",
+    "month": "October 5",
+    "note": "Munich, Germany",
+    "howpublished": "ACM and IEEE Symsposium on Augmented Reality (ISAR 2000)",
+    "author": "Dieter Schmalstieg",
+    "title": "Bridging multiple user interface dimensions with augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_25"
+  },
+  {
+    "year": "2000",
+    "month": "December 7",
+    "note": "Ulm, Germany",
+    "howpublished": "Invited talk at the DaimlerChrysler Virtual Reality Competence Center",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented reality mit der studierstube",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_27"
+  },
+  {
+    "year": "2000",
+    "month": "December 6",
+    "note": "University of Ulm, Germany",
+    "howpublished": "Invited talk at the University of Ulm, Germany",
+    "author": "Dieter Schmalstieg",
+    "title": "3d-benutzerschnittstellen in der studierstube",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_26"
+  },
+  {
+    "year": "1999",
+    "month": "April 26",
+    "note": "Atlanta, Georgia, USA",
+    "howpublished": "SIGGRAPH Symposium on Interactive 3D Graphics",
+    "author": "Dieter Schmalstieg",
+    "title": "Using transparent props for interaction with the virtual table",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_18"
+  },
+  {
+    "year": "1999",
+    "month": "December 16",
+    "note": "Fraunhofer Institut fuer graphische Datenverarbeitung, Darmstadt, Germany",
+    "howpublished": "Invited talk at the 5th Virtual Table Workshop",
+    "author": "Dieter Schmalstieg",
+    "title": "Studierstube - augmented reality for everyone",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_20"
+  },
+  {
+    "year": "1999",
+    "month": "December 22",
+    "note": "University College London, London, UK",
+    "howpublished": "ACM Symposium on Virtual Reality Software and Technology (VRST'99)",
+    "author": "Dieter Schmalstieg",
+    "title": "Simple user-centered head-mounted display calibration for augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_21"
+  },
+  {
+    "year": "1999",
+    "month": "April 19",
+    "note": "University of Tuebingen, Germany",
+    "howpublished": "Invited talk at WSI/GRIS",
+    "author": "Dieter Schmalstieg",
+    "title": "Collaborative augmented reality in studierstube",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_17"
+  },
+  {
+    "year": "1999",
+    "month": "July 30",
+    "note": "London, UK",
+    "howpublished": "Invited talk at University College London, UK",
+    "author": "Dieter Schmalstieg",
+    "title": "Augmented virtual reality using transparent props",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_19"
+  },
+  {
+    "year": "1998",
+    "month": "December 9",
+    "note": "Fraunhofer Institut fuer graphische Datenverarbeitung, Darmstadt, Germany",
+    "howpublished": "Fraunhofer Institut fuer graphische Datenverarbeitung",
+    "author": "Dieter Schmalstieg",
+    "title": "The studierstube augmented reality project",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_16"
+  },
+  {
+    "year": "1998",
+    "month": "August 13",
+    "note": "Providence, RI, USA",
+    "howpublished": "Tutorial given at the Fraunhofer Center for Research in Computer Graphics",
+    "author": "Dieter Schmalstieg",
+    "title": "An introduction to virtual reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_14"
+  },
+  {
+    "year": "1998",
+    "month": "September 21",
+    "note": "Providence, RI, USA",
+    "howpublished": "Invited talk at the Fraunhofer Center for Research in Computer Graphics",
+    "author": "Dieter Schmalstieg",
+    "title": "A comparative evaluation of augmented work environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_15"
+  },
+  {
+    "year": "1997",
+    "month": "March 3",
+    "note": "Albuquerque NM, USA",
+    "howpublished": "IEEE Virtual Reality Annual International Symposium (VRAIS'97)",
+    "author": "Dieter Schmalstieg",
+    "title": "Smooth levels of detail",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_10"
+  },
+  {
+    "year": "1997",
+    "month": "November 13",
+    "note": "Johannes Kepler University of Linz, Austria",
+    "howpublished": "Invited talk at the Johannes Kepler University of Linz, Austria",
+    "author": "Dieter Schmalstieg",
+    "title": "Sewing worlds together with seams: Ein mechanismus zur verbindung virtueller welten",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_13"
+  },
+  {
+    "year": "1997",
+    "month": "August 19",
+    "note": "University of Bristol, UK",
+    "howpublished": "Invited talk at the University of Bristol, UK",
+    "author": "Dieter Schmalstieg",
+    "title": "The remote rendering pipeline",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_11"
+  },
+  {
+    "year": "1997",
+    "month": "September 17",
+    "note": "Lausanne, Switzerland",
+    "howpublished": "ACM Virtual Reality Software and Technology (VRST'97)",
+    "author": "Dieter Schmalstieg",
+    "title": "Modeling and rendering of outdoor scenes for distributed virtual reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_12"
+  },
+  {
+    "year": "1997",
+    "month": "February 26",
+    "note": "Monterey CA, USA",
+    "howpublished": "SIGGRAPH Symposium on Virtual Reality Modeling Language (VRML'97)",
+    "author": "Dieter Schmalstieg",
+    "title": "Lodestar - an octree-based level of detail generator for vrml",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_9"
+  },
+  {
+    "year": "1997",
+    "month": "January 9",
+    "note": "Maui, Hawaii, USA",
+    "howpublished": "30th Hawaiian International Conference on System Sciences",
+    "author": "Dieter Schmalstieg",
+    "title": "Incremental encoding of polygonal models",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_8"
+  },
+  {
+    "year": "1996",
+    "month": "September 19",
+    "note": "Nottingham, UK",
+    "howpublished": "Collaborative Virtual Environments (CVE'96)",
+    "author": "Dieter Schmalstieg",
+    "title": "Studierstube - an environment for collaboration in augmented reality",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_7"
+  },
+  {
+    "year": "1996",
+    "month": "February 5",
+    "note": "Monte Carlo, Monaco",
+    "howpublished": "3rd Eurographics Workshop on Virtual Environments",
+    "author": "Dieter Schmalstieg",
+    "title": "Optimizing communication in distributed virtual environments by specialized protocols",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_4"
+  },
+  {
+    "year": "1996",
+    "month": "April 11",
+    "note": "Vienna, Austria",
+    "howpublished": "13th International Meeting on Cybernetics and Systems Research",
+    "author": "Dieter Schmalstieg",
+    "title": "Implementing gibsonian virtual environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_5"
+  },
+  {
+    "year": "1996",
+    "month": "August 30",
+    "note": "Poitier, France",
+    "howpublished": "EUROGRAPHICS'96",
+    "author": "Dieter Schmalstieg",
+    "title": "Demand-driven geometry transmission for distributed virtual environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_6"
+  },
+  {
+    "year": "1995",
+    "month": "November 27",
+    "note": "Bonn, Germany",
+    "howpublished": "GI 4.1.1 Workshop on Modeling - Virtual Worlds - Distributed Graphics",
+    "author": "Dieter Schmalstieg",
+    "title": "Towards a virtual environment for interactive world building",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_3"
+  },
+  {
+    "year": "1995",
+    "month": "May 30",
+    "note": "Bratislava, Slovakia",
+    "howpublished": "11th Spring Conference on Computer Graphics",
+    "author": "Dieter Schmalstieg",
+    "title": "On system architectures for virtual environments",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_2"
+  },
+  {
+    "year": "1994",
+    "month": "May 30",
+    "note": "Karlava University of Prague, Czech Republic",
+    "howpublished": "Invited talk, Karlava University of Prague",
+    "author": "Dieter Schmalstieg",
+    "title": "Storyboard - a programming language for computer animation",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_1"
+  }
+]

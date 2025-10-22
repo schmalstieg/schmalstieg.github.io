@@ -1,0 +1,380 @@
+[
+  {
+    "month": "November",
+    "year": "2024",
+    "howpublished": "US patent US20230101978A1",
+    "title": "Meshlet shading atlas",
+    "author": "Thomas Neff, Joerg Mueller, Markus Steinberger, Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "US12136166B2"
+  },
+  {
+    "year": "2024",
+    "month": "October",
+    "howpublished": "Patent US12106688B1",
+    "title": "Adjustable light field for extended reality",
+    "author": "Christoph Ebner, Alexander Plopski, Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "US12106688B1"
+  },
+  {
+    "year": "2024",
+    "month": "June",
+    "howpublished": "Patent US20220058872A1",
+    "title": "Compressed geometry rendering and streaming",
+    "author": "Dieter Schmalstieg, Markus Steinberger, Daniel Mlakar",
+    "ENTRYTYPE": "misc",
+    "ID": "US20220058872A1"
+  },
+  {
+    "year": "2024",
+    "month": "January",
+    "howpublished": "Patent US11875452B2",
+    "title": "Billboard layers in object-space rendering",
+    "author": "Dieter Schmalstieg, Markus Steinberger, Wolfgang Tatzgern",
+    "ENTRYTYPE": "misc",
+    "ID": "US11875452B2"
+  },
+  {
+    "year": "2022",
+    "month": "May",
+    "howpublished": "Patent US11380047B2",
+    "title": "Methods and apparatus for order-independent occlusion computations",
+    "author": "Philip Voglreiter, Dieter Schmalstieg, Markus Steinberger",
+    "ENTRYTYPE": "misc",
+    "ID": "US11380047B2"
+  },
+  {
+    "year": "2021",
+    "month": "September",
+    "howpublished": "Patent US11132831B1",
+    "title": "Methods and apparatus for efficient multi-view rasterization",
+    "author": "Dieter Schmalstieg, Bernhard Kerbl, Philip Voglreiter",
+    "ENTRYTYPE": "misc",
+    "ID": "US11132831B1"
+  },
+  {
+    "year": "2021",
+    "month": "April",
+    "howpublished": "Patent US11622113B2",
+    "title": "Image-space function transmission",
+    "author": "Dieter Schmalstieg, Pascal Stadlbauer, Markus Steinberger",
+    "ENTRYTYPE": "misc",
+    "ID": "US11622113B2"
+  },
+  {
+    "year": "2020",
+    "month": "December",
+    "howpublished": "Patent US-10867431-B2",
+    "title": "Methods and apparatus for improving subpixel visibility",
+    "author": "Mark Dokter, Dieter Schmalstieg, Markus Steinberger",
+    "ENTRYTYPE": "misc",
+    "ID": "US10867431B2"
+  },
+  {
+    "year": "2020",
+    "month": "April",
+    "howpublished": "Patent US11321905B2",
+    "title": "Error concealment in split rendering",
+    "author": "Mina Ayman Saleh Yanni Makar, Soumyajit Bijankumar Deb, Bojan Vrcelj, Arjun Sitaram, Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "US11321905B2"
+  },
+  {
+    "year": "2019",
+    "month": "September",
+    "howpublished": "Patent US-10403032-B2",
+    "title": "Rendering an image from computer graphics using two rendering computing devices",
+    "author": "Dieter Schmalstieg, Gerhard Reitmayr, Serafin Diaz Spindola",
+    "ENTRYTYPE": "misc",
+    "ID": "US10403032B2"
+  },
+  {
+    "year": "2018",
+    "month": "April",
+    "howpublished": "Patent US10796458B2",
+    "title": "Compression of point clouds via a novel hybrid coder",
+    "author": "Vinay Melkote Krishnaprasad, Ajit Venkat Rao, Bojan Vrcelj, Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "US10796458B2"
+  },
+  {
+    "year": "2017",
+    "month": "April",
+    "howpublished": "Patent US-9635251-B2",
+    "title": "Visual tracking using panoramas on mobile devices",
+    "author": "Daniel Wagner, Alessandro Mulloni, Dieter Schmalstieg, Tobias Langlotz",
+    "ENTRYTYPE": "misc",
+    "ID": "US9635251B2"
+  },
+  {
+    "year": "2016",
+    "month": "February",
+    "howpublished": "Patent US-2017236302-A1",
+    "title": "Image processing method,  mobile device and method for generating a video image database ",
+    "author": "Clemens Arth,  Philipp Fleck,  Denis Kalkofen,  Peter Mohr,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "US-2017236302-A1"
+  },
+  {
+    "year": "2015",
+    "month": "October",
+    "howpublished": "Patent WO-2017055277-A1",
+    "title": "Document and method for verifying a document ",
+    "author": "Andreas Hartl,  Olaf Dressel,  Dieter Schmalstieg,  Olga Kulikovska",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2017055277-A1"
+  },
+  {
+    "year": "2015",
+    "month": "February",
+    "howpublished": "Patent WO-2016131812-A1",
+    "title": "Mobile device for capturing a text range on an identification document",
+    "author": "Andreas Hartl,  Dieter Schmalstieg,  Olaf Dressel",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2016131812-A1"
+  },
+  {
+    "year": "2014",
+    "month": "December",
+    "howpublished": "Patent EP-3234806-A1",
+    "title": "Scalable 3d mapping system ",
+    "author": "Dieter Schmalstieg, Clemens Arth, Christian Pirchheim",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-3234806-A1"
+  },
+  {
+    "year": "2014",
+    "month": "November",
+    "howpublished": "Patent EP-3218781-A1",
+    "title": "Spatial interaction in augmented reality ",
+    "author": "Hartmut Seichter,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-3218781-A1"
+  },
+  {
+    "year": "2014",
+    "month": "September",
+    "howpublished": "Patent WO-2016046054-A1",
+    "title": "Method for generating a three-dimensional documentation ",
+    "author": "Gerald Stieglbauer,  Peter Mohr,  Bernhard Kerbl,  Denis Kalkofen,  Michael Donoser,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2016046054-A1"
+  },
+  {
+    "year": "2014",
+    "month": "September",
+    "howpublished": "Patent EP-3192055-A1",
+    "title": "Simultaneous localization and mapping for video coding ",
+    "author": "Phillip Grasmug,  Dieter Schmalstieg,  Gerhard Reitmayr",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-3192055-A1"
+  },
+  {
+    "year": "2014",
+    "month": "June",
+    "howpublished": "Patent US-2015371440-A1",
+    "title": "Zero-baseline 3d map initialization ",
+    "author": "Christian Pirchheim,  Jonathan Ventura,  Dieter Schmalstieg,  Clemens Arth,  Vincent Lepetit",
+    "ENTRYTYPE": "misc",
+    "ID": "US-2015371440-A1"
+  },
+  {
+    "year": "2014",
+    "month": "June",
+    "howpublished": "Patent WO-2015193152-A1",
+    "title": "Method for detecting a viewing-angle-dependent feature of a document ",
+    "author": "Andreas Hartl,  Dieter Schmalstieg,  Olaf Dressel",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2015193152-A1"
+  },
+  {
+    "year": "2014",
+    "month": "March",
+    "howpublished": "Patent WO-2015142760-A1",
+    "title": "Adaptive resolution in optical flow computations for an image processing system ",
+    "author": "Philipp Grasmug,  Dieter Schmalstieg,  Stefan Hauswiesner,  Denis Kalkofen",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2015142760-A1"
+  },
+  {
+    "year": "2014",
+    "month": "March",
+    "howpublished": "Patent EP-3117400-B1",
+    "title": "Sensor-based camera motion detection for unconstrained SLAM",
+    "author": "Christian Pirchheim, Clemens Arth,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-3117400-B1"
+  },
+  {
+    "year": "2014",
+    "month": "March",
+    "howpublished": "Patent WO-2015142576-A1",
+    "title": "Hierarchical clustering for view management in augmented reality ",
+    "author": "Markus Tatzgern,  Denis Kalkofen,  Dieter Schmalstieg,  Raphael Grasset",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2015142576-A1"
+  },
+  {
+    "year": "2014",
+    "month": "March",
+    "howpublished": "Patent WO-2015142446-A1",
+    "title": "Augmented reality lighting with dynamic geometry ",
+    "author": "Lukas Gruber,  Dieter Schmalstieg,  Jonathan  Ventura",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2015142446-A1"
+  },
+  {
+    "year": "2013",
+    "month": "September",
+    "howpublished": "Patent US-2018182176-A1",
+    "title": "Structural modeling using depth sensors ",
+    "author": "Dieter Schmalstieg,  Gerhard Reitmayr,  Thanh  Nguyen,  Raphael Grasset,  Tobias Langlotz,  Hartmut Seichter",
+    "ENTRYTYPE": "misc",
+    "ID": "US-2018182176-A1"
+  },
+  {
+    "year": "2013",
+    "month": "April",
+    "howpublished": "Patent WO-2014179297-A1",
+    "title": "Wide area localization from slam maps ",
+    "author": "Dieter Schmalstieg, Clemens Arth,  Jonathan Ventura, Christian Pirchheim,  Gerhard Reitmayr",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2014179297-A1"
+  },
+  {
+    "year": "2013",
+    "month": "April",
+    "howpublished": "Patent EP-2992505-A1",
+    "title": "Monocular visual slam with general and panorama camera movements ",
+    "author": "Christian Pirchheim,  Dieter Schmalstieg,  Gerhard Reitmayr",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-2992505-A1"
+  },
+  {
+    "year": "2013",
+    "month": "April",
+    "howpublished": "Patent EP-2992508-A1",
+    "title": "Diminished and mediated reality effects from reconstruction ",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-2992508-A1"
+  },
+  {
+    "year": "2013",
+    "month": "April",
+    "howpublished": "Patent EP-2989614-B1",
+    "title": "Apparatus and method for radiance transfer sampling for augmented reality ",
+    "author": "Lukas Gruber,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-2989614-B1"
+  },
+  {
+    "year": "2012",
+    "month": "July",
+    "howpublished": "Patent WO-2014011346-A1",
+    "title": "Sensor-aided wide-area localization on mobile devices ",
+    "author": "Clemens Arth,  Alessandro Mulloni,  Gerhard Reitmayr,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2014011346-A1"
+  },
+  {
+    "year": "2012",
+    "month": "May",
+    "howpublished": "Patent WO-2013176830-A1",
+    "title": "Image-driven view management for annotations ",
+    "author": "Raphael Grasset,  Markus Tatzgern,  Tobias Langlotz,  Denis Kalkofen,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2013176830-A1"
+  },
+  {
+    "year": "2012",
+    "month": "April",
+    "howpublished": "Patent WO-2013154688-A3",
+    "title": "Photometric registration from arbitrary geometry for augmented reality ",
+    "author": "Lukas Gruber,  Thomas Richter-Trummer,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2013154688-A3"
+  },
+  {
+    "year": "2012",
+    "month": "March",
+    "howpublished": "Patent EP-2820618-B1",
+    "title": "Scene structure-based self-pose estimation ",
+    "author": "Clemens Arth,  Gerhard Reitmayr,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-2820618-B1"
+  },
+  {
+    "year": "2011",
+    "month": "May",
+    "howpublished": "Patent WO-2012166329-A1",
+    "title": "Real-time self-localization from panoramic images ",
+    "author": "Clemens Arth,  Manfred Klopschitz,  Gerhard Reitmayr,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2012166329-A1"
+  },
+  {
+    "year": "2010",
+    "month": "September",
+    "howpublished": "Patent WO-2012033768-A2",
+    "title": "Efficient information presentation for augmented reality ",
+    "author": "Markus Tatzgem,  Denis Kalkofen,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2012033768-A2"
+  },
+  {
+    "year": "2010",
+    "month": "May",
+    "howpublished": "Patent US-9135514-B2",
+    "title": "Real time tracking/detection of multiple targets ",
+    "author": "Daniel Wagner,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "US-9135514-B2"
+  },
+  {
+    "year": "2010",
+    "month": "May",
+    "howpublished": "Patent US-9204040-B2",
+    "title": "Online creation of panoramic augmented reality annotations on mobile platforms ",
+    "author": "Tobias Langlotz,  Daniel Wagner,  Alessandro Mulloni,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "US-9204040-B2"
+  },
+  {
+    "year": "2007",
+    "month": "September",
+    "howpublished": "Austrian patent AT505705B1",
+    "title": "Method and device for fragmentary representation of digital information",
+    "author": "Daniel Wagner, Ernst Kruijff, Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "AT505705B1"
+  },
+  {
+    "year": "2006",
+    "month": "June",
+    "howpublished": "Patent WO-2007144148-A1",
+    "title": "A device for and a method of interactively processing a set of data,  a program element and a computer-readable medium ",
+    "author": "Kurt Zatloukal,  Heimo Mueller,  Dieter Schmalstieg,  Michael Kalkusch",
+    "ENTRYTYPE": "misc",
+    "ID": "WO-2007144148-A1"
+  },
+  {
+    "year": "2000",
+    "month": "August",
+    "howpublished": "Patent EP-1325460-A4",
+    "title": "Virtual showcases ",
+    "author": "Oliver Bimber,  L. Miguel Encarnacao,  Bernd Froehlich,  Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "EP-1325460-A4"
+  },
+  {
+    "year": "1999",
+    "month": "April",
+    "howpublished": "Patent US-6842175-B1",
+    "title": "Tools for interacting with virtual environments ",
+    "author": "Dieter Schmalstieg,  Oliver Bimber,  L. Miguel Encarnacao",
+    "ENTRYTYPE": "misc",
+    "ID": "US-6842175-B1"
+  }
+]
