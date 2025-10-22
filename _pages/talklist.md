@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "Talks"
-permalink: /talklist
+permalink: /talklist.html
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% assign sorted_list = site.data.talks %}

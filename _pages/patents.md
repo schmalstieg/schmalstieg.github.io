@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "Patents"
-permalink: /patents
+permalink: /patents.html
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% assign sorted_list = site.data.patents %}
