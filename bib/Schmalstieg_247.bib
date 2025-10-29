@@ -1,14 +1,14 @@
-@ARTICLE{Schmalstieg_247,
- author={Markus Steinberger and Bernhard Kainz and Bernhard Kerbl and
+@article{Schmalstieg_247,
+ author = {Markus Steinberger and Bernhard Kainz and Bernhard Kerbl and
  Stefan Hauswiesner and Michael Kenzel and Dieter Schmalstieg},
- title={Softshell: Dynamic Scheduling on GPUs},
- journal={ACM Transactions on Graphics (Proc. SIGGRAPH Asia)},
+ title = {Softshell: Dynamic Scheduling on GPUs},
+ journal = {ACM Transactions on Graphics (Proc. SIGGRAPH Asia)},
  year= {2012},
- month={Nov},
- volume={31},
- number={6},
- note={Article 161},
- url={http://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_247.pdf},
+ month = {November},
+ volume = {31},
+ number = {6},
+ note = {Article 161},
+ url = {http://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_247.pdf},
  selected={1},
  abstract={In this paper we present Softshell, a novel execution model for devices composed of multiple processing cores operating in a single instruction, multiple data fashion, such as graphics processing units (GPUs). The Softshell model is intuitive and more flexible than the kernel-based adaption of the stream processing model, which is currently the dominant model for general purpose GPU computation. Using the Softshell model, algorithms with a relatively low local degree of parallelism can execute efficiently on massively parallel architectures. Softshell has the following distinct advantages: (1) work can be dynamically issued directly on the device, eliminating the need for synchronization with an external source, i.e., the CPU; (2) its three-tier dynamic scheduler supports arbitrary scheduling strategies, including dynamic priorities and real-time scheduling; and (3) the user can influence, pause, and cancel work already submitted for parallel execution. The Softshell processing model thus brings capabilities to GPU architectures that were previously only known from operating-system designs and reserved for CPU programming. As a proof of our claims, we present a publicly available implementation of the Softshell processing model realized on top of CUDA. The benchmarks of this implementation demonstrate that our processing model is easy to use and also performs substantially better than the state-of-the-art kernel-based processing model for problems that have been difficult to parallelize in the past.},
 }

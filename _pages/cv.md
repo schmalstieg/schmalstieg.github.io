@@ -17,13 +17,12 @@ author_profile: true
 
 ## Education
 
-- 1995-1997: PhD program in computer science at the Vienna University of
+- 1995-1997: PhD in computer science at the Vienna University of
   Technology, thesis *The Remote Rendering Pipeline - Managing Geometry
   and Bandwidth in Distributed Virtual Environments*, graduation with
   highest distinction
-- 1994-1995: Fulbright stipend for postgraduate studies in Computer
-  Science at Stanford University, California, USA
-- 1989-1993: Master program in computer science at the Vienna University
+- 1994-1995: Fulbright exchange program, Stanford University, California, USA
+- 1989-1993: Master of computer science at the Vienna University
   of Technology, master thesis *StoryBoard - A Programming Language for
   Computer Animation*, graduation with highest distinction
 
@@ -41,12 +40,12 @@ author_profile: true
   CA, USA
 - 2008-2015: Director, Christian Doppler Laboratory for *Handheld
   Augmented Reality*
-- 2001: Habilitation fr Praktische Informatik, tenure promotion to
+- 2001: Habilitation in applied computer science, tenure promotion to
   associate professor at Vienna University of Technology
-- 1999: Visiting scientist, University of Tbingen, Germany
-- 1998: Visiting scientist, at the Fraunhofer Center for Research in
+- 1999: Visiting scientist, University of Tübingen, Germany
+- 1998: Visiting scientist, Fraunhofer Center for Research in
   Computer Graphics, Providence, Rhode Island, USA
-- 1996-2001: Universittsassistent (Lecturer), Vienna University of
+- 1996-2001: Universitätsassistent (lecturer), Vienna University of
   Technology
 - 1995-1996: Research assistant at Vienna University of Technology
 - 1993-1994: Research assistant at Vienna University of Technology
@@ -395,19 +394,18 @@ author_profile: true
 
 - 2015-2018: Liason with Transactions on Visualization and Computer
   Graphics, IEEE Symposium on Mixed and Augmented Reality
-- 2010, 2013: Program Chair, IEEE Virtual Reality Conference
+- 2018, 2014, 2005: Financial Chair, IEEE Symposium on Mixed and Augmented Reality
+- 2013, 2010: Program Chair, IEEE Virtual Reality Conference
+- 2000-2011: Chair, EUROGRAPHICS Working Group on Virtual Environments
 - 2009: Program Chair, Joint Virtual Reality Conference of EGVE, ICAT
   and EuroVR
 - 2007: Chair, EUROGRAPHICS State of the Art Reports
-- 2005, 2014, 2018: Financial Chair, IEEE Symposium on Mixed and
-  Augmented Reality
 - 2004: International Liason Co-Chair, IEEE Virtual Reality
 - 2004: Publicity Chair, IEEE Symposium on Mixed and Augmented Reality
-- 2003, 2006: Program Chair, IEEE Symposium on Mixed and Augmented
+- 2006, 2003: Program Chair, IEEE Symposium on Mixed and Augmented
   Reality
 - 2002: General Chair, IEEE Symposium on Mixed and Augmented Reality
 - 2000: Organizing Chair, EUROGRAPHICS Workshop on Virtual Environments
-- 2000-2011: Chair, EUROGRAPHICS Working Group on Virtual Environments
 
 ## Awards
 

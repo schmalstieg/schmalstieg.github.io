@@ -1,0 +1,27 @@
+[
+  {
+    "heading" : "Real-time graphics",
+	"description" : "Level of detail, potentially visible sets, streaming rendering, frame extrapolation",
+	"papers" : ["447","446","446","446","446","446","446","446"]
+  },{
+    "heading" : "Immersive displays",
+	"description" : "Focal cue synthesis, light field displays",
+	"papers" : ["431","211"]
+  },{
+    "heading" : "Situated visualizations",
+	"description" : "AR instructions, AR authoring, context-aware visualization, visualization toolkits",
+	"papers" : ["440","434","433","235"]
+  },{
+    "heading" : "Photorealistic augmented reality",
+	"description" : "Camera simulation, differential rendering",
+	"papers" : ["116","216"]
+  },{
+    "heading" : "Localization and tracking",
+	"description" : "Wide-area localization, sensor fusion",
+	"papers" : ["117","217"]
+  },{
+    "heading" : "Image based modeling and rendering",
+	"description" : "Diminished reality, mediated reality, telepresence, scene capturing, light fields, radiance fields",
+	"papers" : ["448","444","442"]
+  }
+]
