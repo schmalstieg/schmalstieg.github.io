@@ -17,28 +17,28 @@ author_profile: true
   }
 </style>
 
-<h1>Research Areas</h1>
-
 {% for subgroup in site.data.areas %}
+<details>
+  <summary><b>{{ subgroup.heading }}</b></summary>
+  {{ subgroup.description }}
   <table style="width: 650px;">
-    <tr><td colspan="4"><b>{{ subgroup.heading }}</b> --- {{ subgroup.description }}</td></tr>
     <tr>
       {% assign counter = 0 %}
       {% for item in subgroup.papers %}
-        <td ><img src="/img/Schmalstieg_{{ item }}.jpg" width=150></td>
+        <td ><a href="/pdf/Schmalstieg_{{ item }}.pdf"><img src="/img/Schmalstieg_{{ item }}.jpg" width=200 alt="{{ item.title }}"></a></td>
         {% assign counter = counter | plus: 1 %}
-        {% if counter == 4 and forloop.last == false %}
+        {% if counter == 3 and forloop.last == false %}
           </tr><tr>
           {% assign counter = 0 %}
         {% endif %}
       {% endfor %}
       {% if counter != 0 %}
-        {% assign empty_cols = 4 | minus: counter %}
+        {% assign empty_cols = 3 | minus: counter %}
         {% for i in (1..empty_cols) %}
-          <td ><div style="width:150px; height:110px; background:#ffffff; display:inline-block;"></div></td>
+          <td ><div style="width:2000px; height:150px; background:#ffffff; display:inline-block;"></div></td>
         {% endfor %}
       {% endif %}
     </tr>
   </table>
+</details>
 {% endfor %}
-

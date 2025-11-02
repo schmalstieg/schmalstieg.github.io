@@ -2,26 +2,30 @@
   {
     "heading" : "Real-time graphics",
 	"description" : "Level of detail, potentially visible sets, streaming rendering, frame extrapolation",
-	"papers" : ["447","446","446","446","446","446","446","446"]
+	"papers" : ["447","446", "427", "414", "396", "362"]
   },{
     "heading" : "Immersive displays",
 	"description" : "Focal cue synthesis, light field displays",
-	"papers" : ["431","211"]
+	"papers" : ["431", "412", "403"]
   },{
     "heading" : "Situated visualizations",
-	"description" : "AR instructions, AR authoring, context-aware visualization, visualization toolkits",
-	"papers" : ["440","434","433","235"]
+	"description" : "AR instructions, context-aware visualization, visualization toolkits",
+	"papers" : ["440","433", "416", "419", "404", "401"]
   },{
     "heading" : "Photorealistic augmented reality",
 	"description" : "Camera simulation, differential rendering",
-	"papers" : ["116","216"]
+	"papers" : ["428", "337", "316"]
+  },{
+    "heading" : "Image-based modeling and rendering",
+	"description" : "Diminished reality, mediated reality, telepresence, scene capturing, light fields, radiance fields",
+	"papers" : ["448","442", "418", "406", "380", "374"]
+  },{
+    "heading" : "3D reconstruction and authoring",
+	"description" : "Semantic and parameterized reconstruction, interactive capturing guidance, prodedure authoring",
+	"papers" : ["429","434", "444", "408", "330", "288"]
   },{
     "heading" : "Localization and tracking",
 	"description" : "Wide-area localization, sensor fusion",
-	"papers" : ["117","217"]
-  },{
-    "heading" : "Image based modeling and rendering",
-	"description" : "Diminished reality, mediated reality, telepresence, scene capturing, light fields, radiance fields",
-	"papers" : ["448","444","442"]
+	"papers" : ["417", "407", "402", "366", "364", "295"]
   }
 ]

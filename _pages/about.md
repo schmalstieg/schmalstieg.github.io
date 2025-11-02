@@ -27,40 +27,43 @@ Dieter Schmalstieg is Alexander von Humboldt Professor of Visual Computing at th
 <a href="https://www.visus.uni-stuttgart.de/arbeitsgruppen/schmalstieg-group/">VISUS</a>, University of Stuttgart -------- 
 <a href="https://ivc.tugraz.at/">Institute of Visual Computing</a>, Graz
 
-<h1>Selected Publications</h1>
+<style>
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: none;
+  }
+  th, td {
+    border: none !important;
+    border-style: none;
+    padding: 8px;
+  }
+</style>
 
-{% assign sorted_list = site.data.articles %}
-{% assign this_year = "2999" %}
-{% assign idx = 1 %}
+<h1>Current research areas</h1>
 
-<table style="width: 600px;">
-{% for i in sorted_list %}
-{% if i.selected=="1" %}
-  {% assign last_year = this_year %}
-  {% assign this_year = i.year %}
-  {% assign idx = idx | plus: 1 %}
-  {% if last_year != this_year %}<tr><td colspan="2" style="text-align: center;"><h2>{{this_year}}</h2></td></tr>{% endif %}
-  <tr><td style="width: 20%;"><img src="img/{{i.ID}}.jpg" width="200"></td><td style="width: 80%;">
-    {{i.author}}:
-    <b>{{ i.title }}</b>
-	{% if i.ENTRYTYPE=="inproceedings" %}
-	  In <i>{{i.booktitle}}</i>,
-	{% elsif i.ENTRYTYPE=="article" %}
-	  <i>{{i.journal}}</i>, 
-	  {% if i.volume %}vol. {{i.volume}},{% endif%}
-	  {% if i.issue %}num. {{i.issue}},{% endif%}
-	{% elsif i.ENTRYTYPE=="book" %}
-	  <i>{{i.publisher}}</i>, 
-	{% endif %}
-    {% if i.page %}pages {{i.page}},{% endif %}
-	{{ i.month }} {{ i.year }}{% if i.note %}, {{i.note}}{% endif %}.
-  [<a href="bib/{{i.ID}}.bib">bib</a>
-	{%- if i.abstract -%}, <a href="abstract/{{i.ID}}.txt">abstract</a>{%- endif -%}
-	{%- if i.url -%}, <a href="/pdf/{{ i.ID }}.pdf">pdf</a>{%- endif -%}
-	{%- if i.doi -%}, <a href="https://doi.org/{{- i.doi -}}">doi</a>{%- endif -%}
-	{%- if i.video -%}, <a href="{{ i.video }}">video</a>{%- endif -%}
-	]
-  </td></tr>
-{% endif %}
+{% for subgroup in site.data.areas %}
+<details>
+  <summary><b>{{ subgroup.heading }}</b></summary>
+  {{ subgroup.description }}
+  <table style="width: 650px;">
+    <tr>
+      {% assign counter = 0 %}
+      {% for item in subgroup.papers %}
+        <td ><a href="/pdf/Schmalstieg_{{ item }}.pdf"><img src="/img/Schmalstieg_{{ item }}.jpg" width=200 alt="{{ item.title }}"></a></td>
+        {% assign counter = counter | plus: 1 %}
+        {% if counter == 3 and forloop.last == false %}
+          </tr><tr>
+          {% assign counter = 0 %}
+        {% endif %}
+      {% endfor %}
+      {% if counter != 0 %}
+        {% assign empty_cols = 3 | minus: counter %}
+        {% for i in (1..empty_cols) %}
+          <td ><div style="width:2000px; height:150px; background:#ffffff; display:inline-block;"></div></td>
+        {% endfor %}
+      {% endif %}
+    </tr>
+  </table>
+</details>
 {% endfor %}
-</table>
