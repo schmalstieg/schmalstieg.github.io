@@ -1,6 +1,16 @@
 [
   {
     "year": "2025",
+    "month": "November 13",
+    "note": "Stuttgart, Germany",
+    "howpublished": "Inited Talk, Informatikforum Stuttgart",
+    "title": "Augmented Reality fuer intelligente Benutzerschnittstellen",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_174"
+  },
+  {
+    "year": "2025",
     "month": "October 10",
     "note": "Daejeon, South Korea",
     "howpublished": "Keynote, ISMAR Workshop on Working Enhancement with Extended Reality",
