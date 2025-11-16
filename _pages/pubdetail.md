@@ -24,15 +24,17 @@ author_profile: true
       {% if i.page %}pages {{i.page}},{% endif %}
 	  {{ i.month }} {{ i.year }}{% if i.note %}, {{i.note}}{% endif %}.
 	  {% if i.doi %}
-	    <p><img src="/images/doi.png" width=20>&nbsp;<a href="{{ i.doi }}">{{ i.doi }}</a></p>
+	    <div><img src="/images/doi.png" width=20>&nbsp;<a href="{{ i.doi }}">{{ i.doi }}</a></div>
 	  {% endif %}
-    </div><div>
+	</div><div>
 	  &nbsp;
-    </div><div>
-      <div id="abstract">{{ i.abstract }}</div>
-      <button onclick="copyAbstractToClipboard()">Copy</button>
-    </div><div>
-	  &nbsp;
+    </div><div id="abstract">
+	  {{ i.abstract }}
+    </div>
+	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
+	    {% if i.url %} 
+	    <img src="/images/pdf.png" width=20>&nbsp;<a href="/pdf/{{ i.ID }}.pdf">Download PDF</a>
+	  {% endif %}
 	</div>
     {% if i.video %}
       <div>
@@ -50,9 +52,13 @@ author_profile: true
 
 {% for i in site.data.bibdata %}
   <div id="{{ i.ID }}" style="display:none;">
-    <div id="bibtex"><pre>{{ i.text }}</pre></div>
-      <button onclick="copyBibToClipboard()">Copy</button>
-    </div>
+    <div id="bibtex">
+	  <pre style="white-space: pre-line; word-wrap: break-word;">
+	    {{ i.text }}
+	  </pre>
+	</div>
+	<button onclick="copyBibToClipboard()">Copy Bibtex</button>
+  </div>
 {% endfor %}
 
 <html>

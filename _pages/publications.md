@@ -32,11 +32,11 @@ author_profile: true
 	{% endif %}
     {% if i.page %}pages {{i.page}},{% endif %}
 	{{ i.month }} {{ i.year }}{% if i.note %}, {{i.note}}{% endif %}.
-  [<a href="bib/{{i.ID}}.bib">bib</a>
-	{%- if i.abstract -%}, <a href="/pubdetail.html?param={{i.ID}}">details</a>{%- endif -%}
-	{%- if i.url -%}, <a href="/pdf/{{ i.ID }}.pdf">pdf</a>{%- endif -%}
-	{%- if i.doi -%}, <a href="https://doi.org/{{- i.doi -}}">doi</a>{%- endif -%}
-	{%- if i.video -%}, <a href="https://youtu.be/{{ i.video }}">video</a>{%- endif -%}
+  [
+	{%- if i.abstract -%}<a href="/pubdetail.html?param={{i.ID}}">details</a>{%- endif -%}
+	{%- if i.url -%}&nbsp;<a href="/pdf/{{ i.ID }}.pdf">pdf</a>{%- endif -%}
+	{%- if i.doi -%}&nbsp;<a href="https://doi.org/{{- i.doi -}}">doi</a>{%- endif -%}
+	{%- if i.video -%}&nbsp;<a href="https://youtu.be/{{ i.video }}">video</a>{%- endif -%}
 	]
   </td></tr>
 {% endif %}
