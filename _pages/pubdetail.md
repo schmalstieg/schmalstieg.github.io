@@ -23,11 +23,14 @@ author_profile: true
 	  {% endif %}
       {% if i.page %}pages {{i.page}},{% endif %}
 	  {{ i.month }} {{ i.year }}{% if i.note %}, {{i.note}}{% endif %}.
+	  {% if i.doi %}
+	    <p><img src="/images/doi.png" width=20>&nbsp;<a href="{{ i.doi }}">{{ i.doi }}</a></p>
+	  {% endif %}
     </div><div>
 	  &nbsp;
     </div><div>
       <div id="abstract">{{ i.abstract }}</div>
-      <button onclick="copyToClipboard()">Copy</button>
+      <button onclick="copyAbstractToClipboard()">Copy</button>
     </div><div>
 	  &nbsp;
 	</div>
@@ -45,16 +48,32 @@ author_profile: true
   </div>
 {% endfor %}
 
+{% for i in site.data.bibdata %}
+  <div id="{{ i.ID }}" style="display:none;">
+    <div id="bibtex"><pre>{{ i.text }}</pre></div>
+      <button onclick="copyBibToClipboard()">Copy</button>
+    </div>
+{% endfor %}
+
 <html>
   <body>
     <script>
       const urlParams = new URLSearchParams(window.location.search);
       const myVar = urlParams.get('param'); 
       document.getElementById(myVar).style.display = 'block';
-    </script>
-	  <script>
-        function copyToClipboard() {
+      document.getElementById(myVar+"bib").style.display = 'block';
+	</script>
+	<script>
+        function copyAbstractToClipboard() {
           const textToCopy = document.getElementById("abstract").innerText;
+          navigator.clipboard.writeText(textToCopy)
+          .then(() => { alert("Text copied to clipboard!"); })
+          .catch(err => { alert("Failed to copy text: " + err); });
+        }
+    </script>
+	<script>
+        function copyBibToClipboard() {
+          const textToCopy = document.getElementById("bibtex").innerText;
           navigator.clipboard.writeText(textToCopy)
           .then(() => { alert("Text copied to clipboard!"); })
           .catch(err => { alert("Failed to copy text: " + err); });

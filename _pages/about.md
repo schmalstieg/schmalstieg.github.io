@@ -46,24 +46,21 @@ Dieter Schmalstieg is Alexander von Humboldt Professor of Visual Computing at th
 <details>
   <summary><b>{{ subgroup.heading }}</b></summary>
   {{ subgroup.description }}
-  <table style="width: 650px;">
+  <table style="width: 630px; border-collapse: collapse;">
     <tr>
       {% assign counter = 0 %}
-      {% for item in subgroup.papers %}
-        <td ><a href="/pdf/Schmalstieg_{{ item }}.pdf"><img src="/img/Schmalstieg_{{ item }}.jpg" width=200 alt="{{ item.title }}"></a></td>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == 3 and forloop.last == false %}
-          </tr><tr>
-          {% assign counter = 0 %}
-        {% endif %}
-      {% endfor %}
-      {% if counter != 0 %}
-        {% assign empty_cols = 3 | minus: counter %}
-        {% for i in (1..empty_cols) %}
-          <td ><div style="width:2000px; height:150px; background:#ffffff; display:inline-block;"></div></td>
-        {% endfor %}
+	  {% for item in subgroup.papers %}
+      <td style="width: 200px; height: 150px; text-align: center; vertical-align: middle; border: 1px solid #ccc;">
+        <a href="/pubdetail.html?param=Schmalstieg_{{item.id}}"><img src="/img/Schmalstieg_{{ item.id }}.jpg" style="width: 200px; height: 150px; object-fit: cover;"></a>
+		<div>{{ item.title }}</div>
+      </td>
+      {% assign counter = counter | plus: 1 %}
+      {% if counter == 3 and forloop.last == false %}
+        </tr><tr>
+        {% assign counter = 0 %}
       {% endif %}
-    </tr>
-  </table>
+	{% endfor %}	  
+  </tr>
+</table>
 </details>
 {% endfor %}
