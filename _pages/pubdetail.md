@@ -29,35 +29,53 @@ author_profile: true
 	</div><div>
 	  &nbsp;
     </div><div id="abstract">
-	  {{ i.abstract }}
+	  <table><tr><td>{{ i.abstract }}</td></tr></table>
     </div>
-	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    {% if i.url %} 
+	<div>&nbsp;</div>
+	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>
+	  {% if i.url %}&nbsp;&nbsp;&nbsp; 
 	    <img src="/images/pdf.png" width=20>&nbsp;<a href="/pdf/{{ i.ID }}.pdf">Download PDF</a>
 	  {% endif %}
+	  {% if i.youtube %}
+	    &nbsp;&nbsp;&nbsp;<img src="/img/{{i.ID}}.jpg" width=50>
+        <a href="https://www.youtube.com/embed/{{ i.youtube }}">Watch video</a>
+	  {% endif %}
 	</div>
-    {% if i.youtube %}
-      <div>
-        <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/{{ i.youtube }}" 
-          title="YouTube video player"
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
-        </iframe>
+	<div>&nbsp;</div>
+    <div id="{{ i.ID }}bib" style="display:none;">
+      <div id="bibtex">
+	  <table><tr><td>
+      <pre style="white-space: pre-line; word-wrap: break-word;">
+	    {% if i.ENTRYTYPE=="inproceedings" %}@inproceedings{ {{i.ID}},
+            author={ {{ i.author | replace: ",", " and" }} },
+            title={ {{ i.title }} },
+            year={ {{ i.year }} },
+            month={ {{ i.month }} },
+	        booktitle={ {{i.booktitle}} },
+            pages={ {{i.page}} },
+	      }
+        {% elsif i.ENTRYTYPE=="article" %}@article{ {{i.ID}},
+            author={ {{ i.author | replace: ",", " and" }} },
+            title={ {{ i.title }} },
+            journal={ {{i.journal}} }, 
+            author={ {{ i.author }} },
+            year={ {{ i.year }} },
+            month={ {{ i.month }} },
+	        volume={ {{i.volume}} },
+	        number={ {{i.issue}} },
+            pages={ {{i.page}} },
+	      }
+	    {% elsif i.ENTRYTYPE=="book" %}@book{ {{i.ID}},
+            author={ {{ i.author | replace: ",", " and" }} },
+            title={ {{ i.title }} },
+	        publisher={ {{i.publisher}} }, 
+            year={ {{ i.year }} },
+	      }
+        {% endif %}</pre>
+	  </td></tr></table>
 	  </div>
-    {% endif %}
-  </div>
-{% endfor %}
-
-{% for i in site.data.bibdata %}
-  <div id="{{ i.ID }}" style="display:none;">
-    <div id="bibtex">
-	  <pre style="white-space: pre-line; word-wrap: break-word;">
-	    {{ i.text }}
-	  </pre>
-	</div>
-	<button onclick="copyBibToClipboard()">Copy Bibtex</button>
+	  <button onclick="copyBibToClipboard()">Copy Bibtex</button>
+    </div>
   </div>
 {% endfor %}
 
