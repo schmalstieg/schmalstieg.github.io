@@ -36,10 +36,10 @@ author_profile: true
 	    <img src="/images/pdf.png" width=20>&nbsp;<a href="/pdf/{{ i.ID }}.pdf">Download PDF</a>
 	  {% endif %}
 	</div>
-    {% if i.video %}
+    {% if i.youtube %}
       <div>
         <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/{{ i.video }}" 
+          src="https://www.youtube.com/embed/{{ i.youtube }}" 
           title="YouTube video player"
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

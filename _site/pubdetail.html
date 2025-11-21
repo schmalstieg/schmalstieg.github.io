@@ -302,7 +302,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/9sreKrHNVMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/9sreKrHNVMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -326,8 +326,15 @@
 	  The computation of a potentially visible set (PVS) can accelerate many computer graphics algorithms, such as framerate upsampling, streaming rendering, global illumination, and multi-fragment effects. Algorithms for from-region PVS have an inherently high complexity. Previous from-region PVS algorithms propagate occlusion through the scene in a front-to-back manner and are order-dependent, which places bounds on parallelism and restricts execution speed. We introduce the disocclusion buffer, which operates on a sparse, layered representation of the scene with quantized depth. In this representation, we invert the traditional PVS problem formulation and explicitly compute disocclusion rather than occlusion. Disocclusion can be computed in parallel in an order-independent manner, overcoming the main bottleneck in traditional PVS computation. Our PVS algorithm is over six times faster than the previous state of the art at the same level of accuracy in a direct comparison. It runs in shaders on the GPU without requiring any hardware extensions. We demonstrate how our work outperforms previous PVS algorithms in the range of supported camera motion without compromising quality.
     </div>
 	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    
+	     
+	    <img src="/images/pdf.png" width="20" />&nbsp;<a href="/pdf/Schmalstieg_447.pdf">Download PDF</a>
+	  
 	</div>
+    
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rR9n2lZT_Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        </iframe>
+	  </div>
     
   </div>
 
@@ -349,11 +356,13 @@
 	  Recent advances in 3D Gaussian representations have significantly improved the quality and efficiency of image-based scene reconstruction. Their explicit nature facilitates real-time rendering and fast optimization, yet extracting accurate surfaces---particularly in large-scale, unbounded environments---remains a difficult task. Many existing methods rely on approximate depth estimates and global sorting heuristics, which can introduce artifacts and limit the fidelity of the reconstructed mesh. In this paper, we present Sorted Opacity Fields (SOF), a method designed to recover detailed surfaces from 3D Gaussians with both speed and precision. Our approach improves upon prior work by introducing hierarchical resorting and a robust formulation of Gaussian depth, which better aligns with the level-set. To enhance mesh quality, we incorporate a level-set regularizer operating on the opacity field and introduce losses that encourage geometrically-consistent primitive shapes. In addition, we develop a parallelized Marching Tetrahedra algorithm tailored to our opacity formulation, reducing meshing time by up to an order of magnitude. As demonstrated by our quantitative evaluation, SOF achieves higher reconstruction accuracy while cutting total processing time by more than a factor of three. These results mark a step forward in turning efficient Gaussian-based rendering into equally efficient geometry extraction.
     </div>
 	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    
+	     
+	    <img src="/images/pdf.png" width="20" />&nbsp;<a href="/pdf/Schmalstieg_448.pdf">Download PDF</a>
+	  
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/jCn2yAHnKtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jCn2yAHnKtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -369,7 +378,7 @@
 	    In <i>Proc. ACM Virtual Reality Software and Technology</i>,
 	  
       
-	  November 2025, to appear.
+	  November 2025.
 	  
 	</div><div>
 	  &nbsp;
@@ -408,7 +417,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=KEwxiN7zj7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KEwxiN7zj7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -463,7 +472,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/YNKomf2kuLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YNKomf2kuLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -495,7 +504,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/JcnFBgURy4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JcnFBgURy4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -766,8 +775,15 @@
 	  Augmented reality (AR) lends itself to presenting visual instructions on how to assemble or disassemble an object. Splitting the assembly procedure into shorter steps and presenting the corresponding instructions in AR supports their comprehension. However, one can still misinterpret instructions and make errors while manipulating the object. While previous work supports detecting the occurrence of errors, we investigate handling such errors. This requires knowledge of the error at runtime of the application. Starting from a categorization of the errors, we investigate how to automatically derive common error states to generate training data. We introduce an extension to a state-of-the-art deep-learning-based object detector for supporting the detection of assembly states at real-time update rates, based on contrastive learning. We evaluated the proposed detector, showing that it outperforms the state-of-the-art, and we demonstrate our work with an AR application that alerts the user if errors occur and provides visual help to correct the error.
     </div>
 	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    
+	     
+	    <img src="/images/pdf.png" width="20" />&nbsp;<a href="/pdf/Schmalstieg_433.pdf">Download PDF</a>
+	  
 	</div>
+    
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HMUzcrkcZrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        </iframe>
+	  </div>
     
   </div>
 
@@ -797,7 +813,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/whY1MZJ7VDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/whY1MZJ7VDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -872,10 +888,12 @@
 	</div><div>
 	  &nbsp;
     </div><div id="abstract">
-	  
+	  Diminished reality (DR) refers to the removal of real objects from the environment by virtually replacing them with their background. Modern DR frameworks use inpainting to hallucinate unobserved regions. While recent deep learning-based inpainting is promising, the DR use case is complicated by the need to generate coherent structure and 3D geometry (i.e., depth), in particular for advanced applications, such as 3D scene editing. In this paper, we propose Deep DR, a first RGB-D inpainting framework fulfilling all requirements of DR: Plausible image and geometry inpainting with coherent structure, running at real-time frame rates, with minimal temporal artifacts. Our structure-aware generative network allows us to explicitly condition color and depth outputs on the scene semantics, overcoming the difficulty of reconstructing sharp and consistent boundaries in regions with complex backgrounds. Experimental results show that the proposed framework can outperform related work qualitatively and quantitatively.
     </div>
 	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    
+	     
+	    <img src="/images/pdf.png" width="20" />&nbsp;<a href="/pdf/Schmalstieg_423.pdf">Download PDF</a>
+	  
 	</div>
     
   </div>
@@ -922,11 +940,18 @@
 	</div><div>
 	  &nbsp;
     </div><div id="abstract">
-	  
+	  We present Neural Bokeh, a deep learning approach for synthesizing convincing out-of-focus effects with applications in Mixed Reality (MR) image and video compositing. Unlike existing approaches that solely learn the amount of blur for out-of-focus areas, our approach captures the overall characteristic of the bokeh to enable the seamless integration of rendered scene content into real images, ensuring a consistent lens blur over the resulting MR composition. Our method learns spatially varying blur shapes, i.e., bokeh, from a dataset of real images acquired using the physical camera that is used to capture the photograph or video of the MR composition. Accordingly, those learned blur shapes mimic the characteristics of the physical lens. As the run-time and the resulting quality of Neural Bokeh increase with the resolution of input images, we employ low-resolution images for the MR view finding at runtime and high-resolution renderings for compositing with high-resolution photographs or videos in an offline process. We envision a variety of applications, including visual enhancement of image and video compositing containing creative utilization of out-of-focus effects.
     </div>
 	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    
+	     
+	    <img src="/images/pdf.png" width="20" />&nbsp;<a href="/pdf/Schmalstieg_428.pdf">Download PDF</a>
+	  
 	</div>
+    
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/g3l2CKMyJrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        </iframe>
+	  </div>
     
   </div>
 
@@ -949,11 +974,18 @@
 	</div><div>
 	  &nbsp;
     </div><div id="abstract">
-	  
+	  Using augmented reality for subsurface utility engineering (SUE) has benefited from recent advances in sensing hardware, enabling the first practical and commercial applications. However, this progress has uncovered a latent problem – the insufficient quality of existing SUE data in terms of completeness and accuracy. In this work, we present a novel approach to automate the process of aligning existing SUE databases with measurements taken during excavation works, with the potential to correct the deviation from the as-planned to as-built documentation, which is still a big challenge for traditional workers at sight. Our segmentation algorithm performs infrastructure segmentation based on the live capture of an excavation on site. Our fitting approach correlates the inferred position and orientation with the existing digital plan and registers the as-planned model into the as-built state. Our approach is the first to circumvent tedious postprocessing, as it corrects data online and on-site. In our experiments, we show the results of our proposed method on both synthetic data and a set of real excavations.
     </div>
 	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    
+	     
+	    <img src="/images/pdf.png" width="20" />&nbsp;<a href="/pdf/Schmalstieg_429.pdf">Download PDF</a>
+	  
 	</div>
+    
+      <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VWd1LuaF8d8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        </iframe>
+	  </div>
     
   </div>
 
@@ -1032,10 +1064,12 @@
 	</div><div>
 	  &nbsp;
     </div><div id="abstract">
-	  
+	  In this paper, we study rendering of end-to-end compressed triangle meshes using modern GPU techniques, in particular, mesh shaders. Our approach allows us to keep unstructured triangle meshes in GPU memory in compressed form and decompress them in shader code just in time for rasterization. Typical previous approaches use a compressed mesh format only for persistent storage and streaming, but must decompress it into GPU memory before submitting it to rendering. In contrast, our approach uses an identical compressed format in both storage and GPU memory. Hence, our compression method effectively reduces the in-memory requirements of huge triangular meshes and avoids any waiting times on streaming geometry induced by the need for a decompression stage on the CPU. End-to-end compression also means that scenes with more geometric detail than previously possible can be made fully resident in GPU memory. Our approach is based on a novel decomposition of meshes into meshlets, i.e. disjoint primitive groups that are compressed individually. Decompression using a mesh shader allows de facto random access on the primitive level, which is important for applications such as selective streaming and fine-grained visibility computation. We compare our approach to multiple commonly used compressed meshlet formats in terms of required memory and rendering times. The results imply that our approach reduces the required CPU–GPU memory bandwidth, a frequent bottleneck in out-of-core rendering.
     </div>
 	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>&nbsp;
-	    
+	     
+	    <img src="/images/pdf.png" width="20" />&nbsp;<a href="/pdf/Schmalstieg_427.pdf">Download PDF</a>
+	  
 	</div>
     
   </div>
@@ -1093,7 +1127,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/mOndObWHwJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mOndObWHwJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1125,7 +1159,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/K5iybmbYORY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/K5iybmbYORY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1157,7 +1191,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/VOI_CW47CWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VOI_CW47CWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1216,7 +1250,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/ebw0TLXwC9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ebw0TLXwC9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1246,7 +1280,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/bEkVd194lHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bEkVd194lHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1278,7 +1312,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/YyAW88KozcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YyAW88KozcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1389,7 +1423,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/EdqvMNhDsjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/EdqvMNhDsjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1475,7 +1509,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/h1Z3BU0ZlW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/h1Z3BU0ZlW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1534,7 +1568,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/mFxSdvQhSVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mFxSdvQhSVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1566,7 +1600,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/a0JOzRNFnag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/a0JOzRNFnag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1598,7 +1632,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=T1Rs_1MxXHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/T1Rs_1MxXHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1630,7 +1664,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/vk_xcGKkgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vk_xcGKkgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1689,7 +1723,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=cdWCWNEyy38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cdWCWNEyy38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1750,7 +1784,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=TZvgqiOgyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TZvgqiOgyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -1919,7 +1953,7 @@
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=RPqf7wAEkZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RPqf7wAEkZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -2075,7 +2109,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=NNmt-5NMuOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NNmt-5NMuOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -2209,7 +2243,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=LCL4pv7Klpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LCL4pv7Klpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -2289,7 +2323,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=Ys3FXEP3A_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys3FXEP3A_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -2372,11 +2406,6 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	  
 	</div>
     
-      <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/http://youtu.be/cwi8HUxMkLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-        </iframe>
-	  </div>
-    
   </div>
 
 <div id="Schmalstieg_368" style="display:none;">
@@ -2430,7 +2459,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/yasn-aTXa8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/yasn-aTXa8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -2462,7 +2491,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=ZW8MOwpOwI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZW8MOwpOwI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -2644,7 +2673,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=UzEtinmdXE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UzEtinmdXE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -2834,7 +2863,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=drwgdPe7VzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/drwgdPe7VzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3091,7 +3120,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/oWi5I3vllHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/oWi5I3vllHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3248,7 +3277,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=FWytd1m6dKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FWytd1m6dKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3538,7 +3567,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=CvAlSffwB18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CvAlSffwB18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3568,7 +3597,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/aUFi6zNcdKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/aUFi6zNcdKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3623,7 +3652,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=ax-4SqCPfrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ax-4SqCPfrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3834,7 +3863,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/aZF7AC8aNXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/aZF7AC8aNXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3889,7 +3918,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=zbNtM4eN75I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/zbNtM4eN75I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -3994,7 +4023,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=TXKjRU78zKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TXKjRU78zKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4026,7 +4055,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=fX3M3vR2Q5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/fX3M3vR2Q5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4085,7 +4114,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=U9mFAT07WBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/U9mFAT07WBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4117,7 +4146,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/r5T8snHEafE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/r5T8snHEafE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4149,7 +4178,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/WegHxIOHAQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WegHxIOHAQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4329,7 +4358,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=QsfQWZpiR18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QsfQWZpiR18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4359,7 +4388,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=UnMbK-gY_kM&amp;list=PLlDsBa-6PMG0AwYG9hzvBn4fj_brn91G_&amp;index=7&amp;t=0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UnMbK-gY_kM&amp;list=PLlDsBa-6PMG0AwYG9hzvBn4fj_brn91G_&amp;index=7&amp;t=0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4391,7 +4420,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=hXoeMdTx48s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hXoeMdTx48s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4421,7 +4450,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=7nf7VFo9Goo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7nf7VFo9Goo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4609,7 +4638,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/0tFayr3prDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0tFayr3prDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4716,7 +4745,7 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/s2ZofJ2GVHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/s2ZofJ2GVHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4822,11 +4851,6 @@ Steinberger, Dieter Schmalstieg, Michael Wimmer:
 	  
 	</div>
     
-      <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://vimeo.com/100661850" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
-        </iframe>
-	  </div>
-    
   </div>
 
 <div id="Schmalstieg_264" style="display:none;">
@@ -4884,7 +4908,7 @@ and Marina Kolesnik, Philipp Stiegler, Rupert H. Portugaller:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=3sjXqKuOX_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3sjXqKuOX_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4916,7 +4940,7 @@ and Marina Kolesnik, Philipp Stiegler, Rupert H. Portugaller:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=DFtCyaBpxCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DFtCyaBpxCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4948,7 +4972,7 @@ and Marina Kolesnik, Philipp Stiegler, Rupert H. Portugaller:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=u-J7JokvHyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/u-J7JokvHyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -4980,7 +5004,7 @@ and Marina Kolesnik, Philipp Stiegler, Rupert H. Portugaller:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=3gHacMDIPEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3gHacMDIPEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5010,7 +5034,7 @@ and Marina Kolesnik, Philipp Stiegler, Rupert H. Portugaller:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=XUQu4XAc2MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XUQu4XAc2MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5224,7 +5248,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=lOX1XFKNqo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lOX1XFKNqo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5304,7 +5328,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/UzSGyecFVgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UzSGyecFVgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5336,7 +5360,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/gyEjtTHUqLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/gyEjtTHUqLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5366,7 +5390,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=xQlbeVjx0TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xQlbeVjx0TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5421,7 +5445,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=t5TzFtcIFN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/t5TzFtcIFN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5451,7 +5475,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=Nq07MCO-lCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Nq07MCO-lCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5606,7 +5630,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=xL1aV9C4tYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xL1aV9C4tYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5636,7 +5660,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=CQjisWt1d9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CQjisWt1d9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5666,7 +5690,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=4rQLDwf8yac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4rQLDwf8yac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5721,7 +5745,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/TUKuoDD6Hxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TUKuoDD6Hxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5751,7 +5775,7 @@ and Hartmut Seichter:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=YfYLN39bO2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YfYLN39bO2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5837,7 +5861,7 @@ Rostislav Khlebnikov, Denis Kalkofen, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=HjZYv_FaPSI&amp;list=PLlDsBa-6PMG0AwYG9hzvBn4fj_brn91G_&amp;index=22&amp;t=0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HjZYv_FaPSI&amp;list=PLlDsBa-6PMG0AwYG9hzvBn4fj_brn91G_&amp;index=22&amp;t=0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5867,7 +5891,7 @@ Rostislav Khlebnikov, Denis Kalkofen, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/lOX1XFKNqo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lOX1XFKNqo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -5947,7 +5971,7 @@ Rostislav Khlebnikov, Denis Kalkofen, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=UcKDbGqHsdE&amp;list=PLlDsBa-6PMG0AwYG9hzvBn4fj_brn91G_&amp;index=54&amp;t=0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UcKDbGqHsdE&amp;list=PLlDsBa-6PMG0AwYG9hzvBn4fj_brn91G_&amp;index=54&amp;t=0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6030,7 +6054,7 @@ Yen, Horst Bischof, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=n1Q4jmbbC-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/n1Q4jmbbC-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6140,7 +6164,7 @@ and Heidrun Schumann:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/a5qBmOrYS7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/a5qBmOrYS7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6172,7 +6196,7 @@ and Heidrun Schumann:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=vSwBiOs54b8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vSwBiOs54b8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6204,7 +6228,7 @@ and Heidrun Schumann:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/UcKDbGqHsdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UcKDbGqHsdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6261,7 +6285,7 @@ and Heidrun Schumann:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=1Al-oFbOq58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1Al-oFbOq58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6473,7 +6497,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=_5J80uDTxD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_5J80uDTxD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6505,7 +6529,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=pdYc1N2XHtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pdYc1N2XHtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6537,7 +6561,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=mHO6gCm9EP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mHO6gCm9EP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6567,7 +6591,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/JdhismVQYYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JdhismVQYYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6697,7 +6721,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/kuFD7ul8BVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kuFD7ul8BVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6731,7 +6755,7 @@ and Holger Regenbrecht:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/9cQIHbEcd08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/9cQIHbEcd08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6944,7 +6968,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=3BLJQWhsbDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3BLJQWhsbDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -6974,7 +6998,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=S1kuPHfMlcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/S1kuPHfMlcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7029,7 +7053,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/4ZQqlhQ4V6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZQqlhQ4V6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7062,7 +7086,7 @@ Claus Degendorfer, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/VikEPYTDzeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VikEPYTDzeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7195,7 +7219,7 @@ Gerhard Reitmayr:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/JvfGu-Yy6K4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JvfGu-Yy6K4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7403,7 +7427,7 @@ and Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=4uXvxAeb5xA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4uXvxAeb5xA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7536,7 +7560,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=jAkCUjAjdwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jAkCUjAjdwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7591,7 +7615,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=8SV3Id_lvNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/8SV3Id_lvNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7781,7 +7805,7 @@ and Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=vi-G3LqHFZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vi-G3LqHFZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7837,7 +7861,7 @@ and Manfred Wieser, Dieter Schmalstieg, Bernhard Hoffmann-Wellenhof:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/jtd1tp_ALQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/jtd1tp_ALQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -7867,7 +7891,7 @@ and Manfred Wieser, Dieter Schmalstieg, Bernhard Hoffmann-Wellenhof:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=bMs101aTQL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bMs101aTQL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -8078,7 +8102,7 @@ Wagner:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/MK3OnEsYQ_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MK3OnEsYQ_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -8266,7 +8290,7 @@ Irschara, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/f0cdO5GzkXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/f0cdO5GzkXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -8324,7 +8348,7 @@ Hauswiesner, Judith Muehl, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=NEblcENepTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NEblcENepTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -8413,7 +8437,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=Xznr7V9MBJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Xznr7V9MBJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -8474,7 +8498,7 @@ and Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=Uk-LgyA8ZBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Uk-LgyA8ZBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -8555,7 +8579,7 @@ Drummond, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=4Q2TAUo-vQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4Q2TAUo-vQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -8714,7 +8738,7 @@ and Sebastian Junghanns, Bernhard Reitinger, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=n4oOnPEO4z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/n4oOnPEO4z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -9104,7 +9128,7 @@ and Horst Bischof:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=NOkWzJG2Ru4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NOkWzJG2Ru4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -9134,7 +9158,7 @@ and Horst Bischof:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=1orI3Mv67kA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/1orI3Mv67kA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -9470,7 +9494,7 @@ Newman, Daniel Wagner, Florian Ledermann, Istvan Barakonyi:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=N95bsDdNNM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/N95bsDdNNM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -9601,7 +9625,7 @@ and Martijn Kunstman, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=w6A6VmCry4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/w6A6VmCry4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -9631,7 +9655,7 @@ and Martijn Kunstman, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=NxWvCmI_YBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NxWvCmI_YBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -9918,7 +9942,7 @@ Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=ndHDT5WRNDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ndHDT5WRNDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -10202,7 +10226,7 @@ Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=O0CMtUImw-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/O0CMtUImw-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -10384,7 +10408,7 @@ Alexander Bornik, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=TYpilv5GAmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TYpilv5GAmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -10414,7 +10438,7 @@ Strasser, Dieter Schmalstieg, Gudrun Klinker:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=rOWz8IESejQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rOWz8IESejQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -10621,7 +10645,7 @@ Eduard Groeller:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/I_XpAo1yMnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/I_XpAo1yMnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -10778,7 +10802,7 @@ Reitmayr, Tamer Fahmy, Thomas Pintaric, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=iAB11Koq47M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/iAB11Koq47M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -10838,7 +10862,7 @@ Encarnacao:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=FX0WDIhT6DI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FX0WDIhT6DI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -10870,7 +10894,7 @@ Encarnacao:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/EjR-1tyelRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/EjR-1tyelRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -11001,7 +11025,7 @@ and Hannes Kaufmann, Dieter Schmalstieg:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=LW1F8vqgq9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LW1F8vqgq9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -11138,7 +11162,7 @@ Encarnacao:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/70_j-ajZNw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/70_j-ajZNw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -11243,7 +11267,7 @@ Encarnacao:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=WKXDKjeoJTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WKXDKjeoJTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -11427,7 +11451,7 @@ Robert Barton III:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=XAWQAdf2CbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XAWQAdf2CbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -11509,7 +11533,7 @@ Robert Barton III:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/XjPkMnz2tc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XjPkMnz2tc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -11641,7 +11665,7 @@ Robert Barton III:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=ce9tGgRZuHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ce9tGgRZuHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -11777,7 +11801,7 @@ Sean Chandler:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=GiFwNxsaNwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GiFwNxsaNwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     
@@ -12044,7 +12068,7 @@ Michael Gervautz:
 	</div>
     
       <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=JNedvrPeiqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JNedvrPeiqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
         </iframe>
 	  </div>
     

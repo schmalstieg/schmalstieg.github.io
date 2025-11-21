@@ -19,9 +19,9 @@ redirect_from:
   }
 </style>
 
-
+<div style="font-size: 0.8em;">
 Dieter Schmalstieg is Alexander von Humboldt Professor of Visual Computing at the University of Stuttgart, Germany. He is also an adjunct professor at the Institute of Visual Computing at Graz University of Technology, Austria. His current research interests are augmented reality, virtual reality, computer graphics, visualization and human-computer interaction. He received Dipl.-Ing. (1993), Dr. techn. (1997) and Habilitation (2001) from Vienna University of Technology. He is author and co-author of over 400 peer-reviewed scientific publications with over 30,000 citations and over twenty best paper awards and nominations. His current and past organizational roles include associate editor in chief of IEEE Transactions on Visualization and Computer Graphics, associate editor of Frontiers in Robotics and AI, member of the steering committee of the IEEE International Symposium on Mixed and Augmented Reality, chair of the EUROGRAPHICS working group on Virtual Environments, and key researcher of the K-Plus Competence Centers VRVis (Vienna) and Know-Center (Graz). In 2002, he received the START career award presented by the Austrian Science Fund. In 2008, he founded the Christian Doppler Laboratory for Handheld Augmented Reality. In 2012, he received the IEEE Virtual Reality technical achievement award, and, in 2020, the IEEE ISMAR Career Impact Award. He was elected as Fellow of IEEE, as a member of the Young Curia of the Austrian Academy of Sciences, the Academia Europaea, and the IEEE VGTC Virtual Reality Academy. 
-
+</div>
 <h1>Team</h1>
 
 <a href="https://www.visus.uni-stuttgart.de/arbeitsgruppen/schmalstieg-group/">VISUS</a>, University of Stuttgart -------- 

@@ -3,7 +3,8 @@
     "heading" : "Real-time graphics",
 	"description" : "Level of detail, potentially visible sets, streaming rendering, frame extrapolation",
 	"papers" : [
-	  {"id": "447", "title": "NeuralPVS" },
+	  {"id": "447", "title": "Disocclusion Buffer" },
+	  {"id": "446", "title": "NeuralPVS" },
 	  {"id": "427", "title": "Laced Wires" },
 	  {"id": "414", "title": "Trim Regions" },
 	  {"id": "396", "title": "Temporally Adaptive Shading Atlas" },

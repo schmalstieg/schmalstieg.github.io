@@ -28,20 +28,20 @@ author_profile: true
 
 ## Professional
 
+- 2023-current: Director, Visualization Institute of the University of Stuttgart, Germany
 - 2023-current: Alexander von Humboldt Professor of Visual Computing,
-  University of Stuttgart, Germany
-- 2023-current: Adjunct professor, Institute of Computer Graphics and
-  Vision, Graz University of Technology
+  University of Stuttgart
+- 2023-current: Adjunct professor, Institute of Visual Computing, Graz University of Technology, Austria
 - 2012-2023: Head, Institute of Computer Graphics and Vision, Graz
   University of Technology
 - 2004-2023: Full professor for Computer Graphics and Virtual Reality,
-  Graz University of Technology, Austria
+  Graz University of Technology
 - 2017-2018: Visiting scientist, Qualcomm Technologies Inc., San Diego,
   CA, USA
 - 2008-2015: Director, Christian Doppler Laboratory for *Handheld
-  Augmented Reality*
+  Augmented Reality*, Graz University of Technology
 - 2001: Habilitation in applied computer science, tenure promotion to
-  associate professor at Vienna University of Technology
+  associate professor at Vienna University of Technology, Austria
 - 1999: Visiting scientist, University of Tübingen, Germany
 - 1998: Visiting scientist, Fraunhofer Center for Research in
   Computer Graphics, Providence, Rhode Island, USA
