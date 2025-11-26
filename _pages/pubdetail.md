@@ -24,7 +24,7 @@ author_profile: true
       {% if i.page %}pages {{i.page}},{% endif %}
 	  {{ i.month }} {{ i.year }}{% if i.note %}, {{i.note}}{% endif %}.
 	  {% if i.doi %}
-	    <div><img src="/images/doi.png" width=20>&nbsp;<a href="{{ i.doi }}">{{ i.doi }}</a></div>
+	    <div><img src="/images/doi.png" width=20>&nbsp;<a href="https://doi.org/{{ i.doi }}">{{ i.doi }}</a></div>
 	  {% endif %}
 	</div><div>
 	  &nbsp;
@@ -53,6 +53,7 @@ author_profile: true
             month={ {{ i.month }} },
 	        booktitle={ {{i.booktitle}} },
             pages={ {{i.page}} },
+			doi={ https://doi.org/{{i.doi}} },
 	      }
         {% elsif i.ENTRYTYPE=="article" %}@article{ {{i.ID}},
             author={ {{ i.author | replace: ",", " and" }} },
@@ -64,6 +65,7 @@ author_profile: true
 	        volume={ {{i.volume}} },
 	        number={ {{i.issue}} },
             pages={ {{i.page}} },
+			doi={ https://doi.org/{{i.doi}} },
 	      }
 	    {% elsif i.ENTRYTYPE=="book" %}@book{ {{i.ID}},
             author={ {{ i.author | replace: ",", " and" }} },
