@@ -1,6 +1,16 @@
 [
   {
     "year": "2025",
+    "month": "November 28",
+    "note": "Munich, Germany",
+    "howpublished": "Inited Talk, HEXLab, TUM Klinikum",
+    "title": "Intelligent Guidance with Augmented Reality",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_175"
+  },
+  {
+    "year": "2025",
     "month": "November 13",
     "note": "Stuttgart, Germany",
     "howpublished": "Inited Talk, Informatikforum Stuttgart",
