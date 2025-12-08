@@ -17,82 +17,68 @@ author_profile: true
 
 ## Education
 
-- 1995-1997: PhD in computer science at the Vienna University of
-  Technology, thesis *The Remote Rendering Pipeline - Managing Geometry
+- 1995-1997: PhD in computer science at Vienna University of
+  Technology (*TU Wien*), thesis *The Remote Rendering Pipeline - Managing Geometry
   and Bandwidth in Distributed Virtual Environments*, graduation with
   highest distinction
 - 1994-1995: Fulbright exchange program, Stanford University, California, USA
-- 1989-1993: Master of computer science at the Vienna University
-  of Technology, master thesis *StoryBoard - A Programming Language for
+- 1989-1993: Master of computer science at TU Wien, master thesis *StoryBoard - A Programming Language for
   Computer Animation*, graduation with highest distinction
 
 ## Professional
 
-- 2023-current: Director, Visualization Institute of the University of Stuttgart, Germany
+- 2023-current: Director, Visualization Institute of the University of Stuttgart (*VISUS*), Germany
 - 2023-current: Alexander von Humboldt Professor of Visual Computing,
   University of Stuttgart
-- 2023-current: Adjunct professor, Institute of Visual Computing, Graz University of Technology, Austria
-- 2012-2023: Head, Institute of Computer Graphics and Vision, Graz
-  University of Technology
-- 2004-2023: Full professor for Computer Graphics and Virtual Reality,
-  Graz University of Technology
+- 2023-current: Adjunct professor, Institute of Visual Computing, Graz University of Technology (*TU Graz*), Austria
 - 2017-2018: Visiting scientist, Qualcomm Technologies Inc., San Diego,
   CA, USA
+- 2012-2023: Head, Institute of Computer Graphics and Vision, TU Graz
 - 2008-2015: Director, Christian Doppler Laboratory for *Handheld
-  Augmented Reality*, Graz University of Technology
+  Augmented Reality*, TU Graz
+- 2004-2023: Full professor for Computer Graphics and Virtual Reality,
+  TU Graz
 - 2001: Habilitation in applied computer science, tenure promotion to
-  associate professor at Vienna University of Technology, Austria
+  associate professor at TU Wien
 - 1999: Visiting scientist, University of Tübingen, Germany
 - 1998: Visiting scientist, Fraunhofer Center for Research in
   Computer Graphics, Providence, Rhode Island, USA
-- 1996-2001: Universitätsassistent (lecturer), Vienna University of
-  Technology
-- 1995-1996: Research assistant at Vienna University of Technology
-- 1993-1994: Research assistant at Vienna University of Technology
-- 1991-1993: Teaching assistant at Vienna University of Technology
+- 1996-2001: Lecturer (Universitätsassistent), TU Wien
+- 1995-1996: Research assistant, TU Wien
+- 1993-1994: Research assistant, TU Wien
+- 1991-1993: Teaching assistant, TU Wien
 
 ## Teaching
 
 - 2024-current: Course *Real-Time Graphics*, University of Stuttgart
 - 2023-current: Course *Introduction to Computer Graphics*, University
   of Stuttgart
-- 2006-2023: Course *Computer Graphics*, Graz University of Technology
-- 2005-2023: Course *Introduction to Scientific Work*, Graz University
-  of Technology
-- 2005-2022: Course *Virtual Reality*, Graz University of Technology
-- 2004-2015: Seminar *Selected Topics in Computer Graphics*, Graz
-  University of Technology
-- 2004-2023: Course *Real-Time Graphics*, Graz University of Technology
-- 2009-2015: Course *Distributed Systems*, Graz University of Technology
-- 2008-2014: Seminar *Scientific Methods*, Graz University of Technology
-- 2010-2012: Course *Real Time Graphics 2*, Graz University of
-  Technology
-- 2008-2009: Course *Augmented Reality*, Graz University of Technology
-- 2006-2009: Course *Scene Graph Programming*, Graz University of
-  Technology
-- 2005-2006: Course *Visual Information Systems*, Graz University of
-  Technology
-- 2005-2006: Course *Image Analysis and Computer Graphics*, Graz
-  University of Technology
-- 2004: Course *Multimedia Interfaces*, Vienna University of Technology
-- 2002-2004: Course *Location Based Services*, Vienna University of
-  Technology
-- 2000-2004: Seminar *Foundations of Scientific Work*, Vienna University
-  of Technology
+- 2006-2023: Course *Computer Graphics*, TU Graz
+- 2005-2023: Course *Introduction to Scientific Work*, TU Graz
+- 2005-2022: Course *Virtual Reality*, TU Graz
+- 2004-2015: Seminar *Selected Topics in Computer Graphics*, TU Graz
+- 2004-2023: Course *Real-Time Graphics*, TU Graz
+- 2009-2015: Course *Distributed Systems*, TU Graz
+- 2008-2014: Seminar *Scientific Methods*, TU Graz
+- 2010-2012: Course *Real Time Graphics 2*, TU Graz
+- 2008-2009: Course *Augmented Reality*, TU Graz
+- 2006-2009: Course *Scene Graph Programming*, TU Graz
+- 2005-2006: Course *Visual Information Systems*, TU Graz
+- 2005-2006: Course *Image Analysis and Computer Graphics*, TU Graz
+- 2004: Course *Multimedia Interfaces*, TU Wien
+- 2002-2004: Course *Location Based Services*, TU Wien
+- 2000-2004: Seminar *Foundations of Scientific Work*, TU Wien
 - 1999-2003: Course *Immersion*, Rhode Island School of Design,
   Providence, RI, USA
 - 1999: Course *Multimedia Programming*, Hagenberg University of Applied
-  Sciences
-- 1997-2005: Course *Virtual Reality*, Vienna University of Technology
+  Sciences, Austria
+- 1997-2005: Course *Virtual Reality*, TU Wien
 - 1994-2004: *Introductory seminar on computer science*, *seminar on
-  computer graphics*, *research seminar on virtual reality*, Vienna
-  University of Technology
-- 1995-2000: Teaching assistant on *Computer graphics 2+3*, Vienna
-  University of Technology
-- 1993-1994: Teaching assistant on *Computer graphics*, Vienna
-  University of Technology
+  computer graphics*, *research seminar on virtual reality*, TU Wien
+- 1995-2000: Teaching assistant on *Computer graphics 2+3*, TU Wien
+- 1993-1994: Teaching assistant on *Computer graphics*, TU Wien
 - 1991-2000: Teaching assistant on *Introduction to computer science 2*,
-  *Algorithms and data structures 1+2*, Vienna University of Technology
+  *Algorithms and data structures 1+2*, TU Wien
 
 ## PhD supervision
 
@@ -104,7 +90,7 @@ author_profile: true
   Computing: Algorithms and Applications*
 - 2024: Dr. Philipp Fleck, *Situated Analytics: Data, Prototyping and
   Application Concepts for Augmented Reality*
-- 2021: Dr. Joerg Mueller, *Shading Atlas Rendering for Virtual Reality*
+- 2021: Dr. Jörg Müller, *Shading Atlas Rendering for Virtual Reality*
 - 2020: Dr. Okan Erat, *Image-Based Modeling and Rendering for
   Telepresence in Remote Exploration Scenarios*
 - 2020: Dr. Peter Mohr-Ziak, *Retargeting Instructions to Augmented
@@ -152,7 +138,7 @@ author_profile: true
   using Mixed Reality*
 - 2010: Dr. Erick Mendez, *On the Usage of Context for Augmented Reality
   Visualization*
-- 2010: Dr. Judith Mhl, *Techniques for Interdisciplinary Validation by
+- 2010: Dr. Judith Mühl, *Techniques for Interdisciplinary Validation by
   Visualization in Physiological Modeling Liver Radiofrequency Ablation*
 - 2009: Dr. Denis Kalkofen, *Illustrative X-Ray Visualization in
   Augmented Reality Environments*
@@ -184,7 +170,7 @@ author_profile: true
   Localization for Mobile Augmented Reality*
 - 2005: Dr. Thomas Psik: *Designing multimodal interaction for
   configurable distributed systems*
-- 2002: Dr. Klaus Dorfmller-Ulhaas: *Optical Tracking - From User Motion
+- 2002: Dr. Klaus Dorfmüller-Ulhaas: *Optical Tracking - From User Motion
   To 3D Interaction*
 - 2001: Dr. Peter Wonka: *Occlusion Culling for Real-Time Rendering of
   Urban Environments*
@@ -198,7 +184,7 @@ author_profile: true
 
 - 2020: Dr. Manuela Waldner, professor at Vienna University of
   Technology, Austria
-- 2019: Dr. Eduardo Veas, professor at Graz University of Technology,
+- 2019: Dr. Eduardo Veas, professor at TU Graz,
   Austria
 - 2018: Dr. Markus Tatzgern, professor at Salzburg University of Applied
   Sciences, Austria
@@ -248,7 +234,7 @@ author_profile: true
 - 2016: *Scene Generation and Processing*, with: VRVis GmbH, funding:
   FFG, program: COMET
 - 2016: *Hardware accelerated intelligent medical imaging*, funding:
-  Graz University of Technology, program: Post-Doc Pool BioTechMed-Graz
+  TU Graz, program: Post-Doc Pool BioTechMed-Graz
 - 2015: *IBROC* - Image-Based Rendering of Clothes, funding: FFG,
   program: ICT of the Future
 - 2015: *Augur* - Augmented Reality for Measurement Instruments, with:
@@ -330,7 +316,7 @@ author_profile: true
   Zukunftsfonds Steiermark
 - 2005: *A Handheld Augmented Reality Museum Guide*, funding: Austrian
   Science Fund, program: Translational Research, contract: L32-N04
-- 2004: *ARIS\*ER* - Augmented Reality in Surgery, funding: European
+- 2004: *ARIS-ER* - Augmented Reality in Surgery, funding: European
   Union, program: Marie Curie RTN, contract: 512400
 - 2003: *Educating Spatial Intelligence Using Augmented Reality*,
   funding: Austrian Science Fund, contract: P16803
@@ -371,7 +357,7 @@ author_profile: true
 - 2013: Key Researcher, Know-Center GmbH, Graz
 - 2013: Member of Academia Europeae
 - 2007: Member of the Austrian Academy of Sciences, *Junge Kurie* (young
-  class)
+  curia)
 - 2002: Steering committee member of IEEE Symposium on Mixed and
   Augmented Reality
 - 2004: Key Researcher, VRVis GmbH, Vienna
@@ -411,17 +397,16 @@ author_profile: true
 
 - 2024: Best paper honorable mention, IEEE Virtual Reality, paper:
   *Instant Segmentation and Fitting of Excavations in Subsurface Utility
-  Engineering*, with: Marco Stranner, Philipp Fleck, Clemens Arth
+  Engineering*
 - 2023: Impact paper award, IEEE International Symposium on Mixed and
   Augmented Reality, paper: *Experiences with Handheld Augmented
   Reality*, with: Daniel Wagner
 - 2023: Best paper honorable mention, IEEE International Symposium on
   Mixed and Augmented Reality, paper: *Exemplar-Based Inpainting for
-  6DOF Virtual Reality Photos*, with: Shohei Mori, Denis Kalkofen
+  6DOF Virtual Reality Photos*
 - 2022: Best journal paper award, IEEE International Symposium on Mixed
   and Augmented Reality, paper: *Video See-Through Mixed Reality with
-  Focus Cues*, with: Christoph Ebner, Shohei Mori, Peter Mohr, Denis
-  Kalkofen, Yifan Peng, Gordon Wetzstein
+  Focus Cues*
 - 2022: Election into the *IEEE VGTC Virtual Reality Academy*, Inaugural
   Class
 - 2022: Honorary Award at the IEEE VR Workshop 2022 on Open Access Tools
@@ -434,100 +419,75 @@ author_profile: true
   exhibit: *Shading Atlas Streaming Demonstration*
 - 2018: Impact paper award, IEEE International Symposium on Mixed and
   Augmented Reality, paper: *Pose tracking from natural features on
-  mobile phones*, with: Daniel Wagner, Gerhard Reitmayr, Alessandro
-  Mulloni, Tom Drummond
+  mobile phones*
 - 2018: Best paper award, IEEE Biomedical Engineering International
   Conference, paper: *Pattern Recognition and Mixed Reality for Computer
-  Aided Maxillofacial Surgery and Oncological Assessment*, with: Antonio
-  Pepe, Gianpaolo Trotta, Juergen Wallner, Christina Gsaxner, Jan Egger,
-  Vitoantonio Bevilacqua
+  Aided Maxillofacial Surgery and Oncological Assessment*
 - 2017: *Nikola Tesla Medal* awarded to the most successful inventor by
-  Graz University of Technology
+  TU Graz
 - 2017: Best short paper award, EuroVis 2016, paper: *Dynamic Label
-  Placement for Forensic Volume Visualization*, with: Christof Sirk,
-  Denis Kalkofen, Alexander Bornik
+  Placement for Forensic Volume Visualization*
 - 2017: Best paper honorable mention, IEEE 3DUI, paper: *Adaptive User
-  Perspective Rendering for Handheld Augmented Reality*, with: Peter
-  Mohr, Markus Tatzgern, Jens Grubert, Denis Kalkofen
+  Perspective Rendering for Handheld Augmented Reality*
 - 2016: Best paper honorable mention, EuroVis 2016, paper: *Pathfinder:
-  Visual Analysis of Paths in Graphs*, with: Christian Partl, Samuel
-  Gratzl, Marc Streit, Anne-Mai Wassermann, Hanspeter Pfister, Alexander
-  Lex
+  Visual Analysis of Paths in Graphs*
 - 2015: Human Technology Interface Research Award of the Province of
   Styria, paper: *StratomeX: Guided Visual Exploration of Genomic
-  Stratifications in Cancer*, with: Marc Streit, Alexander Lex, Samuel
-  Gratzl, Christian Partl, Hanspeter Pfister, Peter J. Park, Nils
-  Gehlenborg
+  Stratifications in Cancer*
 - 2015: Best paper award, IEEE ISMAR, paper: *Instant Outdoor
-  Localization and SLAM Initialization from 2.5D Maps*, with: Clemens
-  Arth, Christian Pirchheim, Jonathan Ventura, Vincent Lepetit
+  Localization and SLAM Initialization from 2.5D Maps*
 - 2014: Best paper honorable mention, EUROGRAPHICS 2014, paper:
-  *Parallel Generation of Architecture on the GPU*, with: Markus
-  Steinberger, Michael Kenzel, Bernhard Kainz, Jrg Mller, Peter Wonka
+  *Parallel Generation of Architecture on the GPU*
 - 2014: Best paper honorable mention, ACM CHI, paper: *Show me the
-  Invisible: Guidance to Hidden Content*, with: Thomas Geymayer, Markus
-  Steinberger, Alexander Lex, Marc Streit
+  Invisible: Guidance to Hidden Content*
 - 2013: Elected as member of the Academia Europaea
 - 2013: Best poster honorable mention, IEEE SciVis, paper: *Volume
-  Rendering with Advanced GPU Scheduling Strategies*, with: Philip
-  Voglreiter, Markus Steinberger, Rostislav Khlebnikov, Bernhard Kainz
+  Rendering with Advanced GPU Scheduling Strategies*
 - 2012: IEEE Virtual Reality Technical Achievement Award in recognition
   for seminal technical achievement in Augmented Reality
 - 2012: Best paper award, IEEE BioVis, paper: *enRoute: Dynamic Path
   Extraction from Biological Pathway Maps for In-Depth Experimental Data
-  Analysis*, with: Christian Partl, Alexander Lex, Denis Kalkofen, Marc
-  Streit, Karl Kashofer
+  Analysis*
 - 2012: Best paper award (rank 3), EuroVis 2012, paper: *StratomeX:
   Visual Analysis of Large-Scale Heterogeneous Genomics Data for Cancer
-  Subtype Characterization* (Alexander Lex, Marc Streit, Hans-Jrg
-  Schulz, Christian Partl, Peter Park, Nils Gehlenborg
+  Subtype Characterization*
 - 2011: Best paper honorable mention, ACM CHI, paper: *Importance-Driven
-  Compositing Window Management*, with: Manuela Waldner, Markus
-  Steinberger, Raphael Grasset
+  Compositing Window Management*
 - 2011: Best paper award, ACM Symposium on Non-Photorealistic Animation
   and Renderin, paper: *Using Perceptual Features to Accelerate
-  Ray-based Image Generation*, with: Bernhard Kainz, Stefan Hauswiesner,
-  Denis Kalkofen
+  Ray-based Image Generation*
 - 2011: Best paper award, IEEE Information Visualization, paper:
-  *Context-Preserving Visual Links*, with: Markus Steinberger, Manuela
-  Waldner, Marc Streit, Alexander Lex
+  *Context-Preserving Visual Links*
 - 2010: Best student paper award, Graphics Interface 2010, paper:
-  *Visual Links Across Applications*, with: Manuela Waldner, Werner
-  Puff, Mark Streit, Alexander Lex
+  *Visual Links Across Applications*
 - 2009: *Dr. Wolfgang Houska Award der Bank-Austria-Privatstiftung* for
   the project *Vidente*
 - 2008: Best paper award, IEEE International Symposium on Mixed and
   Augmented Reality, paper: *Pose Tracking from Natural Features on
-  Mobile Phones*, with: Daniel Wagner, Gerhard Reitmayr, Alessandro
-  Mulloni, Tom Drummond
+  Mobile Phones*
 - 2007: Rank 7 in the citation ranking of Austrian computer science
   researchers (over 100 listed) according to a study on computer science
   and communication research in Austria, conducted on behalf of the
-  Austrian ministry of traffic, innovation and technology.
+  Austrian Ministry of Traffic, Innovation and Technology
 - 2007: Elected as member of *Junge Kurie* department of the Austrian
   Academy of Science
 - 2007: Best student paper award, IEEE International Symposium on Mixed
   and Augmented Reality, paper: *Interactive Focus and Context
-  Visualization for Augmented Reality*, with: *Denis Kalkofen, Erick
-  Mendez*
+  Visualization for Augmented Reality*, 
 - 2004: Best paper award (rank 3) of *computers & graphics*, paper:
   *Real-time View-dependent Image Warping to Correct Non-linear
-  Distortion for Curved Virtual Showcase Displays*, with: Oliver Bimber,
-  Bernd Frorhlich, L. Miguel Encarnacao
+  Distortion for Curved Virtual Showcase Displays*
 - 2003: Best paper award nominee of INI-GraphicsNet, paper: *The
-  Studierstube Augmented Reality Project*, with: Anton Fuhrmann, Gerd
-  Hesina, Zsolt Szalavari, L. Miguel Encarnacao, Michael Gervautz,
-  Werner Purgathofer
+  Studierstube Augmented Reality Project*
 - 2002: START prize awarded by the Austrian Science Fund to significant
   young researchers
 - 2000: Best paper honorable mention, IEEE Virtual Reality, paper:
   *Priority Round Robin Scheduling for Very Large Virtual Environments*
 - 2000: Best paper award (rank 2) of *Fraunhofer Haus der Graphischen
   Datenverarbeitung*, paper: *Using Transparent Props for Interaction
-  with the Virtual Table*, with: Zsolt Szalavari, L. Miguel Encarnacao
+  with the Virtual Table*
 - 1997: Grant from the Austrian Science Fund to publish PhD thesis in
   the book series on computer graphics and computer vision of the
   Austrian Computer Society
 - 1996: Best paper award, *European Meeting on Cybernetics and Systems
-  Research*, paper: *Implementing Gibsonian Virtual Environments*, with:
-  Michael Gervautz
+  Research*, paper: *Implementing Gibsonian Virtual Environments*
