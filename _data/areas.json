@@ -1,7 +1,7 @@
 [
   {
     "heading" : "Real-time graphics",
-	"description" : "Level of detail, potentially visible sets, streaming rendering, frame extrapolation",
+	"description" : "This research focuses on scalable graphics algorithms for rendering large and complex scenes at real-time frame rates. We investigate novel approaches to techniques such as level of detail, image-based rendering, potentially visible sets, frame extrapolation and geometry compression. We are particularly interested in rendering methods suitable for streaming rendering and virtual reality displays.",
 	"papers" : [
 	  {"id": "447", "title": "Disocclusion Buffer" },
 	  {"id": "446", "title": "NeuralPVS" },
@@ -12,7 +12,7 @@
 	]
   },{
     "heading" : "Situated visualizations",
-	"description" : "AR instructions, context-aware visualization, visualization toolkits",
+	"description" : "Situted visualization uses augmented reality displays to present information to a human user that is dynamically derived from the user's physical environment. It provides guidance, instructions and context in everyday situations. We investigate when, where and how to visualize such information, and what information to visualize.",
 	"papers" : [
 	  {"id": "440", "title": "CECILIA" },
 	  {"id": "433", "title": "AR assembly guidance with error management" },
@@ -22,7 +22,7 @@
 	]
   },{
     "heading" : "Photorealistic augmented reality",
-	"description" : "Camera simulation, differential rendering",
+	"description" : "Ideally, virtual objects displayed in augmented reality would be indistinguishable from real objects. This grand challenge requires capturing the entire image formation process in reality and simulating the virtual counterpart. It encompasses reality capture, light transport, camera simulation and much more.",
 	"papers" : [
 	  {"id": "428", "title": "Neural Bokeh" },
 	  {"id": "337", "title": "Learning lightprobes" },
@@ -30,7 +30,7 @@
 	]
   },{
     "heading" : "Image-based modeling and rendering",
-	"description" : "Diminished reality, mediated reality, telepresence, scene capturing, light fields, radiance fields",
+	"description" : "Capturing the geometry and appearance of the real world and novel view sythesis from images is a key technique for compelling extended reality techniques, such as telepresence or mediated reality. In this work, we investigate emerging scene representations, such as light fields and radiance fields.",
 	"papers" : [
 	  {"id": "448", "title": "Sorted Opacity Fields" },
 	  {"id": "442", "title": "AAA Gaussians" },
@@ -41,7 +41,7 @@
 	]
   },{
     "heading" : "3D reconstruction and authoring",
-	"description" : "Semantic and parameterized reconstruction, interactive capturing guidance, prodedure authoring",
+	"description" : "Augmented reality applications require new types of multimedia content to deliver convincing instructions and guidance. This content is generated using techniques in the area of semantic and parameterized reconstruction combined with procedural and computer-assisted 3D authoring.",
 	"papers" : [
 	  {"id": "429", "title": "Subsurface infrastructure reconstruction" },
 	  {"id": "434", "title": "AuthXR" },
@@ -52,7 +52,7 @@
 	]
   },{
     "heading" : "Localization and tracking",
-	"description" : "Wide-area localization, sensor fusion",
+	"description" : "Wide-area localization and tracking is key enabling technology for augmented reality. Our research investigates scalable scene descriptors, sensor fusion, and multimodal localization techniques.",
 	"papers" : [
 	  {"id": "417", "title": "Bag of Wor(l)d Anchors" },
 	  {"id": "407", "title": "Compact World Anchors" },
@@ -63,7 +63,7 @@
 	]
   },{
     "heading" : "Immersive displays",
-	"description" : "Focal cue synthesis, light field displays",
+	"description" : "Conventional XR displays generate only certain types of depth cues and fall short of a hypothetical ultimate display. Our research on immersive display technology improves some of the limitations of existing XR display technology using light field approximation and focal cue synthesis.",
 	"papers" : [
 	  {"id": "431", "title": "Gaze-Contingent Layered Optical See Through" },
 	  {"id": "412", "title": "Off-Axis Layered See-Through" },
