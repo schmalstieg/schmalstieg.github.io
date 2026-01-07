@@ -1705,6 +1705,10 @@
 <lastmod>2025-10-24T06:32:19-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/pdf/Schmalstieg_433.pdf</loc>
+<lastmod>2025-11-21T04:14:13-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/pdf/Schmalstieg_434.pdf</loc>
 <lastmod>2024-08-28T01:29:48-08:00</lastmod>
 </url>
@@ -1750,7 +1754,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/pdf/Schmalstieg_447.pdf</loc>
-<lastmod>2025-12-05T05:09:59-08:00</lastmod>
+<lastmod>2025-12-10T23:24:54-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pdf/Schmalstieg_448.pdf</loc>
@@ -1763,9 +1767,5 @@
 <url>
 <loc>http://localhost:4000/pdf/Schmalstieg_450.pdf</loc>
 <lastmod>2025-09-22T04:55:57-08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/pdf/Schmalstiege443.pdf</loc>
-<lastmod>2025-11-21T04:14:13-08:00</lastmod>
 </url>
 </urlset>
