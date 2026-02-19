@@ -3,30 +3,31 @@
     "heading" : "Real-time graphics",
 	"description" : "This research focuses on scalable graphics algorithms for rendering large and complex scenes at real-time frame rates. We investigate novel approaches to techniques such as level of detail, image-based rendering, potentially visible sets, frame extrapolation and geometry compression. We are particularly interested in rendering methods suitable for streaming rendering and virtual reality displays.",
 	"papers" : [
-	  {"id": "447", "title": "Disocclusion Buffer" },
-	  {"id": "446", "title": "NeuralPVS" },
-	  {"id": "427", "title": "Laced Wires" },
-	  {"id": "414", "title": "Trim Regions" },
-	  {"id": "396", "title": "Temporally Adaptive Shading Atlas" },
-	  {"id": "362", "title": "Shading Atlas Streaming" }
+	  {"id": "447", "title": "Disocclusion buffer for potentially visible sets" },
+	  {"id": "446", "title": "NeuralPVS for potentially visible set prediction" },
+	  {"id": "427", "title": "Laced wires for geometry decompression on GPU" },
+	  {"id": "414", "title": "Trim regions for potentially visible set generation" },
+	  {"id": "396", "title": "Temporally adaptive shading atlas for incremental shading" },
+	  {"id": "362", "title": "Shading atlas streaming for virtual reality rendering" }
 	]
   },{
     "heading" : "Situated visualizations",
 	"description" : "Situted visualization uses augmented reality displays to present information to a human user that is dynamically derived from the user's physical environment. It provides guidance, instructions and context in everyday situations. We investigate when, where and how to visualize such information, and what information to visualize.",
 	"papers" : [
-	  {"id": "440", "title": "CECILIA" },
+	  {"id": "451", "title": "Situated Brushing and Linking in VR and AR" },
+	  {"id": "440", "title": "CECILIA: embedding visualizations in existing games" },
 	  {"id": "433", "title": "AR assembly guidance with error management" },
-	  {"id": "416", "title": "guitARhero" },
-	  {"id": "419", "title": "AR Visualization Patterns" },
-	  {"id": "404", "title": "RagRug" }
+	  {"id": "416", "title": "guitARhero: augmented reality for guitar learning" },
+	  {"id": "419", "title": "AR visualization patterns for reusable situated visualizations" },
+	  {"id": "404", "title": "RagRug: a unified development framework for situated analytics" }
 	]
   },{
     "heading" : "Photorealistic augmented reality",
 	"description" : "Ideally, virtual objects displayed in augmented reality would be indistinguishable from real objects. This grand challenge requires capturing the entire image formation process in reality and simulating the virtual counterpart. It encompasses reality capture, light transport, camera simulation and much more.",
 	"papers" : [
+	  {"id": "452", "title": "HandLight" },
 	  {"id": "428", "title": "Neural Bokeh" },
-	  {"id": "337", "title": "Learning lightprobes" },
-	  {"id": "316", "title": "Instant relighting" }
+	  {"id": "337", "title": "Learning lightprobes" }
 	]
   },{
     "heading" : "Image-based modeling and rendering",
@@ -36,7 +37,7 @@
 	  {"id": "442", "title": "AAA Gaussians" },
 	  {"id": "418", "title": "VR Photo Inpainting" },
 	  {"id": "406", "title": "Good Keyframes to Inpaint" },
-	  {"id": "380", "title": "Instant" },
+	  {"id": "380", "title": "InpaintFusion: RGB-D Inpainting" },
 	  {"id": "374", "title": "MR Light Fields" }
 	]
   },{
@@ -44,30 +45,30 @@
 	"description" : "Augmented reality applications require new types of multimedia content to deliver convincing instructions and guidance. This content is generated using techniques in the area of semantic and parameterized reconstruction combined with procedural and computer-assisted 3D authoring.",
 	"papers" : [
 	  {"id": "429", "title": "Subsurface infrastructure reconstruction" },
-	  {"id": "434", "title": "AuthXR" },
-	  {"id": "444", "title": "IntelliCap" },
-	  {"id": "408", "title": "Model-free AR instructions" },
+	  {"id": "434", "title": "AuthXR: An immersive authoring system for industrial procedures" },
+	  {"id": "444", "title": "IntelliCap: Intelligent Guidance for Consistent View Sampling" },
+	  {"id": "408", "title": "Model-Free Authoring by Demonstration of Assembly Instructions" },
 	  {"id": "330", "title": "Authoring of AR surface instructions" },
-	  {"id": "288", "title": "Technical Document Retargeting to AR" }
+	  {"id": "288", "title": "Technical documentation retargeting to AR" }
 	]
   },{
     "heading" : "Localization and tracking",
 	"description" : "Wide-area localization and tracking is key enabling technology for augmented reality. Our research investigates scalable scene descriptors, sensor fusion, and multimodal localization techniques.",
 	"papers" : [
+	  {"id": "453", "title": "Change-Resilient Localization" },
 	  {"id": "417", "title": "Bag of Wor(l)d Anchors" },
 	  {"id": "407", "title": "Compact World Anchors" },
 	  {"id": "402", "title": "HoloLens stereo tracking" },
 	  {"id": "366", "title": "TrackCap" },
-	  {"id": "364", "title": "VR Upper Body Pose" },
-	  {"id": "295", "title": "2.5D Streetmap Localization" }
+	  {"id": "364", "title": "VR Upper Body Pose" }
 	]
   },{
     "heading" : "Immersive displays",
 	"description" : "Conventional XR displays generate only certain types of depth cues and fall short of a hypothetical ultimate display. Our research on immersive display technology improves some of the limitations of existing XR display technology using light field approximation and focal cue synthesis.",
 	"papers" : [
 	  {"id": "431", "title": "Gaze-Contingent Layered Optical See Through" },
-	  {"id": "412", "title": "Off-Axis Layered See-Through" },
-	  {"id": "403", "title": "Video See Through with Focal Cues" }
+	  {"id": "412", "title": "Off-Axis Layered See-Through Head Mounted Display" },
+	  {"id": "403", "title": "Video See Through Display with Focal Cues" }
 	]
   }
 ]
