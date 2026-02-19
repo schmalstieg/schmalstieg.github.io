@@ -11,6 +11,7 @@
     "ID": "Schmalstieg_457", 
   },  
   {
+    "url": "456",
     "note": "to appear",
     "abstract": "A Neural Radiance Field (NeRF) is capable of representing scenes by capturing view-dependent properties from a specific set of images through neural network training. The lack of a significant initial image set implies that additional photographing session and training are required to improve the final view synthesis. For this purpose, we introduce a new variant of NeRF training analysis, termed the Neural Error Field (NEF). NEF visualizes and identifies view-dependent errors to reduce the number of ray samples used in the follow-up training. NEF does not require modifications to the NeRF core and training process. We evaluate and verify the accuracy of the results achieved with NEF on several public datasets, including real and synthetic images, and bounded and unbounded scenes.",
     "month": "March",
@@ -22,8 +23,9 @@
     "ID": "Schmalstieg_456",   
   },
   {
+    "url": "455",
     "note": "to appear",
-    "abstract": "",
+    "abstract": "Strategic view sampling is fundamental for the quality view synthesis. However, no established evaluation approach exists to average individual view sampling patterns and compare them across different strategies with AR visual guidance. To address this, we propose a spatial and cross-participant evaluation method. Our method aligns independent 3D reconstructions from different participants into a common coordinate system using Coherent Point Drift. It evaluates view contribution by accumulating projected screen spaces onto the canonical mesh. Our method enables direct analysis of the spatial characteristics of view sampling that are not captured by conventional image quality metrics, providing insights for improving view sampling system.",
     "month": "March",
     "year": "2026",
     "author": "Ayaka Yasunaga, Hideo Saito, Dieter Schmalstieg, Shohei Mori",
