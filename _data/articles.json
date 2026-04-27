@@ -13,7 +13,6 @@
   },  
   {
     "url": "456",
-    "note": "to appear",
     "abstract": "A Neural Radiance Field (NeRF) is capable of representing scenes by capturing view-dependent properties from a specific set of images through neural network training. The lack of a significant initial image set implies that additional photographing session and training are required to improve the final view synthesis. For this purpose, we introduce a new variant of NeRF training analysis, termed the Neural Error Field (NEF). NEF visualizes and identifies view-dependent errors to reduce the number of ray samples used in the follow-up training. NEF does not require modifications to the NeRF core and training process. We evaluate and verify the accuracy of the results achieved with NEF on several public datasets, including real and synthetic images, and bounded and unbounded scenes.",
     "month": "March",
     "year": "2026",
@@ -25,7 +24,6 @@
   },
   {
     "url": "455",
-    "note": "to appear",
     "abstract": "Strategic view sampling is fundamental for the quality view synthesis. However, no established evaluation approach exists to average individual view sampling patterns and compare them across different strategies with AR visual guidance. To address this, we propose a spatial and cross-participant evaluation method. Our method aligns independent 3D reconstructions from different participants into a common coordinate system using Coherent Point Drift. It evaluates view contribution by accumulating projected screen spaces onto the canonical mesh. Our method enables direct analysis of the spatial characteristics of view sampling that are not captured by conventional image quality metrics, providing insights for improving view sampling system.",
     "month": "March",
     "year": "2026",
@@ -38,7 +36,6 @@
   {
     "youtube": "v0oiN4Pdimg",
     "url": "454",
-    "note": "to appear",
     "selected": "1",
     "abstract": "Current Extended Reality (XR) devices are increasingly being used as productivity tools. Compared to conventional setups, they allow for more flexibility in dynamic work locations beyond the desktop while providing a large virtual workspace. Recent research has explored how users organize digital documents and how virtual interfaces could be adapted to different locations and scenarios. However, there has been limited research on how location changes affect productivity tasks in XR environments and how users manually adapt virtual content layouts after such task interruptions. To address this, we conducted an exploratory user study (N=17) in which participants worked on a document-centered organization and planning task while changing locations every five minutes. We examined how these spatial transitions interfered with the task and identified layout strategies and patterns. From our observations and participant responses, we derived a set of design guidelines to inform the development of future XR knowledge work systems in mobile contexts.",
     "booktitle": "Proc. ACM CHI Conference on Human Factors in Computing Systems",
@@ -52,7 +49,6 @@
   {
     "youtube": "jMXtZ-GMh5I",
     "url": "453",
-    "note": "to appear",
     "selected": "1",
     "abstract": "Indoor localization is essential in applications such as augmented reality or robotics. Existing solutions for localization in static scenes work well even for large environments, but localization in environments with movable objects whose pose in the scene change between sessions remains challenging. In this paper, we propose a change-resilient localization method based on a novel geometric descriptor computed only from geometric primitives. Our method is capable of re-identifying primitives that have moved in the scene. We leverage this feature to update a stored reference model (anchor) of the environment to accommodate the changes, which enables localization that is resilient to changes in the scene. We report on a set of experiments demonstrating the robustness and scalability of our method. In addition, we present use cases highlighting the importance of being able to update a reference model.",
     "booktitle": "Proc. IEEE Virtual Reality",
@@ -66,7 +62,6 @@
   {
     "youtube": "3sWNky3Rr0w",
     "url": "452",
-    "note": "to appear",
     "selected": "1",
     "abstract": "Correctly estimating the surrounding illumination is essential for creating visually coherent Mixed Reality (MR) experiences. The most accurate results can be achieved by utilizing a light probe, a dedicated object with known reflectance parameters that is placed into the scene. However, the need for a dedicated object placed in the area where the illumination is estimated presents a severe limitation. Building on the increasing popularity of gestural interaction in MR, we present HandLight, an approach to estimating the illumination from the user’s hands during interaction. Contrary to static light probes, HandLight does not require preparation of the environment and generates an atlas of light probes while the user moves in the world, thus reflecting variable illumination. Our system utilizes a neural network that learns the environment lighting from images of the hand. We train the network on a dataset depicting three common gestures (pinch, fist, bloom) under varying light conditions. We show that our approach can provide believable illumination estimations for a variety of illuminations on a dataset of real hand images.",
     "journal": "IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR)",
@@ -80,7 +75,6 @@
   {
     "youtube": "fTTbsHyF1QE",
     "url": "451",
-    "note": "to appear",
     "selected": "1",
     "abstract": "In traditional visual analysis, brushing and linking is commonly used to visually connect multiple views using highlighting techniques. However, brushing and linking has rarely been used in situated analytics, which uses visualizations to analyze data in the context of physical referents. In situated analytics, data representations must be visually linked to real-world objects. Previous work has assessed situated brushing and linking in a virtual reality simulation of a supermarket scenario. Here, we replicate and extend the previous approach by studying brushing and linking in an actual physical space with augmented reality, while further improving the highlighting techniques. Using a video see-through display, we compare augmented reality with virtual reality. Results suggest that AR performs better in time and accuracy, but the effectiveness of the techniques varies by condition. These results provide a new framing of how the real-world stimuli matter in situated analytics.",
     "journal": "IEEE Transactions on Visualization and Computer Graphics (Proc. IEEE VR)",
