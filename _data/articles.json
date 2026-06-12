@@ -1,7 +1,6 @@
 [
   {
     "url": "459",
-    "note": "to appear",
     "selected": "1",
     "abstract": "We investigate hybrid user interfaces (HUIs), aiming to establish a cohesive understanding and to adopt consistent terminology for this nascent research area. HUIs combine heterogeneous devices in complementary roles, leveraging the distinct benefits of each. Our work focuses on cross-device interaction between 2D devices and mixed reality environments, which are particularly compelling, leveraging the familiarity of traditional 2D platforms while providing spatial awareness and immersion. Although prior work has prominently explored such HUIs in the context of mixed reality, we still lack a cohesive understanding of the unique design possibilities and challenges of such combinations, resulting in a fragmented research landscape. We conducted a systematic survey and present a taxonomy of HUIs that combine conventional display technology and mixed reality environments. Based on this, we discuss past and current challenges, the evolution of definitions, and prospective opportunities to tie together the past 30 years of research with our vision of future HUIs.",
     "journal": "IEEE Transactions on Visualization and Computer Graphics",
@@ -9,6 +8,7 @@
     "author": "Sebastian Hubenschmid, Marc Satkowski, Johannes Zagermann, Julian Mendez, Niklas Elmqvist, Steven Feiner, Tiare Feuchtner, Jens Emil Grønbæk, Benjamin Lee, Dieter Schmalstieg, Raimund Dachselt, Harald Reiterer",
     "title": "Hybrid User Interfaces: Past, Present, and Future of Complementary Cross-Device Interaction in Mixed Reality",
     "ENTRYTYPE": "article",
+	"doi": "https://doi.org/10.1109/TVCG.2026.3683941",
     "ID": "Schmalstieg_459", 
   },
   {
@@ -26,14 +26,15 @@
   },
   {
     "url": "457",
-    "note": "to appear",
     "abstract": "Augmented reality has great potential for embedding data visualizations in the world around the user. While this can enhance users' understanding of their surroundings, it also bears the risk of overwhelming their senses with a barrage of information. In contrast, calm technologies aim to place information in the user's attentional periphery, minimizing cognitive load instead of demanding focused engagement. In this column, we explore how visualizations can be harmoniously integrated into our everyday life through augmented reality, progressing from visual analytics to ambient analytics.",
     "journal": "IEEE Computer Graphics and Applications",
     "month": "May",
     "year": "2026",
+	"pages": "110-117",
     "author": "Sebastian Hubenschmid, Arvind Srinivasan, Niklas Elmqvist, Dieter Schmalstieg, Michael Sedlmair",
     "title": "Ambient Analytics: Calm Technology for Immersive Visualization and Sensemaking",
     "ENTRYTYPE": "article",
+	"doi": "https://doi.org/10.1109/MCG.2026.3667291",
     "ID": "Schmalstieg_457", 
   },  
   {
@@ -171,7 +172,6 @@
   {
     "url": "442",
     "youtube": "KEwxiN7zj7I",
-    "note": "to appear",
     "selected": "1",
     "abstract": "Although 3D Gaussian Splatting (3DGS) has revolutionized 3D reconstruction, it still faces challenges such as aliasing, projection artifacts, and view inconsistencies, primarily due to the simplification of treating splats as 2D entities. We argue that incorporating full 3D evaluation of Gaussians throughout the 3DGS pipeline can effectively address these issues while preserving rasterization efficiency. Specifically, we introduce an adaptive 3D smoothing filter to mitigate aliasing and present a stable view-space bounding method that eliminates popping artifacts when Gaussians extend beyond the view frustum. Furthermore, we promote tile-based culling to 3D with screen-space planes, accelerating rendering and reducing sorting costs for hierarchical rasterization. Our method achieves state-of-the-art quality on in-distribution evaluation sets and significantly outperforms other approaches for out-of-distribution views. Our qualitative evaluations further demonstrate the effective removal of aliasing, distortions, and popping artifacts, ensuring real-time, artifact-free rendering.",
     "booktitle": "Proc. IEEE/CVF International Conference on Computer Vision (ICCV)",
