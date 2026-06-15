@@ -1,5 +1,18 @@
 [
   {
+	"youtube": "fJj1Mi1_oJk", 
+    "url": "460",
+    "selected": "1",
+	"abstract": "Controlling devices connected to the Internet of Things often requires juggling multiple smartphone apps or physical remote controls, creating a fragmented user experience. Augmented Reality (AR) can afford superior control by automatically presenting virtual user interfaces that are spatially aligned with networked devices. However, before such user interfaces can be delivered, physical devices must be localized in the environment. This paper introduces LORIOT (LOcalization-Ready Internet Of Things), a novel end-to-end system that uses a semantic scene graph and a large language model to map the identities of the networked devices to physical objects, given a pre-filtered set of IoTdevice candidate nodes. A declarative UI specification enables automatic generation of device control panels for AR and non-AR clients. We evaluate the mapping component on a controlled synthetic-room benchmark of 100 randomly generated rooms. Using device network metadata alone, we achieve a baseline macro-averaged F1 score of 0.80 for digital → physical associations. When device metadata is enriched with physical attributes (mounting location, materials, color, and size), performance improves to 0.88. Moreover, we evaluate the benefit of spatially registered AR control in a within-subject user study (N=20), comparing in-situ AR panels against conventional non-AR control with smartphone apps or physical remote controls. AR yields significantly faster task completion, lower mental demand, and higher usability.",
+    "journal": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2026",
+    "author": "Jan Kolberg and Michael Pabst and Verena Biener and Shohei Mori and Dieter Schmalstieg",
+    "title": "Semantic Scene Graphs for Creating a Localization-Ready Internet of Things",
+    "ENTRYTYPE": "article",
+	"doi": "https://doi.org/doi/10.1109/TVCG.2026.3698654",
+    "ID": "Schmalstieg_460", 
+  },
+  {
     "url": "459",
     "selected": "1",
     "abstract": "We investigate hybrid user interfaces (HUIs), aiming to establish a cohesive understanding and to adopt consistent terminology for this nascent research area. HUIs combine heterogeneous devices in complementary roles, leveraging the distinct benefits of each. Our work focuses on cross-device interaction between 2D devices and mixed reality environments, which are particularly compelling, leveraging the familiarity of traditional 2D platforms while providing spatial awareness and immersion. Although prior work has prominently explored such HUIs in the context of mixed reality, we still lack a cohesive understanding of the unique design possibilities and challenges of such combinations, resulting in a fragmented research landscape. We conducted a systematic survey and present a taxonomy of HUIs that combine conventional display technology and mixed reality environments. Based on this, we discuss past and current challenges, the evolution of definitions, and prospective opportunities to tie together the past 30 years of research with our vision of future HUIs.",
