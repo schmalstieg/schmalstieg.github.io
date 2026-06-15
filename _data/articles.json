@@ -9,7 +9,7 @@
     "author": "Jan Kolberg and Michael Pabst and Verena Biener and Shohei Mori and Dieter Schmalstieg",
     "title": "Semantic Scene Graphs for Creating a Localization-Ready Internet of Things",
     "ENTRYTYPE": "article",
-	"doi": "https://doi.org/doi/10.1109/TVCG.2026.3698654",
+	"doi": "10.1109/TVCG.2026.3698654",
     "ID": "Schmalstieg_460", 
   },
   {
@@ -21,7 +21,7 @@
     "author": "Sebastian Hubenschmid, Marc Satkowski, Johannes Zagermann, Julian Mendez, Niklas Elmqvist, Steven Feiner, Tiare Feuchtner, Jens Emil Grønbæk, Benjamin Lee, Dieter Schmalstieg, Raimund Dachselt, Harald Reiterer",
     "title": "Hybrid User Interfaces: Past, Present, and Future of Complementary Cross-Device Interaction in Mixed Reality",
     "ENTRYTYPE": "article",
-	"doi": "https://doi.org/10.1109/TVCG.2026.3683941",
+	"doi": "10.1109/TVCG.2026.3683941",
     "ID": "Schmalstieg_459", 
   },
   {
@@ -47,7 +47,7 @@
     "author": "Sebastian Hubenschmid, Arvind Srinivasan, Niklas Elmqvist, Dieter Schmalstieg, Michael Sedlmair",
     "title": "Ambient Analytics: Calm Technology for Immersive Visualization and Sensemaking",
     "ENTRYTYPE": "article",
-	"doi": "https://doi.org/10.1109/MCG.2026.3667291",
+	"doi": "10.1109/MCG.2026.3667291",
     "ID": "Schmalstieg_457", 
   },  
   {
@@ -136,7 +136,7 @@
     "title": "NeuralPVS: Learned Estimation of Potentially Visible Sets",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_446",
-    "doi": "https://doi.org/10.1145/3757377.3763822",
+    "doi": "10.1145/3757377.3763822",
 	"articleno": "134"
   },
   {
@@ -151,7 +151,7 @@
     "title": "Potentially Visible Set Generation with the Disocclusion Buffer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_447",
-	"doi": "https://doi.org/10.1145/3757377.3763981",
+	"doi": "10.1145/3757377.3763981",
 	"articleno": "36"  
   },
   {
@@ -166,7 +166,7 @@
     "title": "SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_448",
-	"doi": "https://doi.org/10.1145/3757377.3763933",
+	"doi": "10.1145/3757377.3763933",
 	"articleno": "88"      
   },
   {
@@ -207,7 +207,7 @@
     "title": "Long-Term Experiences From Working with Extended Reality in the Wild",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_443",
-    "doi": "https://doi.org/10.1109/ismar67309.2025.00076"
+    "doi": "10.1109/ismar67309.2025.00076"
   },
   {
     "youtube": "YNKomf2kuLc",
@@ -221,7 +221,7 @@
     "title": "IntelliCap: Intelligent Guidance for Consistent View Sampling",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_444",
-    "doi": "https://doi.org/10.1109/ismar67309.2025.00085"
+    "doi": "10.1109/ismar67309.2025.00085"
   },
   {
     "youtube": "JcnFBgURy4k",
@@ -235,7 +235,7 @@
     "title": "Selection at a Distance Through a Large Transparent Touch Screen",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_445",
-    "doi": "https://doi.org/10.1109/tvcg.2025.3616756/mm3"
+    "doi": "10.1109/tvcg.2025.3616756/mm3"
   },
   {
     "url": "450",
@@ -255,7 +255,7 @@
     "url": "437",
     "articleno": "188",
     "booktitle": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
-    "doi": "https://doi.org/10.1145/3706599.3719838",
+    "doi": "10.1145/3706599.3719838",
     "year": "2025",
     "title": "Desired Realities: Concept and Examples",
     "author": "Andreas Fender, Dieter Schmalstieg",
@@ -265,7 +265,7 @@
   {
     "month": "May",
     "url": "438",
-    "doi": "https://doi.org/10.1109/TVCG.2025.3549878",
+    "doi": "10.1109/TVCG.2025.3549878",
     "abstract": "In mixed reality (MR) telepresence applications, the differences between participants' physical environments can interfere with effective collaboration. For asymmetric tasks, users might need to access different resources (information, objects, tools) distributed throughout their room. Existing intersection methods do not support such interactions, because a large portion of the telepresence participants' rooms become inaccessible, along with the relevant task resources. We propose MRUnion, a Mixed Reality Telepresence pipeline for asymmetric task-aware 3D mutual scene generation. The key concept of our approach is to enable a user in an asymmetric telecollaboration scenario to access the entire room, while still being able to communicate with remote users in a shared space. For this purpose, we introduce a novel mutual room layout called Union. We evaluated 882 space combinations quantitatively involving two, three, and four combined remote spaces and compared it to a conventional Intersect room layout. The results show that our method outperforms existing intersection methods and enables a significant increase in space and accessibility to resources within the shared space. In an exploratory user study (N=24), we investigated the applicability of the synthetic mutual scene in both MR and VR setups, where users collaborated on an asymmetric remote assembly task. The study results showed that our method achieved comparable results to the intersect method but requires further investigation in terms of social presence, safety and support of collaboration. From this study, we derived design implications for synthetic mutual spaces.",
     "pages": "3354-3364",
     "number": "5",
@@ -281,7 +281,7 @@
   {
     "month": "March",
     "url": "439",
-    "doi": "https://doi.org/10.1109/VRW66409.2025.00037",
+    "doi": "10.1109/VRW66409.2025.00037",
     "abstract": "Literary studies critically examine fictional texts, exploring their structures, themes, stylistic features, and cultural-historical contexts. A central challenge in this field lies in bridging textual analysis with the spatial and sensory dimensions of settings described or implied in texts. Traditional methodologies often require scholars to mentally reconstruct these environments, leading to incomplete or inconsistent interpretations. Readers may be biased by their personal context or experiences, or may lack detailed knowledge of the relevant historical facts. This paper argues for the integration of virtual reality and generative artificial intelligence as supporting instruments to enhance literary research. The former enables immersive, spatially accurate reconstructions of historical environments, while the latter provides tools such as text-to-image and text-to-3D generation which let us dynamically render visual elements quoted in literary texts. Together, these technologies have the potential to significantly enhance traditional literature analysis methodologies, enabling novel approaches for contextualizing and analyzing literature in its spatial and cultural milieu.",
     "pages": "147-149",
     "year": "2025",
@@ -293,7 +293,7 @@
   },
   {
     "url": "440",
-    "doi": "https://doi.org/10.1109/TG.2025.3528513",
+    "doi": "10.1109/TG.2025.3528513",
     "abstract": "We investigate the idea of a toolkit for visually exploring and modifying game content, addressing questions such as how to identify relevant in-game data, how to make use of the data to create in-game visual representations, and what benefits these representations have. To that aim, we build a toolkit on top of the .NET platform employed by Unity in order to explore and add custom content without access to the game's source code. Our visual modifications use live objects in the game as data sources. The results appear as an integral part of the game world, which is generated with the original Unity rendering engine. This capability enables visual exploration for debugging, playtesting, modding, streaming, and data-driven analysis of games, as we demonstrate with several examples.",
     "year": "2025",
     "title": "CECILIA: A Toolkit for Visual Game Content Exploration and Modification",
@@ -305,7 +305,7 @@
   },
   {
     "url": "441",
-    "doi": "https://doi.org/10.1109/TMI.2025.3582587",
+    "doi": "10.1109/TMI.2025.3582587",
     "abstract": "Shape reconstruction from imaging volumes is a recurring need in medical image analysis. Common workflows start with a segmentation step, followed by careful post-processing and, finally, ad hoc meshing algorithms. As this sequence can be time-consuming, neural networks are trained to reconstruct shapes through template deformation. These networks deliver state-of-the-art results without manual intervention, but, so far, they have primarily been evaluated on anatomical shapes with little topological variety between individuals. In contrast, other works favor learning implicit shape models, which have multiple benefits for meshing and visualization. Our work follows this direction by introducing deep medial voxels, a semi-implicit representation that faithfully approximates the topological skeleton from imaging volumes and eventually leads to shape reconstruction via convolution surfaces. Our reconstruction technique shows potential for both visualization and computer simulations.",
     "year": "2025",
     "title": "Deep Medial Voxels: Learned Medial Axis Approximations for Anatomical Shape Modeling",
@@ -324,10 +324,10 @@
     "title": "Tutorial Generation For Virtual Reality from Example Playtroughs",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_436",
-    "doi": "https://doi.org/10.20944/preprints202410.2102.v1"
+    "doi": "10.20944/preprints202410.2102.v1"
   },
   {
-    "doi": "https://doi.org/10.1109/TVCG.2024.3456204",
+    "doi": "10.1109/TVCG.2024.3456204",
     "url": "431",
     "abstract": "The vergence-accommodation conflict (VAC) presents a major perceptual challenge for head-mounted displays with a fixed image plane. Varifocal and layered display designs can mitigate the VAC. However, the image quality of varifocal displays is affected by imprecise eye tracking, whereas layered displays suffer from reduced image contrast as the distance between layers increases. Combined designs support a larger workspace and tolerate some eye-tracking error. However, any layered design with a fixed layer spacing restricts the amount of error compensation and limits the in-focus contrast. We extend previous hybrid designs by introducing confidence-driven volume control, which adjusts the size of the view volume at runtime. We use the eye tracker's confidence to control the spacing of display layers and optimize the trade-off between the display's view volume and the amount of eye tracking error the display can compensate. In the case of high-quality focus point estimation, our approach provides high in-focus contrast, whereas low-quality eye tracking increases the view volume to tolerate the error. We describe our design, present its implementation as an optical-see head-mounted display using a multiplicative layer combination, and present an evaluation comparing our design with previous approaches.",
     "journal": "IEEE Transactions on Visualization and Computer Graphics (Proc. ISMAR)",
@@ -340,7 +340,7 @@
     "ID": "Schmalstieg_431"
   },
   {
-    "doi": "https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00018",
+    "doi": "10.1109/ISMAR-Adjunct64951.2024.00018",
     "month": "October",
     "year": "2024",
     "booktitle": "Adjunct Proceedings of IEEE ISMAR",
@@ -351,7 +351,7 @@
   },
   {
     "youtube": "HMUzcrkcZrs",
-    "doi": "https://doi.org/10.1109/ISMAR62088.2024.00084",
+    "doi": "10.1109/ISMAR62088.2024.00084",
     "url": "1",
     "selected": "1",
     "abstract": "Augmented reality (AR) lends itself to presenting visual instructions on how to assemble or disassemble an object. Splitting the assembly procedure into shorter steps and presenting the corresponding instructions in AR supports their comprehension. However, one can still misinterpret instructions and make errors while manipulating the object. While previous work supports detecting the occurrence of errors, we investigate handling such errors. This requires knowledge of the error at runtime of the application. Starting from a categorization of the errors, we investigate how to automatically derive common error states to generate training data. We introduce an extension to a state-of-the-art deep-learning-based object detector for supporting the detection of assembly states at real-time update rates, based on contrastive learning. We evaluated the proposed detector, showing that it outperforms the state-of-the-art, and we demonstrate our work with an AR application that alerts the user if errors occur and provides visual help to correct the error.",
@@ -364,7 +364,7 @@
     "ID": "Schmalstieg_433"
   },
   {
-    "doi": "https://doi.org/10.1109/ISMAR62088.2024.00146",
+    "doi": "10.1109/ISMAR62088.2024.00146",
     "url": "434",
     "youtube": "whY1MZJ7VDs",
     "selected": "1",
@@ -385,10 +385,10 @@
     "author": "Christina Schwarz-Gsaxner, Markus Perz, Gijs Luijten, Jens Kleesiek, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_430",
-    "doi": "https://doi.org/10.1109/embc53108.2024.10782948"
+    "doi": "10.1109/embc53108.2024.10782948"
   },
   {
-    "doi": "https://doi.org/10.1111/cgf.15105",
+    "doi": "10.1111/cgf.15105",
     "url": "425",
     "number": "3",
     "volume": "43",
@@ -403,7 +403,7 @@
   },
   {
     "abstract": "Diminished reality (DR) refers to the removal of real objects from the environment by virtually replacing them with their background. Modern DR frameworks use inpainting to hallucinate unobserved regions. While recent deep learning-based inpainting is promising, the DR use case is complicated by the need to generate coherent structure and 3D geometry (i.e., depth), in particular for advanced applications, such as 3D scene editing. In this paper, we propose Deep DR, a first RGB-D inpainting framework fulfilling all requirements of DR: Plausible image and geometry inpainting with coherent structure, running at real-time frame rates, with minimal temporal artifacts. Our structure-aware generative network allows us to explicitly condition color and depth outputs on the scene semantics, overcoming the difficulty of reconstructing sharp and consistent boundaries in regions with complex backgrounds. Experimental results show that the proposed framework can outperform related work qualitatively and quantitatively.",
-    "doi": "https://doi.org/10.1109/3DV62453.2024.00037",
+    "doi": "10.1109/3DV62453.2024.00037",
     "month": "March",
     "year": "2024",
     "booktitle": "Proc. International Conference on 3D Vision",
@@ -415,7 +415,7 @@
     "ID": "Schmalstieg_423"
   },
   {
-    "doi": "https://doi.org/10.1109/VRW62533.2024.00116",
+    "doi": "10.1109/VRW62533.2024.00116",
     "month": "March",
     "year": "2024",
     "booktitle": "Proceedings of IEEE Virtual Reality Workshops",
@@ -427,7 +427,7 @@
   {
     "abstract": "We present Neural Bokeh, a deep learning approach for synthesizing convincing out-of-focus effects with applications in Mixed Reality (MR) image and video compositing. Unlike existing approaches that solely learn the amount of blur for out-of-focus areas, our approach captures the overall characteristic of the bokeh to enable the seamless integration of rendered scene content into real images, ensuring a consistent lens blur over the resulting MR composition. Our method learns spatially varying blur shapes, i.e., bokeh, from a dataset of real images acquired using the physical camera that is used to capture the photograph or video of the MR composition. Accordingly, those learned blur shapes mimic the characteristics of the physical lens. As the run-time and the resulting quality of Neural Bokeh increase with the resolution of input images, we employ low-resolution images for the MR view finding at runtime and high-resolution renderings for compositing with high-resolution photographs or videos in an offline process. We envision a variety of applications, including visual enhancement of image and video compositing containing creative utilization of out-of-focus effects.",
     "youtube": "g3l2CKMyJrk",
-    "doi": "https://doi.org/10.1109/VR58804.2024.00106",
+    "doi": "10.1109/VR58804.2024.00106",
     "year": "2024",
     "month": "March",
     "booktitle": "Proc. IEEE Virtual Reality",
@@ -441,7 +441,7 @@
   {
     "abstract": "Using augmented reality for subsurface utility engineering (SUE) has benefited from recent advances in sensing hardware, enabling the first practical and commercial applications. However, this progress has uncovered a latent problem – the insufficient quality of existing SUE data in terms of completeness and accuracy. In this work, we present a novel approach to automate the process of aligning existing SUE databases with measurements taken during excavation works, with the potential to correct the deviation from the as-planned to as-built documentation, which is still a big challenge for traditional workers at sight. Our segmentation algorithm performs infrastructure segmentation based on the live capture of an excavation on site. Our fitting approach correlates the inferred position and orientation with the existing digital plan and registers the as-planned model into the as-built state. Our approach is the first to circumvent tedious postprocessing, as it corrects data online and on-site. In our experiments, we show the results of our proposed method on both synthetic data and a set of real excavations.",
     "youtube": "VWd1LuaF8d8",
-    "doi": "https://doi.org/10.1109/TVCG.2024.3372064",
+    "doi": "10.1109/TVCG.2024.3372064",
     "note": "Best paper award honorable mention",
     "journal": "IEEE Transactions on Visualization and Computer Graphics (Proc. Virtual Reality)",
     "month": "March",
@@ -455,7 +455,7 @@
   },
   {
     "url": "435",
-    "doi": "https://doi.org/10.1109/VRW62533.2024.00275",
+    "doi": "10.1109/VRW62533.2024.00275",
     "pages": "957-958",
     "month": "March",
     "year": "2024",
@@ -466,7 +466,7 @@
     "ID": "Schmalstieg_435"
   },
   {
-    "doi": "https://doi.org/10.1145/3633521",
+    "doi": "10.1145/3633521",
     "url": "422",
     "journal": "ACM Interactions",
     "month": "January",
@@ -478,7 +478,7 @@
   },
   {
     "abstract": "In this paper, we study rendering of end-to-end compressed triangle meshes using modern GPU techniques, in particular, mesh shaders. Our approach allows us to keep unstructured triangle meshes in GPU memory in compressed form and decompress them in shader code just in time for rasterization. Typical previous approaches use a compressed mesh format only for persistent storage and streaming, but must decompress it into GPU memory before submitting it to rendering. In contrast, our approach uses an identical compressed format in both storage and GPU memory. Hence, our compression method effectively reduces the in-memory requirements of huge triangular meshes and avoids any waiting times on streaming geometry induced by the need for a decompression stage on the CPU. End-to-end compression also means that scenes with more geometric detail than previously possible can be made fully resident in GPU memory. Our approach is based on a novel decomposition of meshes into meshlets, i.e. disjoint primitive groups that are compressed individually. Decompression using a mesh shader allows de facto random access on the primitive level, which is important for applications such as selective streaming and fine-grained visibility computation. We compare our approach to multiple commonly used compressed meshlet formats in terms of required memory and rendering times. The results imply that our approach reduces the required CPU–GPU memory bandwidth, a frequent bottleneck in out-of-core rendering.",
-    "doi": "https://doi.org/10.1111/cgf.15002",
+    "doi": "10.1111/cgf.15002",
     "journal": "Computer Graphics Forum",
     "month": "January",
     "year": "2024",
@@ -490,7 +490,7 @@
     "ID": "Schmalstieg_427"
   },
   {
-    "doi": "https://doi.org/10.1038/s41598-023-47437-6",
+    "doi": "10.1038/s41598-023-47437-6",
     "year": "2024",
     "journal": "Scientific Reports",
     "author": "Jianning Li, Christina Gsaxner, Antonio Pepe, Dieter Schmalstieg, Jens Kleesiek, Jan Egger",
@@ -510,7 +510,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_416",
-    "doi": "https://doi.org/10.1109/tvcg.2023.3320266"
+    "doi": "10.1109/tvcg.2023.3320266"
   },
   {
     "youtube": "K5iybmbYORY",
@@ -524,7 +524,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_417",
-    "doi": "https://doi.org/10.1109/tvcg.2023.3320264/mm1"
+    "doi": "10.1109/tvcg.2023.3320264/mm1"
   },
   {
     "note": "ISMAR 2023 best paper honorable mention.",
@@ -539,7 +539,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_418",
-    "doi": "https://doi.org/10.1109/tvcg.2023.3320220"
+    "doi": "10.1109/tvcg.2023.3320220"
   },
   {
     "url": "419",
@@ -552,7 +552,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_419",
-    "doi": "https://doi.org/10.1109/tvcg.2023.3327398"
+    "doi": "10.1109/tvcg.2023.3327398"
   },
   {
     "youtube": "ebw0TLXwC9I",
@@ -566,7 +566,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_420",
-    "doi": "https://doi.org/10.1109/ismar59233.2023.00030"
+    "doi": "10.1109/ismar59233.2023.00030"
   },
   {
     "youtube": "bEkVd194lHk",
@@ -580,7 +580,7 @@
     "selected": "1",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_421",
-    "doi": "https://doi.org/10.1145/3611659.3615700"
+    "doi": "10.1145/3611659.3615700"
   },
   {
     "url": "414",
@@ -596,7 +596,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_414",
-    "doi": "https://doi.org/10.1145/3592434"
+    "doi": "10.1145/3592434"
   },
   {
     "booktitle": "Proc. High Performance Graphics",
@@ -610,7 +610,7 @@
   },
   {
     "month": "May",
-    "doi": "https://doi.org/10.1007/s00366-023-01834-7",
+    "doi": "10.1007/s00366-023-01834-7",
     "journal": "Engineering with Computers",
     "title": "Higher-order block-structured hex meshing of tubular structures",
     "year": "2023",
@@ -623,7 +623,7 @@
     "month": "April",
     "abstract": "The HoloLens (Microsoft Corp., Redmond, WA), a head-worn, optically see-through augmented reality (AR) display, is the main player in the recent boost in medical AR research. In this systematic review, we provide a comprehensive overview of the usage of the first-generation HoloLens within the medical domain, from its release in March 2016, until the year of 2021. We identified 217 relevant publications through a systematic search of the PubMed, Scopus, IEEE Xplore and SpringerLink databases. We propose a new taxonomy including use case, technical methodology for registration and tracking, data sources, visualization as well as validation and evaluation, and analyze the retrieved publications accordingly. We find that the bulk of research focuses on supporting physicians during interventions, where the HoloLens is promising for procedures usually performed without image guidance. However, the consensus is that accuracy and reliability are still too low to replace conventional guidance systems. Medical students are the second most common target group, where AR-enhanced medical simulators emerge as a promising technology. While concerns about human-computer interactions, usability and perception are frequently mentioned, hardly any concepts to overcome these issues have been proposed. Instead, registration and tracking lie at the core of most reviewed publications, nevertheless only few of them propose innovative concepts in this direction. Finally, we find that the validation of HoloLens applications suffers from a lack of standardized and rigorous evaluation protocols. We hope that this review can advance medical AR research by identifying gaps in the current literature, to pave the way for novel, innovative directions and translation into the medical routine.",
     "author": "Christina Gsaxner, Jianning Li, Antonio Pepe, Yuan Jin, Jens Kleesiek, Dieter Schmalstieg, Jan Egger",
-    "doi": "https://doi.org/10.1016/j.media.2023.102757",
+    "doi": "10.1016/j.media.2023.102757",
     "year": "2023",
     "volume": "85",
     "journal": "Medical Image Analysis",
@@ -644,7 +644,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_412",
-    "doi": "https://doi.org/10.1109/tvcg.2023.3247077"
+    "doi": "10.1109/tvcg.2023.3247077"
   },
   {
     "url": "410",
@@ -672,7 +672,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_403",
-    "doi": "https://doi.org/10.1109/tvcg.2022.3150504"
+    "doi": "10.1109/tvcg.2022.3150504"
   },
   {
     "abstract": "Commonly used image-space layouts of shading points, such as used in deferred shading, are strictly view-dependent, which restricts efficient caching and temporal amortization. In contrast, texture-space layouts can represent shading on all surface points and can be tailored to the needs of a particular application. However, the best grouping of shading points - which we call a shading unit - in texture space remains unclear. Choices of shading unit granularity (how many primitives or pixels per unit) and in shading unit parametrization (how to assign texture coordinates to shading points) lead to different outcomes in terms of final image quality, overshading cost, and memory consumption. Among the possible choices, shading units consisting of larger groups of scene primitives, so-called meshlets, remain unexplored as of yet. In this paper, we introduce a taxonomy for analyzing existing texture-space shading methods based on the group size and parametrization of shading units. Furthermore, we introduce a novel texture-space layout strategy that operates on large shading units: the meshlet shading atlas. We experimentally demonstrate that the meshlet shading atlas outperforms previous approaches in terms of image quality, run-time performance and temporal upsampling for a given number of fragment shader invocations. The meshlet shading atlas lends itself to work together with popular cluster-based rendering of meshes with high geometric detail.",
@@ -680,7 +680,7 @@
     "month": "May",
     "number": "2",
     "volume": "41",
-    "doi": "https://doi.org/10.1111/cgf.14474",
+    "doi": "10.1111/cgf.14474",
     "youtube": "h1Z3BU0ZlW0",
     "url": "405",
     "year": "2022",
@@ -701,13 +701,13 @@
     "title": "AR Hero: Generating Interactive Augmented Reality Guitar Tutorials",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_409",
-    "doi": "https://doi.org/10.1109/vrw55335.2022.00086"
+    "doi": "10.1109/vrw55335.2022.00086"
   },
   {
     "abstract": "We present RagRug, an open-source toolkit for situated analytics. The abilities of RagRug go beyond previous immersive analytics toolkits by focusing on specific requirements emerging when using augmented reality (AR) rather than virtual reality. RagRug combines state of the art visual encoding capabilities with a comprehensive physical-virtual model, which lets application developers systematically describe the physical objects in the real world and their role in AR. We connect AR visualizations with data streams from the Internet of Things using distributed dataflow. To this end, we use reactive programming patterns so that visualizations become context-aware, i.e., they adapt to events coming in from the environment. The resulting authoring system is low-code; it emphasises describing the physical and the virtual world and the dataflow between the elements contained therein. We describe the technical design and implementation of RagRug, and report on five example applications illustrating the toolkit's abilities.",
     "youtube": "mFxSdvQhSVU",
     "url": "https://files.icg.tugraz.at/f/9fad7480101647a5bca7/?dl=1",
-    "doi": "https://doi.org/10.1109/TVCG.2022.3157058",
+    "doi": "10.1109/TVCG.2022.3157058",
     "year": "2022",
     "title": "RagRug: A Toolkit for Situated Analytics",
     "journal": "IEEE Transactions on Visualization and Computer Graphics",
@@ -727,7 +727,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_406",
-    "doi": "https://doi.org/10.1109/tvcg.2022.3176958"
+    "doi": "10.1109/tvcg.2022.3176958"
   },
   {
     "abstract": "We present a registration method relying on geometric constraints extracted from parametric primitives contained in 3D parametric models. Our method solves the registration in closed-form from three line-to-line, line-to-plane or plane-to-plane correspondences. The approach either works with semantically segmented RGBD scans of the scene or with the output of plane detection in common frameworks like ARKit and ARCore. Based on the primitives detected in the scene, we build a list of descriptors using the normals and centroids of all the found primitives, and match them against the pre-computed list of descriptors from the model in order to find the scene-to-model primitive correspondences. Finally, we use our closed-form solver to estimate the 6DOF transformation from three lines and one point, which we obtain from the parametric representations of the model and scene parametric primitives. Quantitative and qualitative experiments on synthetic and real-world data sets demonstrate the performance and robustness of our method. We show that it can be used to create compact world anchors for indoor localization in AR applications on mobile devices leveraging commercial SLAM capabilities.",
@@ -740,7 +740,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_407",
-    "doi": "https://doi.org/10.1109/tvcg.2022.3183264"
+    "doi": "10.1109/tvcg.2022.3183264"
   },
   {
     "abstract": "Among the most compelling applications of Augmented Reality are spatially registered tutorials. The effort of creating such instructions remains one of the obstacles precluding a wider use. We propose a system that is capable of extracting 3D instructions in a completely model-free manner from demonstrations, based on volumetric changes. The instructions are visualised later in an interactive Augmented Reality guidance application, on a mobile head-mounted display. We enable a technology that can be used by anyone in an ad-hoc tabletop setup for assemblies with rigid components.",
@@ -753,7 +753,7 @@
     "selected": "1",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_408",
-    "doi": "https://doi.org/10.1109/tvcg.2022.3203104"
+    "doi": "10.1109/tvcg.2022.3203104"
   },
   {
     "url": "402",
@@ -766,10 +766,10 @@
     "selected": "1",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_402",
-    "doi": "https://doi.org/10.1145/3489849.3489863"
+    "doi": "10.1145/3489849.3489863"
   },
   {
-    "doi": "https://doi.org/10.1109/TVCG.2021.3106479",
+    "doi": "10.1109/TVCG.2021.3106479",
     "url": "401",
     "youtube": "cdWCWNEyy38",
     "pages": "4119-4128",
@@ -802,7 +802,7 @@
   {
     "youtube": "TZvgqiOgyVk",
     "url": "396",
-    "doi": "https://doi.org/10.1145/3446790",
+    "doi": "10.1145/3446790",
     "abstract": "Temporal coherence has the potential to enable a huge reduction of shading costs in rendering. Existing techniques focus either only on spatial shading reuse or cannot adaptively choose temporal shading frequencies. We find that temporal shading reuse is possible for extended periods of time for a majority of samples, and we show under which circumstances users perceive temporal artifacts. Our analysis implies that we can approximate shading gradients to efficiently determine when and how long shading can be reused. While visibility usually stays temporally coherent from frame to frame for more than 90 percent, we find that, even in heavily animated game scenes with advanced shading, typically more than 50 percent of shading is temporally coherent. To exploit this potential, we introduce a temporally adaptive shading framework and apply it to two real-time methods. Its application saves more than 57 percent of the shader invocations, reducing overall rendering times up to 5 times in virtual reality applications without a noticeable loss in visual quality. Overall, our work shows that there is significantly more potential for shading reuse than currently exploited.",
     "selected": "1",
     "year": "2021",
@@ -820,13 +820,13 @@
     "author": "Salvatore Andolina, Yi-Ta Hsieh, Denis Kalkofen, Antti Nurminen, Diogo Cabral, Anna Spagnolli, Luciano Gamberini, Ann Morrison, Dieter Schmalstieg, Giulio Jacucci",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_397",
-    "doi": "https://doi.org/10.55612/s-5002-048-002"
+    "doi": "10.55612/s-5002-048-002"
   },
   {
     "url": "398",
     "abstract": "Augmented reality (AR) is a technology which extends the user's reality by including computer-generated, virtual information within their view. As such, AR technology is a valuable asset in the medical domain, where it has the potential to grant X-ray vision to physicians, allowing them to view medical data in situ, in the same physical space as the patient, in the most intuitive way. Consequently, medical applications have been the focus of considerable research efforts since the early days of AR, be it in the context of medical education and training, patient rehabilitation and therapy, or in clinical applications such as computer-aided interventions. In this chapter, we will review the most important technical concepts of AR in general, discussing display technology, tracking paradigms and visualization techniques, among other things. Furthermore, we provide an extensive overview over current applications, practices, and challenges of AR, specific to the medical domain. Finally, AR in oral and cranio-maxillofacial surgery will be discussed, starting with a discussion of shortcomings of current computer-assisted procedures and how AR can aid to overcome them. We then provide a historical perspective on AR in oral and maxillofacial surgery, ending with a review of the current state-of-the-art.",
     "author": "Christina Gsaxner, Ulrich Eck, Dieter Schmalstieg, Nassir Navab, Jan Egger",
-    "doi": "https://doi.org/10.1016/B978-0-12-823299-6.00005-5",
+    "doi": "10.1016/B978-0-12-823299-6.00005-5",
     "isbn": "978-0-12-823299-6",
     "year": "2021",
     "pages": "107-139",
@@ -853,7 +853,7 @@
     "url": "400",
     "abstract": "A fast and fully automatic design of 3D printed patient-specific cranial implants is highly desired in cranioplasty - the process to restore a defect on the skull. We formulate skull defect restoration as a 3D volumetric shape completion task, where a partial skull volume is completed automatically. The difference between the completed skull and the partial skull is the restored defect; in other words, the implant that can be used in cranioplasty. To fulfill the task of volumetric shape completion, a fully data-driven approach is proposed. Supervised skull shape learning is performed on a database containing 167 high-resolution healthy skulls. In these skulls, synthetic defects are injected to create training and evaluation data pairs. We propose a patch-based training scheme tailored for dealing with high-resolution and spatially sparse data, which overcomes the disadvantages of conventional patch-based training methods in high-resolution volumetric shape completion tasks. In particular, the conventional patch-based training is applied to images of high resolution and proves to be effective in tasks such as segmentation. However, we demonstrate the limitations of conventional patch-based training for shape completion tasks, where the overall shape distribution of the target has to be learnt, since it cannot be captured efficiently by a sub-volume cropped from the target. Additionally, the standard dense implementation of a convolutional neural network tends to perform poorly on sparse data, such as the skull, which has a low voxel occupancy rate. Our proposed training scheme encourages a convolutional neural network to learn from the high-resolution and spatially sparse data. In our study, we show that our deep learning models, trained on healthy skulls with synthetic defects, can be transferred directly to craniotomy skulls with real defects of greater irregularity, and the results show promise for clinical use. Project page: https://github.com/Jianningli/MIA.",
     "author": "Jianning Li, Gord {von Campe}, Antonio Pepe, Christina Gsaxner, Enpeng Wang, Xiaojun Chen, Ulrike Zefferer, Martin Toedtling, Marcell Krall, Hannes Deutschmann, Ute Schaefer, Dieter Schmalstieg, Jan Egger",
-    "doi": "https://doi.org/10.1016/j.media.2021.102171",
+    "doi": "10.1016/j.media.2021.102171",
     "issn": "1361-8415",
     "year": "2021",
     "pages": "102171",
@@ -887,7 +887,7 @@
     "title": "InpaintFusion:Incremental RGB-D Inpainting for 3D Scenes",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_380",
-    "doi": "https://doi.org/10.1109/tvcg.2020.3003768"
+    "doi": "10.1109/tvcg.2020.3003768"
   },
   {
     "url": "391",
@@ -898,7 +898,7 @@
     "title": "Evaluating Mixed and Augmented Reality: A Systematic Literature Review (2009-2019)",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_391",
-    "doi": "https://doi.org/10.1109/ismar50242.2020.00069"
+    "doi": "10.1109/ismar50242.2020.00069"
   },
   {
     "url": "393",
@@ -910,7 +910,7 @@
     "title": "Semi-supervised Virtual Regression of Aortic Dissections Using 3D Generative Inpainting",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_393",
-    "doi": "https://doi.org/10.1007/978-3-030-62469-9_12"
+    "doi": "10.1007/978-3-030-62469-9_12"
   },
   {
     "url": "377",
@@ -939,7 +939,7 @@
     "title": "Improving RGB Image Consistency for Depth-Camera",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_378",
-    "doi": "https://doi.org/10.24132/jwscg.2020.28.13"
+    "doi": "10.24132/jwscg.2020.28.13"
   },
   {
     "year": "2020",
@@ -964,7 +964,7 @@
     "title": "Mixed Reality Light Fields for Interactive Remote Assistance",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_374",
-    "doi": "https://doi.org/10.1145/3313831.3376289"
+    "doi": "10.1145/3313831.3376289"
   },
   {
     "abstract": "Registering a known model with noisy sample measurements is in general a difficult task due to the problem in finding correspondences between the samples and points on the known model. General frameworks exist, such as variants of the classical iterative closest point (ICP) method to iteratively refine correspondence estimates. However, the methods are prone to getting trapped in locally optimal configurations, which may be far from the true registration. The quality of the final registration depends strongly on the set of samples. The quality of the set of sample measurements is more noticeable when the number of samples is relatively low (about 20). We consider sample selection in the context of active perception, i.e. an objective-driven decision-making process, to motivate our research and the construction of our system. We design a system for learning how to select the regions of the scene to sample, and, in doing so, improve the accuracy and efficiency of the sampling process. We present a full environment for learning how best to sample a scene in order to quickly and accurately register a model with the scene. This work has broad applicability from the fields of geodesy to medical robotics, where the cost of taking a measurement is much higher than the cost of incremental changes to the pose of the equipment.",
@@ -1000,7 +1000,7 @@
     "title": "Augmented Reality for Head and Neck Carcinoma Imaging: Description and Feasibility of an Instant Calibration, Markerless Approach",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_379",
-    "doi": "https://doi.org/10.1016/j.cmpb.2020.105854"
+    "doi": "10.1016/j.cmpb.2020.105854"
   },
   {
     "url": "394",
@@ -1011,7 +1011,7 @@
     "title": "Linking unstructured evidence to structured observations",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_394",
-    "doi": "https://doi.org/10.1177/1473871620986249"
+    "doi": "10.1177/1473871620986249"
   },
   {
     "youtube": "LCL4pv7Klpw",
@@ -1025,7 +1025,7 @@
     "title": "Real-Time View Planning for Unstructured Lumigraph Modeling",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_369",
-    "doi": "https://doi.org/10.1109/tvcg.2019.2932237"
+    "doi": "10.1109/tvcg.2019.2932237"
   },
   {
     "abstract": "In the treatment of head and neck cancer, physicians can benefit from augmented reality in preparing and executing treatment. We present a system allowing a physician wearing an untethered augmented reality headset to see medical visualizations precisely overlaid onto the patient. Our main contribution is a strategy for markerless registration of 3D imaging to the patient's face. We use a neural network to detect the face using the headset's depth sensor and register it to computed tomography data. The face registration is seamlessly combined with the headset's continuous self-localization. We report on registration error and compare our approach to an external, high-precision infrared tracking system.",
@@ -1038,7 +1038,7 @@
     "title": "Markerless Image-to-Face Registration for Untethered Augmented Reality in Head and Neck Surgery",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_370",
-    "doi": "https://doi.org/10.1007/978-3-030-32254-0_27"
+    "doi": "10.1007/978-3-030-32254-0_27"
   },
   {
     "abstract": "In contrast to indoor tracking using computer vision, which has reached a good amount of maturity, outdoor tracking still suffers from comparably poor localization on a global scale. Smartphones and other commodity devices contain consumer-grade sensors for GPS, compass and inertial measurements, which are not accurate enough for augmented reality (AR) in most situations. This restricts what AR can offer to application areas such as surveying or building constructions. We present a self-contained localization device which connects wirelessly to any AR device, such as a smartphone or headset. The device gives centimeter-level accuracy and can be built out of commercial-of-the-shelf components for less than 500 EUR. We demonstrate the performance of the localization device using a variety of position and orientation sensing benchmarks.",
@@ -1050,7 +1050,7 @@
     "author": "Marco Stranner, Philipp Fleck, Dieter Schmalstieg, Clemens Arth",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_372",
-    "doi": "https://doi.org/10.1109/ismar-adjunct.2019.00025"
+    "doi": "10.1109/ismar-adjunct.2019.00025"
   },
   {
     "abstract": "We present DetectFusion, an RGB-D SLAM system that runs in real time and can ro-bustly handle semantically known and unknown objects that can move dynamically inthe scene. Our system detects, segments and assigns semantic class labels to knownobjects in the scene, while tracking and reconstructing them even when they move in-dependently in front of the monocular camera. In contrast to related work, we achievereal-time computational performance on semantic instance segmentation with a novelmethod combining 2D object detection and 3D geometric segmentation. In addition, wepropose a method for detecting and segmenting the motion of semantically unknown ob-jects, thus further improving the accuracy of camera tracking and map reconstruction. We show that our method performs on par or better than previous work in terms of lo-calization and object reconstruction accuracy, while achieving about 20 fps even if theobjects are segmented in each frame",
@@ -1076,7 +1076,7 @@
     "author": "W. Alexander Isop, Christoph Gebhardt, Tobias Naegeli, Friedrich Fraundorfer, Otmar Hilliges, D. Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_373",
-    "doi": "https://doi.org/10.3389/frobt.2019.00095"
+    "doi": "10.3389/frobt.2019.00095"
   },
   {
     "abstract": "In this paper, we introduce the CPatch, a curved primitive that can be used to construct arbitrary vector graphics. A CPatch is a generalization of a 2D polygon: Any number of curves up to a cubic degree bound a primitive. We show that a CPatch can be rasterized efficiently in a hierarchical manner on the GPU, locally discarding irrelevant portions of the curves. Our rasterizer is fast and scalable, works on all patches in parallel, and does not require any approximations. We show a parallel implementation of our rasterizer, which naturally supports all kinds of color spaces, blending and super-sampling. Additionally, we show how vector graphics input can efficiently be converted to a CPatch representation, solving challenges like patch self intersections and false inside-outside classification. Results indicate that our approach is faster than the state-of-the-art, more flexible and could potentially be implemented in hardware.",
@@ -1089,7 +1089,7 @@
     "author": "Markus Dokter, Jozef Hladky, Matthias Parger, Dieter Schmalstieg, Hans-Peter Seidel, Markus Steinberger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_365",
-    "doi": "https://doi.org/10.1111/cgf.13622"
+    "doi": "10.1111/cgf.13622"
   },
   {
     "abstract": "The latest generation of consumer market head-mounted displays (HMD) now include self-contained inside-out tracking of head motions, which makes them suitable for mobile applications. However, 3D tracking of input devices is either not included at all or requires to keep the device in sight, so that it can be observed from a sensor mounted on the HMD. Both approaches make natural interactions cumbersome in mobile applications. TrackCap, a novel approach for 3D tracking of input devices, turns a conventional smart-phone into a precise 6DOF input device for an HMD user. The device can be conveniently operated both inside and outside the HMD's field of view, while it provides additional 2D input and output capabilities.",
@@ -1117,7 +1117,7 @@
     "author": "Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_368",
-    "doi": "https://doi.org/10.1109/mcg.2018.2889218"
+    "doi": "10.1109/mcg.2018.2889218"
   },
   {
     "abstract": "Having a virtual body can increase embodiment in virtual reality (VR) applications. However, comsumer-grade VR falls short of delivering sufficient sensory information for full-body motion capture. Consequently, most current VR applications do not even show arms, although they are often in the field of view. We address this shortcoming with a novel human upper-body inverse kinematics algorithm specifically targeted at tracking from head and hand sensors only. We present heuristics for elbow positioning depending on the shoulder-to-hand distance and for avoiding reaching unnatural joint limits. Our results show that our method increases the accuracy compared to general inverse kinematics applied to human arms with the same tracking input. In a user study, participants preferred our method over displaying disembodied hands without arms, but also over a more expensive motion capture system. In particular, our study shows that virtual arms animated with our inverse kinematics system can be used for applications involving heavy arm movement. We demonstrate that our method can not only be used to increase embodiment, but can also support interaction involving arms or shoulders, such as holding up a shield.",
@@ -1149,7 +1149,7 @@
     "author": "Joerg Mueller, Philip Voglreiter, Mark Dokter, Thomas Neff, Mina Makar, Markus Steinberger, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_362",
-    "doi": "https://doi.org/10.1109/ismar-adjunct.2018.00128"
+    "doi": "10.1109/ismar-adjunct.2018.00128"
   },
   {
     "url": "367",
@@ -1161,7 +1161,7 @@
     "title": "Pattern Recognition and Mixed Reality for Computer-Aided Maxillofacial Surgery and Oncological Assessment",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_367",
-    "doi": "https://doi.org/10.1109/bmeicon.2018.8609921"
+    "doi": "10.1109/bmeicon.2018.8609921"
   },
   {
     "url": "357",
@@ -1172,7 +1172,7 @@
     "title": "3D PixMix: Image-Inpainting in 3D Environments",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_357",
-    "doi": "https://doi.org/10.1109/ismar-adjunct.2018.00020"
+    "doi": "10.1109/ismar-adjunct.2018.00020"
   },
   {
     "url": "358",
@@ -1183,7 +1183,7 @@
     "title": "Semantic Segmentation of Geometric Primitives in Dense 3D Point clouds using Machine Learning",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_358",
-    "doi": "https://doi.org/10.1109/ismar-adjunct.2018.00068"
+    "doi": "10.1109/ismar-adjunct.2018.00068"
   },
   {
     "url": "359",
@@ -1194,7 +1194,7 @@
     "author": "Christoph Klug, Clemens Arth, Dieter Schmalstieg, Thomas Gloor",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_359",
-    "doi": "https://doi.org/10.1109/iecon.2018.8592768"
+    "doi": "10.1109/iecon.2018.8592768"
   },
   {
     "url": "363",
@@ -1205,7 +1205,7 @@
     "author": "Christoph Klug, Clemens Arth, Dieter Schmalstieg, Thomas Gloor",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_363",
-    "doi": "https://doi.org/10.1109/iecon.2018.8592768"
+    "doi": "10.1109/iecon.2018.8592768"
   },
   {
     "url": "360",
@@ -1217,7 +1217,7 @@
     "author": "Christoph Klug, Dieter Schmalstieg, Thomas Gloor, Clemens Arth",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_360",
-    "doi": "https://doi.org/10.1007/s10846-018-0931-4"
+    "doi": "10.1007/s10846-018-0931-4"
   },
   {
     "abstract": "In this paper, we present a real-time graphics pipeline implemented entirely in software on a modern GPU. As opposed to previous work, our approach features a fully-concurrent, multi-stage, streaming design with dynamic load balancing, capable of operating efficiently within bounded memory. We address issues such as primitive order, vertex reuse, and screen-space derivatives of dependent variables, which are essential to real-world applications, but have largely been ignored by comparable work in the past. The power of a software approach lies in the ability to tailor the graphics pipeline to any given application. In exploration of this potential, we design and implement four novel pipeline modifications. Evaluation of the performance of our approach on more than 100 real-world scenes collected from video games shows rendering speeds within one order of magnitude of the hardware graphics pipeline as well as significant improvements over previous work, not only in terms of capabilities and performance, but also robustness.",
@@ -1234,7 +1234,7 @@
     "author": "Michael Kenzel, Bernhard Kerbl, Dieter Schmalstieg, Markus Steinberger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_350",
-    "doi": "https://doi.org/10.1145/3197517.3201374"
+    "doi": "10.1145/3197517.3201374"
   },
   {
     "url": "351",
@@ -1249,7 +1249,7 @@
     "author": "Bernhard Kerbl, Michael Kenzel, Elena Ivanchenko, Dieter Schmalstieg, Markus Steinberger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_351",
-    "doi": "https://doi.org/10.1145/3233302"
+    "doi": "10.1145/3233302"
   },
   {
     "url": "352",
@@ -1264,7 +1264,7 @@
     "author": "Michael Kenzel, Bernhard Kerbl, Wolfgang Tatzgern, Elena Ivanchenko, Dieter Schmalstieg, Markus Steinberger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_352",
-    "doi": "https://doi.org/10.1145/3233303"
+    "doi": "10.1145/3233303"
   },
   {
     "url": "355",
@@ -1275,7 +1275,7 @@
     "author": "Jan Egger, Birgit Pfarrkirchner, Christina Gsaxner, Lydia Lindner, Dieter Schmalstieg, Juergen Wallner",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_355",
-    "doi": "https://doi.org/10.1109/embc.2018.8512458"
+    "doi": "10.1109/embc.2018.8512458"
   },
   {
     "abstract": "Three-dimensional (3D) crime scene documentation using 3D scanners and medical imaging modalities like computed tomography (CT) and magnetic resonance imaging (MRI) are increasingly applied in forensic casework. Together with digital photography, these modalities enable comprehensive and non-invasive recording of forensically relevant information regarding injuries/pathologies inside the body and on its surface. Furthermore, it is possible to capture traces and items at crime scenes. Such digitally secured evidence has the potential to similarly increase case understanding by forensic experts and non-experts in court. Unlike photographs and 3D surface models, images from CT and MRI are not self-explanatory. Their interpretation and understanding requires radiological knowledge. Findings in tomography data must not only be revealed, but should also be jointly studied with all the 2D and 3D data available in order to clarify spatial interrelations and to optimally exploit the data at hand. This is technically challenging due to the heterogeneous data representations including volumetric data, polygonal 3D models, and images. This paper presents a novel computer-aided forensic toolbox providing tools to support the analysis, documentation, annotation, and illustration of forensic cases using heterogeneous digital data. Conjoint visualization of data from different modalities in their native form and efficient tools to visually extract and emphasize findings help experts to reveal unrecognized correlations and thereby enhance their case understanding. Moreover, the 3D case illustrations created for case analysis represent an efficient means to convey the insights gained from case analysis to forensic non-experts involved in court proceedings like jurists and laymen. The capability of the presented approach in the context of case analysis, its potential to speed up legal procedures and to ultimately enhance legal certainty is demonstrated by introducing a number of representative forensic cases.",
@@ -1290,7 +1290,7 @@
     "title": "Integrated Computer-aided Forensic Case Analysis, Presentation, and Documentation based on Multimodal 3D Data",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_344",
-    "doi": "https://doi.org/10.1016/j.forsciint.2018.03.031"
+    "doi": "10.1016/j.forsciint.2018.03.031"
   },
   {
     "abstract": "Harnessing the power of massively parallel devices like the graphics processing unit (GPU) is difficult for algorithms that show dynamic or inhomogeneous workloads. To achieve high performance, such advanced algorithms require scalable, concurrent queues to collect and distribute work. We show that previous queuing approaches are unfit for this task, as they either (1) do not work well in a massively parallel environment, or (2) obstruct the use of individual threads on top of single-instruction-multiple-data (SIMD) cores, or (3) block during access, thus prohibiting multi-queue setups. With these issues in mind, we present the Broker Queue, a highly efficient, fully linearizable FIFO queue for fine-granular parallel work distribution on the GPU. We evaluate its performance and usability on modern GPU models against a wide range of existing algorithms. The Broker Queue is up to three orders of magnitude faster than non-blocking queues and can even outperform significantly simpler techniques that lack desired properties for fine-granular work distribution.",
@@ -1304,7 +1304,7 @@
     "title": "The Broker Queue: A Fast, Linearizable FIFO Queue for Fine-Granular Work Distribution on the GPU",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_353",
-    "doi": "https://doi.org/10.1145/3205289.3205291"
+    "doi": "10.1145/3205289.3205291"
   },
   {
     "url": "356",
@@ -1318,7 +1318,7 @@
     "title": "Clinical evaluation of semi-automatic open-source algorithmic software segmentation of the mandibular bone: Practical feasibility and assessment of a new course of action",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_356",
-    "doi": "https://doi.org/10.1371/journal.pone.0196378"
+    "doi": "10.1371/journal.pone.0196378"
   },
   {
     "abstract": "Drones allow exploring dangerous or impassable areas safely from a distant point of view. However, flight control froman egocentric view in narrow or constrained environments can be challenging. Arguably, an exocentric view would afford a betteroverview and, thus, more intuitive flight control of the drone. Unfortunately, such an exocentric view is unavailable when exploringindoor environments. This paper investigates the potential of drone-augmented human vision, i.e., of exploring the environment andcontrolling the drone indirectly from an exocentric viewpoint. If used with a see-through display, this approach can simulate X-rayvision to provide a natural view into an otherwise occluded environment. The user's view is synthesized from a three-dimensionalreconstruction of the indoor environment using image-based rendering. This user interface is designed to reduce the cognitive load ofthe drone's flight control. The user can concentrate on the exploration of the inaccessible space, while flight control is largely delegatedto the drone's autopilot system. We assess our system with a first experiment showing how drone-augmented human vision supportsspatial understanding and improves natural interaction with the drone.",
@@ -1335,7 +1335,7 @@
     "author": "Okan Erat, W. Alexander Isop, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_341",
-    "doi": "https://doi.org/10.1109/tvcg.2018.2794058"
+    "doi": "10.1109/tvcg.2018.2794058"
   },
   {
     "url": "342",
@@ -1346,7 +1346,7 @@
     "author": "Rafael Roberto, Joao Paulo Lima, Hideaki Uchiyama, Clemens Arth, Veronica Teichrieb, Rin-Ichiro Taniguchi, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_342",
-    "doi": "https://doi.org/10.1109/wacv.2018.00110"
+    "doi": "10.1109/wacv.2018.00110"
   },
   {
     "url": "345",
@@ -1358,7 +1358,7 @@
     "author": "Lydia Lindner, Birgit Pfarrkirchner, Christina Gsaxner, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_345",
-    "doi": "https://doi.org/10.1117/12.2315704"
+    "doi": "10.1117/12.2315704"
   },
   {
     "url": "346",
@@ -1370,7 +1370,7 @@
     "author": "Simon Gunacker, Markus Gall, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_346",
-    "doi": "https://doi.org/10.1117/12.2292718"
+    "doi": "10.1117/12.2292718"
   },
   {
     "url": "347",
@@ -1382,7 +1382,7 @@
     "author": "Birgit Pfarrkirchner, Christina Gsaxner, Lydia Lindner, Norbert Jakse, Juergen Wallner, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_347",
-    "doi": "https://doi.org/10.1117/12.2292708"
+    "doi": "10.1117/12.2292708"
   },
   {
     "url": "348",
@@ -1395,7 +1395,7 @@
     "author": "Christina Gsaxner, Birgit Pfarrkirchner, Lydia Lindner, Norbert Jakse, Juergen Wallner, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_348",
-    "doi": "https://doi.org/10.1117/12.2292706"
+    "doi": "10.1117/12.2292706"
   },
   {
     "url": "354",
@@ -1410,7 +1410,7 @@
     "author": "Bernhard Kerbl, Joerg Mueller, Michael Kenzel, Dieter Schmalstieg, Markus Steinberger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_354",
-    "doi": "https://doi.org/10.1145/3200691.3178526"
+    "doi": "10.1145/3200691.3178526"
   },
   {
     "url": "343",
@@ -1446,7 +1446,7 @@
     "author": "Bruce Thomas, Gregory Welch, Pierre Dragicevic, Niklas Elmqvist, Pourang Irani, Yvonne Jansen, Dieter Schmalstieg, Aurelien Tabard, Neven Elsayed, Ross Smith, Wesley Willett",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_363a",
-    "doi": "https://doi.org/10.1109/bdva.2015.7314302"
+    "doi": "10.1109/bdva.2015.7314302"
   },
   {
     "abstract": "This paper presents the first photometric registration pipeline for Mixed Reality based on high quality illumination estimation byconvolutional neural network (CNN) methods. For easy adaptation and deployment of the system, we train the CNN using purelysynthetic images and apply them to real image data. To keep thepipeline accurate and efficient, we propose to fuse the light estimation results from multiple CNN instances, and we show an approach for caching estimates over time. For optimal performance, we furthermore explore multiple strategies for the CNN training. Experimental results show that the proposed method yields highly accurate estimates for photo-realistic augmentation",
@@ -1461,7 +1461,7 @@
     "title": "Learning Lightprobes for Mixed Reality Illumination",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_337",
-    "doi": "https://doi.org/10.1109/ismar.2017.25"
+    "doi": "10.1109/ismar.2017.25"
   },
   {
     "url": "339",
@@ -1475,7 +1475,7 @@
     "author": "Jan Egger, Juergen Wallner, Markus Gall, Xiaojun Chen, Katja Schwenzer-Zimmerer, Knut Reinbacher, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_339",
-    "doi": "https://doi.org/10.1371/journal.pone.0182839"
+    "doi": "10.1371/journal.pone.0182839"
   },
   {
     "url": "340",
@@ -1487,7 +1487,7 @@
     "author": "Jan Egger, Xiaojun Chen, Lucas Bettac, Mark Haenle, Tilmann Graeter, Wolfram Zoller, Dieter Schmalstieg, Alexander Hann",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_340",
-    "doi": "https://doi.org/10.1109/bmeicon.2017.8229099"
+    "doi": "10.1109/bmeicon.2017.8229099"
   },
   {
     "url": "338",
@@ -1499,7 +1499,7 @@
     "title": "Effective Static Bin Patterns for Sort-Middle Rendering",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_338",
-    "doi": "https://doi.org/10.1145/3105762.3105777"
+    "doi": "10.1145/3105762.3105777"
   },
   {
     "url": "335",
@@ -1539,7 +1539,7 @@
     "author": "Peter Mohr, David Mandl, Markus Tatzgern, Eduardo Veas, Dieter Schmalstieg, Denis Kalkofen",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_330",
-    "doi": "https://doi.org/10.1145/3025453.3025688"
+    "doi": "10.1145/3025453.3025688"
   },
   {
     "url": "328",
@@ -1551,7 +1551,7 @@
     "author": "Markus Gall, Knut Reinbacher, Juergen Wallner, Katja Schwenzer-Zimmerer, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_328",
-    "doi": "https://doi.org/10.1007/978-3-662-54345-0_32"
+    "doi": "10.1007/978-3-662-54345-0_32"
   },
   {
     "url": "331",
@@ -1564,7 +1564,7 @@
     "author": "Peter Mohr, Markus Tatzgern, Jens Grubert, Dieter Schmalstieg, Denis Kalkofen",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_331",
-    "doi": "https://doi.org/10.1109/3dui.2017.7893336"
+    "doi": "10.1109/3dui.2017.7893336"
   },
   {
     "url": "333",
@@ -1578,7 +1578,7 @@
     "author": "Jan Egger, Markus Gall, Juergen Wallner, Pedro Boechat, Alexander Hann, Xing Li, Xiaojun Chen, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_333",
-    "doi": "https://doi.org/10.1371/journal.pone.0173972"
+    "doi": "10.1371/journal.pone.0173972"
   },
   {
     "url": "334",
@@ -1592,7 +1592,7 @@
     "author": "Jan Egger, Markus Gall, Alois Tax, Muammer Uecal, Ulrike Zefferer, Xing Li, Gord von Campe, Ute Schaefer, Dieter Schmalstieg, Xiaojun Chen",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_334",
-    "doi": "https://doi.org/10.1371/journal.pone.0172694"
+    "doi": "10.1371/journal.pone.0172694"
   },
   {
     "url": "324",
@@ -1604,7 +1604,7 @@
     "author": "Markus Gall, Knut Reinbacher, Juergen Wallner, Jan Stanzel, Xiaojun Chen, Katja Schwenzer-Zimmerer, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_324",
-    "doi": "https://doi.org/10.1117/12.2249748"
+    "doi": "10.1117/12.2249748"
   },
   {
     "url": "325",
@@ -1616,7 +1616,7 @@
     "author": "Jan Egger, Kerstin Hochegger, Markus Gall, Xiaojun Chen, Knut Reinbacher, Katja Schwenzer-Zimmerer, Dieter Schmalstieg, Juergen Wallner",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_325",
-    "doi": "https://doi.org/10.1117/12.2249532"
+    "doi": "10.1117/12.2249532"
   },
   {
     "url": "326",
@@ -1628,7 +1628,7 @@
     "author": "Jan Egger, Markus Gall, Juergen Wallner, Pedro Boechat, Alexander Hann, Xing Li, Xiaojun Chen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_326",
-    "doi": "https://doi.org/10.1117/12.2263234"
+    "doi": "10.1117/12.2263234"
   },
   {
     "url": "329",
@@ -1653,7 +1653,7 @@
     "author": "Jan Egger, Dieter Schmalstieg, Xiaojun Chen, Wolfram G. Zoller, Alexander Hann",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_332",
-    "doi": "https://doi.org/10.1038/s41598-017-00940-z"
+    "doi": "10.1038/s41598-017-00940-z"
   },
   {
     "url": "349",
@@ -1665,7 +1665,7 @@
     "author": "A. Hann, L. Bettac, M. M. Haenle, T. Graeter, A. W. Berger, J. Dreyhaupt, D. Schmalstieg, W. G. Zoller, J. Egger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_349",
-    "doi": "https://doi.org/10.1038/s41598-017-12925-z"
+    "doi": "10.1038/s41598-017-12925-z"
   },
   {
     "abstract": "In this paper, we present the concept of operator graph scheduling for high performance procedural generation on the graphics processing unit (GPU). The operator graph forms an intermediate representation that describes all possible operations and objects that can arise during a specific procedural generation. While previous methods have focused on parallelizing a specific procedural approach, the operator graph is applicable to all procedural generation methods that can be described by a graph, such as L-systems, shape grammars, or stack based generation methods. Using the operator graph, we show that all partitions of the graph correspond to possible ways of scheduling a procedural generation on the GPU, including the scheduling strategies of previous work. As the space of possible partitions is very large, we describe three search heuristics, aiding an optimizer in finding the fastest valid schedule for any given operator graph. The best partitions found by our optimizer increase performance of 8 to 30x over the previous state of the art in GPU shape grammar and L-system generation.",
@@ -1679,7 +1679,7 @@
     "author": "Pedro Boechat, Mark Dokter, Michael Kenzel, Hans-Peter Seidel, Dieter Schmalstieg, Markus Steinberger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_319",
-    "doi": "https://doi.org/10.1145/2980179.2980227"
+    "doi": "10.1145/2980179.2980227"
   },
   {
     "abstract": "We present a novel approach for extending the input spacearound unmodified mobile devices. Using built-in front-facing cameras of unmodified handheld devices, GlassHandsestimates hand poses and gestures through reflections in sun-glasses, ski goggles or visors. Thereby, GlassHands createsan enlarged input space, rivaling input reach on large touchdisplays. We introduce the idea along with its technical con-cept and implementation. We demonstrate the feasibility andpotential of our proposed approach in several applicationscenarios, such as map browsing or drawing using a set ofinteraction techniques previously possible only with modifiedmobile devices or on large touch displays. Our research isbacked up with a user study.",
@@ -1694,7 +1694,7 @@
     "author": "Jens Grubert, Michel Pahud, Matthias Kranz, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_320",
-    "doi": "https://doi.org/10.1145/2992154.2992162"
+    "doi": "10.1145/2992154.2992162"
   },
   {
     "abstract": "A mobile flying projector is hard to build dueto the limited size and payload capability of a micro aerial vehicle. Few flying projector designs have been studied inrecent research. However, to date, no practical solution has been presented. We propose a versatile laser projection system enabling in-flight projection with feed forward correction for stabilization of projected images. We present a quantitative evaluation of the accuracy of the projection stabilization intwo autonomous flight experiments. While this approach isour first step towards a flying projector, we foresee interesting applications, such as providing on-site instructions in various human machine interaction scenarios.",
@@ -1708,7 +1708,7 @@
     "author": "W. Alexander Isop, Jesus Pestana Puerta, Gabriele Ermacora, Friedrich Fraundorfer, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_318",
-    "doi": "https://doi.org/10.1109/iros.2016.7759826"
+    "doi": "10.1109/iros.2016.7759826"
   },
   {
     "abstract": "We present a method for recovering both incident lighting and surface materials from casually scanned geometry. By casual, we mean a rapid and potentially noisy scanning procedure of unmodified and uninstrumented scenes with a commodity RGB-D sensor. In other words, unlike reconstruction procedures which require careful preparations in a laboratory environment, our method works with input that can be obtained by consumer users. To ensure a robust procedure, we segment the reconstructed geometry into surfaces with homogeneous material properties and compute the radiance transfer on these segments. With this input, we solve the inverse rendering problem of factorization into lighting and material properties using an iterative optimization in spherical harmonics form. This allows us to account for self-shadowing and recover specular properties. The resulting data can be used to generate a wide range of mixed reality applications, including the rendering of synthetic objects with matching lighting into a given scene, but also re-rendering the scene (or a part of it) with new lighting. We show the robustness of our approach with real and synthetic examples under a variety of lighting conditions and compare them with ground truth data.",
@@ -1723,7 +1723,7 @@
     "author": "Thomas Richter-Trummer, Jinwoo Park, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_316",
-    "doi": "https://doi.org/10.1109/ismar.2016.18"
+    "doi": "10.1109/ismar.2016.18"
   },
   {
     "url": "321",
@@ -1735,7 +1735,7 @@
     "author": "Philipp Fleck, Clemens Arth, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_321",
-    "doi": "https://doi.org/10.1109/ismar-adjunct.2016.0110"
+    "doi": "10.1109/ismar-adjunct.2016.0110"
   },
   {
     "url": "323",
@@ -1759,7 +1759,7 @@
     "author": "Markus Gall, Xing Li, Xiaojun Chen, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_312",
-    "doi": "https://doi.org/10.1109/embc.2016.7590915"
+    "doi": "10.1109/embc.2016.7590915"
   },
   {
     "url": "313",
@@ -1771,7 +1771,7 @@
     "author": "Jan Egger, Juergen Wallner, Kerstin Hochegger, Markus Gall, Knut Reinbacher, Katja Schwenzer-Zimmerer, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_313",
-    "doi": "https://doi.org/10.1371/journal.pone.0196378"
+    "doi": "10.1371/journal.pone.0196378"
   },
   {
     "url": "314",
@@ -1797,7 +1797,7 @@
     "author": "Markus Gall, Xiaojun Chen, Dieter Schmalstieg, Jan Egger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_306",
-    "doi": "https://doi.org/10.1109/embc.2016.7590915"
+    "doi": "10.1109/embc.2016.7590915"
   },
   {
     "url": "307",
@@ -1811,7 +1811,7 @@
     "author": "Philip Voglreiter, Panchatcharam Mariappan, Tuomas Alhonnoro, Harald Busse, Phil Weir, Mika Pollari, Ronan Flanagan, Michael Hofmann, Daniel Seider, Philipp Brandmaier, Martinus Johannes van Amerongen, Riitta Rautio, Sjoerd Jenniskens, Roberto Blanco Sequeiros, Horst Portugaller, Philipp Stiegler, Jurgen Futterer, Dieter Schmalstieg, Marina Kolesnik, Michael Moche",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_307",
-    "doi": "https://doi.org/10.1038/s41598-017-18899-2"
+    "doi": "10.1038/s41598-017-18899-2"
   },
   {
     "abstract": "The analysis of paths in graphs is highly relevant in many domains. Typically, path-related tasks are performed in node-link layouts. Unfortunately, graph layouts often do not scale to the size of many real world networks. Also, many networks are multivariate, i.e., contain rich attribute sets associated with the nodes and edges. These attributes are often critical in judging paths, but directly visualizing attributes in a graph layout exacerbates the scalability problem. In this paper, we present visual analysis solutions dedicated to path-related tasks in large and highly multivariate graphs. We show that by focusing on paths, we can address the scalability problem of multivariate graph visualization, equipping analysts with a powerful tool to explore large graphs. We introduce Pathfinder, a technique that provides visual methods to query paths, while considering various constraints. The resulting set of paths is visualized in both a ranked list and as a node-link diagram. For the paths in the list, we display rich attribute data associated with nodes and edges, and the node-link diagram provides topological context. The paths can be ranked based on topological properties, such as path length or average node degree, and scores derived from attribute data. Pathfinder is designed to scale to graphs with tens of thousands of nodes and edges by employing strategies such as incremental query results. We demonstrate Pathfinder's fitness for use in scenarios with data from a coauthor network and biological pathways.",
@@ -1851,7 +1851,7 @@
     "author": "Markus Tatzgern, Valeria Orso, Denis Kalkofen, Giulio Jacucci, Luciano Gamberini, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_304",
-    "doi": "https://doi.org/10.1109/vr.2016.7504691"
+    "doi": "10.1109/vr.2016.7504691"
   },
   {
     "url": "305",
@@ -1862,7 +1862,7 @@
     "author": "Thomas Geymayer, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_305",
-    "doi": "https://doi.org/10.1109/immersive.2016.7932375"
+    "doi": "10.1109/immersive.2016.7932375"
   },
   {
     "url": "309",
@@ -1874,7 +1874,7 @@
     "title": "Visionary Collaborative Outdoor Reconstruction using SLAM and SfM",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_309",
-    "doi": "https://doi.org/10.1109/searis.2016.7551588"
+    "doi": "10.1109/searis.2016.7551588"
   },
   {
     "year": "2016",
@@ -1901,7 +1901,7 @@
     "author": "Andreas Hartl, Clemens Arth, Jens Grubert, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_302",
-    "doi": "https://doi.org/10.1109/tvcg.2015.2498612"
+    "doi": "10.1109/tvcg.2015.2498612"
   },
   {
     "abstract": "Temporal coherence of annotations is an important factor in augmented reality user interfaces and for information visualization. In this paper, we empirically evaluate four different techniques for annotation. Based on these findings, we follow up with subjective evaluations in a second experiment. Results show that presenting annotations in object space or image space leads to a significant difference in task performance. Furthermore, there is a significant interaction between rendering space and update frequency of annotations. Participants improve significantly in locating annotations, when annotations are presented in object space, and view management update rate is limited. In a follow-up experiment, participants appear to be more satisfied with limited update rate in comparison to a continuous update rate of the view management system.",
@@ -1914,7 +1914,7 @@
     "author": "Jacob Madsen, Markus Tatzgern, Denis Kalkofen, Dieter Schmalstieg, Claus Madsen",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_303",
-    "doi": "https://doi.org/10.1109/tvcg.2016.2518318"
+    "doi": "10.1109/tvcg.2016.2518318"
   },
   {
     "url": "311",
@@ -1939,7 +1939,7 @@
     "author": "Bernhard Kerbl, Michael Kenzel, Dieter Schmalstieg, Hans-Peter Seidel, Markus Steinberger",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_327",
-    "doi": "https://doi.org/10.1111/cgf.13075"
+    "doi": "10.1111/cgf.13075"
   },
   {
     "abstract": "In this work, we present a new automatic system for scene reconstruction of high-level structural models. We start with identifying planar regions in depth images obtained with a SLAM system. Our main contribution is an approach which identifies constraints such as incidence and orthogonality of planar surfaces and uses them in an incremental optimization framework to extract high-level structural models. The result is a manifold mesh with a low number of polygons, immediately useful in many Augmented Reality applications such as inspection, interior design or spatial interaction",
@@ -1955,7 +1955,7 @@
     "author": "Thanh Nguyen, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_294",
-    "doi": "https://doi.org/10.1109/tvcg.2015.2459831"
+    "doi": "10.1109/tvcg.2015.2459831"
   },
   {
     "abstract": "We present a method for large-scale geo-localization and global tracking of mobile devices in urban outdoor environments. In contrast to existing methods, we instantaneously initialize and globally register a SLAM map by localizing the first keyframe with respect towidely available untextured 2.5D maps. Given a single image frame and a coarse sensor pose prior, our localization method estimatesthe absolute camera orientation from straight line segments and the translation by aligning the city map model with a semantic segmentation of the image. We use the resulting 6DOF pose, together with information inferred from the city map model, to reliably initialize and extend a 3D SLAM map in a global coordinate system, applying a model-supported SLAM mapping approach. We show the robustness and accuracy of our localization approach on a challenging dataset, and demonstrate unconstrained global SLAM mapping and tracking of arbitrary camera motion on several sequence",
@@ -1972,7 +1972,7 @@
     "author": "Clemens Arth, Christian Pirchheim, Jonathan Ventura, Dieter Schmalstieg, Vincent Lepetit",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_295",
-    "doi": "https://doi.org/10.1109/tvcg.2015.2459772"
+    "doi": "10.1109/tvcg.2015.2459772"
   },
   {
     "url": "298",
@@ -1983,7 +1983,7 @@
     "author": "Cledja Rolim, Dieter Schmalstieg, Denis Kalkofen, Veronica Teichrieb",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_298",
-    "doi": "https://doi.org/10.1109/ismar.2015.36"
+    "doi": "10.1109/ismar.2015.36"
   },
   {
     "url": "299",
@@ -1994,7 +1994,7 @@
     "author": "Philipp Fleck, Clemens Arth, Christian Pirchheim, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_299",
-    "doi": "https://doi.org/10.1109/ismar.2015.40"
+    "doi": "10.1109/ismar.2015.40"
   },
   {
     "url": "300",
@@ -2005,7 +2005,7 @@
     "author": "Christian Poglitsch, Clemens Arth, Dieter Schmalstieg, Jonathan Ventura",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_300",
-    "doi": "https://doi.org/10.1109/ismar.2015.39"
+    "doi": "10.1109/ismar.2015.39"
   },
   {
     "url": "296",
@@ -2028,7 +2028,7 @@
     "title": "Towards Mobile Recognition and Verification of Holograms using Orthogonal Sampling",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_310",
-    "doi": "https://doi.org/10.1109/ismarw.2015.22"
+    "doi": "10.1109/ismarw.2015.22"
   },
   {
     "url": "297",
@@ -2039,7 +2039,7 @@
     "author": "Jan Egger, Harald Busse, Philipp Brandmaier, Daniel Seider, Matthias Gawlitza, Steffen Strocka, Philip Voglreiter, Mark Dokter, Michael Hofmann, Bernhard Kainz, Xiaojun Chen, Alexander Hann, Pedro Boechat, Wei Yu, Bernd Freisleben, Tuomas Alhonnoro, Mika Pollari, Michael Moche, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_297",
-    "doi": "https://doi.org/10.1109/embc.2015.7318883"
+    "doi": "10.1109/embc.2015.7318883"
   },
   {
     "abstract": "Display devices on and around the body such as smart-watches, head-mounted displays or tablets enable users to interact on the go. However, diverging input and output fidelities of these devices can lead to interaction seams that can inhibit efficient mobile interaction, when users employ multiple devices at once. We present MultiFi, an interactive system that combines the strengths of multiple displays and overcomes the seams of mobile interaction with widgets distributed over multiple devices. A comparative user study indicates that combined head-mounted display and smartwatch interfaces can outperform interaction with single wearable devices.",
@@ -2054,7 +2054,7 @@
     "author": "Jens Grubert, Matthias Heinisch, Aaron Quigley, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_287",
-    "doi": "https://doi.org/10.1145/2702123.2702331"
+    "doi": "10.1145/2702123.2702331"
   },
   {
     "abstract": "We present a system which automatically transfers printed technical documentation, such as handbooks, to three-dimensional Augmented Reality. Our system identifies themost frequent forms of instructions found in printed documentation, such as image sequences, explosion diagrams, textual annotations and arrows indicating motion. The analysis of the printed documentation works automatically, with minimal user input. The system only requires the documentation itself and a CAD model or 3D scan of the object described in the documentation. The output is a fully interactive Augmented Reality application, presenting the information from the printed documentation in 3D, registered to the real object.",
@@ -2069,7 +2069,7 @@
     "author": "Peter Mohr, Bernhard Kerbl, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_288",
-    "doi": "https://doi.org/10.1145/2702123.2702490"
+    "doi": "10.1145/2702123.2702490"
   },
   {
     "abstract": "We present an approach for the automatic generation, interactive exploration and real-time modification of disassembly procedures for complex, multipartite CAD data sets. In order to lift the performance barriers prohibiting interactive disassembly planning, we run a detailed analysis on the input model to identify recurring part constellations and efficiently determine blocked part motions in parallel on the GPU. Building on the extracted information, we present an interface for computing and editing extensive disassembly sequences in real-time while considering user-defined constraints and avoiding unstable configurations. To evaluate the performance of our C++/CUDA implementation, we use a variety of openly available CAD data sets, ranging from simple to highly complex. In contrast to previous approaches, our work enables interactive disassembly planning for objects which consist of several thousand parts and require cascaded translations during part removal.",
@@ -2084,7 +2084,7 @@
     "title": "Interactive Disassembly Planning of Complex Objects",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_289",
-    "doi": "https://doi.org/10.1111/cgf.12560"
+    "doi": "10.1111/cgf.12560"
   },
   {
     "abstract": "We present an efficient approach for probeless light estimation andcoherent rendering of Augmented Reality in dynamic scenes. Thisapproach can handle dynamically changing scene geometry and dy-namically changing light sources in real time with a single mobileRGB-D sensor and without relying on an invasive lightprobe. Wejointly filter both in-view dynamic geometry and outside-view staticgeometry. The resulting reconstruction provides the input for effi-cient global illumination computation in image-space. We demon-strate that our approach can deliver state-of-the-art Augmented Re-ality rendering effects for scenes that are more scalable and moredynamic than previous work.",
@@ -2099,7 +2099,7 @@
     "author": "Lukas Gruber, Jonathan Ventura, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_290",
-    "doi": "https://doi.org/10.1109/vr.2015.7223334"
+    "doi": "10.1109/vr.2015.7223334"
   },
   {
     "url": "291",
@@ -2111,7 +2111,7 @@
     "author": "Andreas Hartl, Clemens Arth, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_291",
-    "doi": "https://doi.org/10.1109/vr.2015.7223333"
+    "doi": "10.1109/vr.2015.7223333"
   },
   {
     "url": "292",
@@ -2162,7 +2162,7 @@
     "author": "Andreas Hartl, Clemens Arth, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_285",
-    "doi": "https://doi.org/10.1007/978-3-319-14364-4_32"
+    "doi": "10.1007/978-3-319-14364-4_32"
   },
   {
     "abstract": "Conventional pipelines for capturing, displaying, and storing images are usually defined as a series of cascaded modules, each responsible for addressing a particular problem. While this divide-and-conquer approach offers many benefits, it also introduces a cumulative error, as each step in the pipeline only considers the output of the previous step, not the original sensor data. We propose an end-to-end system that is aware of the camera and image model, enforces natural-image priors, while jointly accounting for common image processing steps like demosaicking, denoising, deconvolution, and so forth, all directly in a given output representation (e.g., YUV, DCT). Our system is flexible and we demonstrate it on regular Bayer images as well as images from custom sensors. In all cases, we achieve large improvements in image quality and signal reconstruction compared to state-of-the-art techniques. Finally, we show that our approach is capable of very efficiently handling high-resolution images, making even mobile implementations feasible.",
@@ -2176,7 +2176,7 @@
     "title": "Whippletree: Task-based Scheduling of Dynamic Workloads on the GPU",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_286",
-    "doi": "https://doi.org/10.1145/2661229.2661250"
+    "doi": "10.1145/2661229.2661250"
   },
   {
     "abstract": "Large scale data analysis is nowadays a crucial part of drug discovery. Biologists and chemists need to quickly explore and evaluate potentially effective yet safe compounds based on many datasets that are in relationship with each other. However, there is a is a lack of tools that support them in these processes. To remedy this, we developed ConTour, an interactive visual analytics technique that enables the exploration of these complex, multi-relational datasets. At its core ConTour lists all items of each dataset in a column. Relationships between the columns are revealed through interaction: selecting one or multiple items in one column highlights and re-sorts the items in other columns. Filters based on relationships enable drilling down into the large data space. To identify interesting items in the first place, ConTour employs advanced sorting strategies, including strategies based on connectivity strength and uniqueness, as well as sorting based on item attributes. ConTour also introduces interactive nesting of columns, a powerful method to show the related items of a child column for each item in the parent column. Within the columns, ConTour shows rich attribute data about the items as well as information about the connection strengths to other datasets. Finally, ConTour provides a number of detail views, which can show items from multiple datasets and their associated data at the same time. We demonstrate the utility of our system in case studies conducted with a team of chemical biologists, who investigate the effects of chemical compounds on cells and need to understand the underlying mechanisms.",
@@ -2193,7 +2193,7 @@
     "author": "Christian Partl, Alexander Lex, Marc Streit, Hendrik Strobelt, Anne-Mai Wassermann, Hanspeter Pfister, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_280",
-    "doi": "https://doi.org/10.1109/tvcg.2014.2346752"
+    "doi": "10.1109/tvcg.2014.2346752"
   },
   {
     "selected": "1",
@@ -2206,7 +2206,7 @@
     "author": "Feng Zheng, Dieter Schmalstieg, Greg Welch",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_277",
-    "doi": "https://doi.org/10.1109/ismar.2014.6948419"
+    "doi": "10.1109/ismar.2014.6948419"
   },
   {
     "url": "278",
@@ -2218,7 +2218,7 @@
     "author": "Elias Tappeiner, Dieter Schmalstieg, Tobias Langlotz ",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_278",
-    "doi": "https://doi.org/10.1109/ismar.2014.6948465"
+    "doi": "10.1109/ismar.2014.6948465"
   },
   {
     "url": "279",
@@ -2230,7 +2230,7 @@
     "author": "Jens Grubert, Hartmut Seichter, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_279",
-    "doi": "https://doi.org/10.1109/ismar.2014.6948443"
+    "doi": "10.1109/ismar.2014.6948443"
   },
   {
     "abstract": "Cancer is a heterogeneous disease, and molecular profiling of tumors from large cohorts has enabled characterization of new tumor subtypes. This is a prerequisite for improving personalized treatment and ultimately achieving better patient outcomes. Potential tumor subtypes can be identified with methods such as unsupervised clustering or network-based stratification, which assign patients to sets based on high-dimensional molecular profiles. Detailed characterization of identified sets and their interpretation, however, remain a time-consuming exploratory process. To address these challenges, we combined 'StratomeX', an interactive visualization tool that is freely available at http://www.caleydo.org/, with exploration tools to efficiently compare multiple patient stratifications, to correlate patient sets with clinical information or genomic alterations and to view the differences between molecular profiles across patient sets. Although we focus on cancer genomics here, StratomeX can also be applied in other disease cohorts.",
@@ -2250,7 +2250,7 @@
     "title": "Guided visual exploration of genomic stratifications in cancer",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_281",
-    "doi": "https://doi.org/10.1038/nmeth.3088"
+    "doi": "10.1038/nmeth.3088"
   },
   {
     "url": "273",
@@ -2262,7 +2262,7 @@
     "author": "Michael Donoser, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_273",
-    "doi": "https://doi.org/10.1109/cvpr.2014.73"
+    "doi": "10.1109/cvpr.2014.73"
   },
   {
     "url": "274",
@@ -2274,7 +2274,7 @@
     "author": "Michael Donoser, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_274",
-    "doi": "https://doi.org/10.1109/cvpr.2014.404"
+    "doi": "10.1109/cvpr.2014.404"
   },
   {
     "url": "275",
@@ -2286,7 +2286,7 @@
     "author": "Jonathan Ventura, Clemens Arth, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_275",
-    "doi": "https://doi.org/10.1109/cvpr.2014.61"
+    "doi": "10.1109/cvpr.2014.61"
   },
   {
     "abstract": "We propose a technique to build the irradiance cache for isotropic scattering simultaneously with Monte Carlo progressive direct volume rendering on a single GPU, which allows us to achieve up to four times increased convergence rate for complex scenes with arbitrary sources of light. We use three procedures that run concurrently on a single GPU. The first is the main rendering procedure. The second procedure computes new cache entries, and the third one corrects the errors that may arise after creation of new cache entries. We propose two distinct approaches to allow massive parallelism of cache entry creation. In addition, we show a novel extrapolation approach which outputs high quality irradiance approximations and a suitable prioritization scheme to increase the convergence rate by dedicating more computational power to more complex rendering areas.",
@@ -2302,7 +2302,7 @@
     "author": "Rostislav Khlebnikov, Philip Voglreiter, Markus Steinberger, Bernhard Kainz, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_276",
-    "doi": "https://doi.org/10.1111/cgf.12362"
+    "doi": "10.1111/cgf.12362"
   },
   {
     "url": "264",
@@ -2318,7 +2318,7 @@
     "author": "Bernhard Kainz, Philip Voglreiter, Michael Sereinigg, Iris\nWiederstein-Grasser, Ursula Mayrhauser, Sonja Koestenbauer and\nMika Pollari, Rostislav Khlebnikov, Matthias Seise, Tuomas\nAlhonnoro, Yrjoe Haeme, Daniel Seider, Ronan Flanagan\nand Claire Bost, Judith Muehl, David O'Neill, Tingying\nPeng, Stephen Payne, Daniel Rueckert, Dieter Schmalstieg\nand Marina Kolesnik, Philipp Stiegler, Rupert H. Portugaller",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_264",
-    "doi": "https://doi.org/10.1109/isbi.2014.6867814"
+    "doi": "10.1109/isbi.2014.6867814"
   },
   {
     "abstract": "Content on computer screens is often inaccessible to users because it is hidden, e.g., occluded by other windows, outside the viewport, or overlooked. In search tasks, the efficient retrieval of sought content is important. Current software, however, only provides limited support to visualize hidden occurrences and rarely supports search synchronization crossing application boundaries. To remedy this situation, we introduce two novel visualization methods to guide users to hidden content. Our first method generates awareness for occluded or out-of-viewport content using see-through visualization. For content that is either outside the screen's viewport or for data sources not opened at all, our second method shows off-screen indicators and an on-demand smart preview. To reduce the chances of overlooking content, we use visual links, i.e., visible edges, to connect the visible content or the visible representations of the hidden content. We show the validity of our methods in a user study, which demonstrates that our technique enables a faster localization of hidden content compared to traditional search functionality and thereby assists users in information retrieval tasks.",
@@ -2334,7 +2334,7 @@
     "author": "Thomas Geymayer, Markus Steinberger, Alexander Lex, Marc Streit, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_265",
-    "doi": "https://doi.org/10.1145/2556288.2557032"
+    "doi": "10.1145/2556288.2557032"
   },
   {
     "abstract": "In this paper, we present a novel approach for the parallel evaluation of procedural shape grammars on the graphics processing unit GPU. Unlike previous approaches that are either limited in the kind of shapes they allow, the amount of parallelism they can take advantage of, or both, our method supports state of the art procedural modeling including stochasticity and context-sensitivity. To increase parallelism, we explicitly express independence in the grammar, reduce inter-rule dependencies required for context-sensitive evaluation, and introduce intra-rule parallelism. Our rule scheduling scheme avoids unnecessary back and forth between CPU and GPU and reduces round trips to slow global memory by dynamically grouping rules in on-chip shared memory. Our GPU shape grammar implementation is multiple orders of magnitude faster than the standard in CPU-based rule evaluation, while offering equal expressive power. In comparison to the state of the art in GPU shape grammar derivation, our approach is nearly 50 times faster, while adding support for geometric context-sensitivity.  ",
@@ -2352,7 +2352,7 @@
     "author": "Markus Steinberger, Michael Kenzel, Bernhard Kainz, Joerg Mueller, Peter Wonka, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_267",
-    "doi": "https://doi.org/10.1111/cgf.12312"
+    "doi": "10.1111/cgf.12312"
   },
   {
     "abstrect": "In this paper, we present a new approach for shape-grammar-based generation and rendering of huge cities in real-time on the graphics processing unit GPU. Traditional approaches rely on evaluating a shape grammar and storing the geometry produced as a preprocessing step. During rendering, the pregenerated data is then streamed to the GPU. By interweaving generation and rendering, we overcome the problems and limitations of streaming pregenerated data. Using our methods of visibility pruning and adaptive level of detail, we are able to dynamically generate only the geometry needed to render the current view in real-time directly on the GPU. We also present a robust and efficient way to dynamically update a scene's derivation tree and geometry, enabling us to exploit frame-to-frame coherence. Our combined generation and rendering is significantly faster than all previous work. For detailed scenes, we are capable of generating geometry more rapidly than even just copying pregenerated data from main memory, enabling us to render cities with thousands of buildings at up to 100 frames per second, even with the camera moving at supersonic speed.",
@@ -2369,7 +2369,7 @@
     "author": "Markus Steinberger, Michael Kenzel, Bernhard Kainz, Peter Wonka, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_268",
-    "doi": "https://doi.org/10.1111/cgf.12315"
+    "doi": "10.1111/cgf.12315"
   },
   {
     "youtube": "3gHacMDIPEw",
@@ -2385,7 +2385,7 @@
     "author": "Jonathan Ventura, Clemens Arth, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_269",
-    "doi": "https://doi.org/10.1109/tvcg.2014.27"
+    "doi": "10.1109/tvcg.2014.27"
   },
   {
     "youtube": "XUQu4XAc2MI",
@@ -2399,7 +2399,7 @@
     "author": "Markus Tatzgern, Denis Kalkofen, Raphael Grasset, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_270",
-    "doi": "https://doi.org/10.1109/vr.2014.6802046"
+    "doi": "10.1109/vr.2014.6802046"
   },
   {
     "url": "271",
@@ -2411,7 +2411,7 @@
     "author": "Markus Tatzgern, Raphael Grasset, Denis Kalkofen Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_271",
-    "doi": "https://doi.org/10.1109/vr.2014.6802045"
+    "doi": "10.1109/vr.2014.6802045"
   },
   {
     "url": "272",
@@ -2423,7 +2423,7 @@
     "author": "Lukas Gruber, Tobias Langlotz, Pradeep Sen, Tobias Hollerer, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_272",
-    "doi": "https://doi.org/10.1109/vr.2014.6802044"
+    "doi": "10.1109/vr.2014.6802044"
   },
   {
     "selected": "1",
@@ -2438,7 +2438,7 @@
     "author": "Tobias Langlotz, Thanh Nguyen, Dieter Schmalstieg, Raphael Grasset",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_266",
-    "doi": "https://doi.org/10.1109/jproc.2013.2294255"
+    "doi": "10.1109/jproc.2013.2294255"
   },
   {
     "url": "263",
@@ -2461,7 +2461,7 @@
     "author": "Markus Tatzgern, Raphael Grasset, Eduardo Veas, Denis Kalkofen, Hartmut Seichter, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_283",
-    "doi": "https://doi.org/10.1016/j.pmcj.2014.08.010"
+    "doi": "10.1016/j.pmcj.2014.08.010"
   },
   {
     "url": "284",
@@ -2472,7 +2472,7 @@
     "author": "Jens Grubert, Michel Pahud, Raphael Grasset, Dieter Schmalstieg\nand Hartmut Seichter",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_284",
-    "doi": "https://doi.org/10.1016/j.pmcj.2014.08.005"
+    "doi": "10.1016/j.pmcj.2014.08.005"
   },
   {
     "url": "262",
@@ -2505,7 +2505,7 @@
     "title": "{enRoute:} Dynamic Path Extraction from Biological Pathway Maps for Exploring Heterogeneous Experimental Datasets",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_250",
-    "doi": "https://doi.org/10.1186/1471-2105-14-s19-s3"
+    "doi": "10.1186/1471-2105-14-s19-s3"
   },
   {
     "url": "261",
@@ -2517,7 +2517,7 @@
     "author": "Tobias Langlotz, Holger Regenbrecht, Stefanie Zollmann, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_261",
-    "doi": "https://doi.org/10.1145/2541016.2541022"
+    "doi": "10.1145/2541016.2541022"
   },
   {
     "address": "Atlanta, GA, USA",
@@ -2547,7 +2547,7 @@
     "author": "Rostislav Khlebnikov, Bernhard Kainz, Markus Steinberger, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_253",
-    "doi": "https://doi.org/10.1109/tvcg.2013.180"
+    "doi": "10.1109/tvcg.2013.180"
   },
   {
     "abstract": "Biological pathway maps are highly relevant tools for many tasks in molecular biology. They reduce the complexity of the overall biological network by partitioning it into smaller manageable parts. While this reduction of complexity is their biggest strength, it is, at the same time, their biggest weakness. By removing what is deemed not important for the primary function of the pathway, biologists lose the ability to follow and understand cross-talks between pathways. Considering these cross-talks is, however, critical in many analysis scenarios, such as judging effects of drugs. In this paper we introduce Entourage, a novel visualization technique that provides contextual information lost due to the artificial partitioning of the biological network, but at the same time limits the presented information to what is relevant to the analyst's task. We use one pathway map as the focus of an analysis and allow a larger set of contextual pathways. For these context pathways we only show the contextual subsets, i.e., the parts of the graph that are relevant to a selection. Entourage suggests related pathways based on similarities and highlights parts of a pathway that are interesting in terms of mapped experimental data. We visualize interdependencies between pathways using stubs of visual links, which we found effective yet not obtrusive. By combining this approach with visualization of experimental data, we can provide domain experts with a highly valuable tool. We demonstrate the utility of Entourage with case studies conducted with a biochemist who researches the effects of drugs on pathways. We show that the technique is well suited to investigate interdependencies between pathways and to analyze, understand, and predict the effect that drugs have on different cell types.",
@@ -2565,7 +2565,7 @@
     "author": "Alexander Lex, Christian Partl, Denis Kalkofen, Marc Streit, Samuel Gratzl, Anne Mai Wassermann, Dieter Schmalstieg, Hanspeter Pfister",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_254",
-    "doi": "https://doi.org/10.1109/tvcg.2013.154"
+    "doi": "10.1109/tvcg.2013.154"
   },
   {
     "abstract": "In Augmented Reality (AR), ghosted views allow a viewer to explore hidden structure within the real-world environment. A body of previous work has explored which features are suitable to support the structural interplay between occluding and occluded elements. However, the dynamics of AR environments pose serious challenges to the presentation of ghosted views. While a model of the real world may help determine distinctive structural features, changes in appearance or illumination detriment the composition of occluding and occluded structure. In this paper, we present an approach that considers the information value of the scene before and after generating the ghosted view. Hereby, a contrast adjustment of preserved occluding features is calculated, which adaptively varies their visual saliency within the ghosted view visualization. This allows us to not only preserve important features, but to also support their prominence after revealing occluded structure, thus achieving a positive effect on the perception of ghosted views.",
@@ -2581,7 +2581,7 @@
     "author": "Denis Kalkofen, Eduardo Veas, Stefanie Zollmann, Markus Steinberger, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_255",
-    "doi": "https://doi.org/10.1109/ismar.2013.6671758"
+    "doi": "10.1109/ismar.2013.6671758"
   },
   {
     "url": "256",
@@ -2594,7 +2594,7 @@
     "author": "Thanh Nguyen, Raphael Grasset, Dieter Schmalstieg, Gerhard Reitmayr",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_256",
-    "doi": "https://doi.org/10.1109/ismar.2013.6671770"
+    "doi": "10.1109/ismar.2013.6671770"
   },
   {
     "youtube": "t5TzFtcIFN8",
@@ -2609,7 +2609,7 @@
     "author": "Andreas Hartl, Jens Grubert, Dieter Schmalstieg, Gerhard Reitmayr",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_257",
-    "doi": "https://doi.org/10.1109/ismar.2013.6671766"
+    "doi": "10.1109/ismar.2013.6671766"
   },
   {
     "youtube": "Nq07MCO-lCw",
@@ -2624,7 +2624,7 @@
     "author": "Christian Pirchheim, Dieter Schmalstieg, Gerhard Reitmayr",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_258",
-    "doi": "https://doi.org/10.1109/ismar.2013.6671783"
+    "doi": "10.1109/ismar.2013.6671783"
   },
   {
     "url": "259",
@@ -2636,7 +2636,7 @@
     "author": "Lukas Gruber, Pradeep Sen, Tobias Hollerer, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_259",
-    "doi": "https://doi.org/10.1109/ismar.2013.6671792"
+    "doi": "10.1109/ismar.2013.6671792"
   },
   {
     "url": "260",
@@ -2661,7 +2661,7 @@
     "author": "Jens Grubert, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_251",
-    "doi": "https://doi.org/10.1145/2493190.2493234"
+    "doi": "10.1145/2493190.2493234"
   },
   {
     "url": "252",
@@ -2673,7 +2673,7 @@
     "author": "Clemens Arth, Jonathan Ventura, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_252",
-    "doi": "https://doi.org/10.1109/comgeo.2013.10"
+    "doi": "10.1109/comgeo.2013.10"
   },
   {
     "url": "249",
@@ -2699,7 +2699,7 @@
     "author": "Markus Tatzgern, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_248",
-    "doi": "https://doi.org/10.1109/vr.2013.6549347"
+    "doi": "10.1109/vr.2013.6549347"
   },
   {
     "abstract": "Real-time three-dimensional acquisition of real-world scenes has many important applications in computer graphics, computer vision and human-computer interaction. Inexpensive depth sensors such as the Microsoft Kinect allow to leverage the development of such applications. However, this technology is still relatively recent, and no detailed studies on its scalability to dense and view-independent acquisition have been reported. This paper addresses the question of what can be done with a larger number of Kinects used simultaneously. We describe an interference-reducing physical setup, a calibration procedure and an extension to the KinectFusion algorithm, which allows to produce high quality volumetric reconstructions from multiple Kinects whilst overcoming systematic errors in the depth measurements. We also report on enhancing image based visual hull rendering by depth measurements, and compare the results to KinectFusion. Our system provides practical insight into achievable spatial and radial range and into bandwidth requirements for depth data acquisition. Finally, we present a number of practical applications of our system.",
@@ -2714,7 +2714,7 @@
     "author": "Bernhard Kainz, Stefan Hauswiesner, Raphael Grasset, Markus Steinberger, Lukas Gruber, Jens Grubert, Eduardo Veas, Denis Kalkofen, Hartmut Seichter, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_243",
-    "doi": "https://doi.org/10.1145/2407336.2407342"
+    "doi": "10.1145/2407336.2407342"
   },
   {
     "youtube": "4rQLDwf8yac",
@@ -2756,7 +2756,7 @@
     "author": "Raphael Grasset, Markus Tatzgern, Tobias Langlotz, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_244",
-    "doi": "https://doi.org/10.1109/ismar.2012.6402555"
+    "doi": "10.1109/ismar.2012.6402555"
   },
   {
     "youtube": "YfYLN39bO2U",
@@ -2770,7 +2770,7 @@
     "author": "Lukas Gruber, Thomas Richter-Trummer, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_245",
-    "doi": "https://doi.org/10.1109/ismar.2012.6402548"
+    "doi": "10.1109/ismar.2012.6402548"
   },
   {
     "url": "246",
@@ -2782,7 +2782,7 @@
     "author": "Clemens Arth, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_246",
-    "doi": "https://doi.org/10.1007/978-3-642-37431-9_54"
+    "doi": "10.1007/978-3-642-37431-9_54"
   },
   {
     "abstract": "In this paper we present Softshell, a novel execution model for devices composed of multiple processing cores operating in a single instruction, multiple data fashion, such as graphics processing units (GPUs). The Softshell model is intuitive and more flexible than the kernel-based adaption of the stream processing model, which is currently the dominant model for general purpose GPU computation. Using the Softshell model, algorithms with a relatively low local degree of parallelism can execute efficiently on massively parallel architectures. Softshell has the following distinct advantages: (1) work can be dynamically issued directly on the device, eliminating the need for synchronization with an external source, i.e., the CPU; (2) its three-tier dynamic scheduler supports arbitrary scheduling strategies, including dynamic priorities and real-time scheduling; and (3) the user can influence, pause, and cancel work already submitted for parallel execution. The Softshell processing model thus brings capabilities to GPU architectures that were previously only known from operating-system designs and reserved for CPU programming. As a proof of our claims, we present a publicly available implementation of the Softshell processing model realized on top of CUDA. The benchmarks of this implementation demonstrate that our processing model is easy to use and also performs substantially better than the state-of-the-art kernel-based processing model for problems that have been difficult to parallelize in the past.",
@@ -2798,7 +2798,7 @@
     "author": "Markus Steinberger, Bernhard Kainz, Bernhard Kerbl and\nStefan Hauswiesner, Michael Kenzel, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_247",
-    "doi": "https://doi.org/10.1145/2366145.2366180"
+    "doi": "10.1145/2366145.2366180"
   },
   {
     "abstract": "This paper presents a new method to control scene sampling in complex ray-based rendering environments. It proposes to constrain image sampling density with a combination of object features, which are known to be well perceived by the human visual system, and image space saliency, which captures effects that are not based on the object's geometry. The presented method uses Non- Photorealistic Rendering techniques for the object space feature evaluation and combines the image space saliency calculations with image warping to infer quality hints from previously generated frames. In order to map different feature types to sampling densities, we also present an evaluation of the object space and image space features' impact on the resulting image quality. In addition, we present an efficient, adaptively aligned fractal pattern that is used to reconstruct the image from sparse sampling data. Furthermore, this paper presents an algorithm which uses our method in order to guarantee a desired minimal frame rate. Our scheduling algorithm maximizes the utilization of each given time slice by rendering features in the order of visual importance values until a time constraint is reached. We demonstrate how our method can be used to boost or stabilize the rendering time in complex ray- based image generation consisting of geometric as well as volumetric data.",
@@ -2815,7 +2815,7 @@
     "author": "Markus Steinberger, Bernhard Kainz, Stefan Hauswiesner and\nRostislav Khlebnikov, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_229",
-    "doi": "https://doi.org/10.1016/j.cag.2012.03.037"
+    "doi": "10.1016/j.cag.2012.03.037"
   },
   {
     "abstract": "Biological pathway maps are highly relevant tools for many tasks in molecular biology. They reduce the complexity of the overall biological network by partitioning it into smaller manageable parts. While this reduction of complexity is their biggest strength, it is, at the same time, their biggest weakness. By removing what is deemed not important for the primary function of the pathway, biologists lose the ability to follow and understand cross-talks between pathways. Considering these cross-talks is, however, critical in many analysis scenarios, such as judging effects of drugs. In this paper we introduce Entourage, a novel visualization technique that provides contextual information lost due to the artificial partitioning of the biological network, but at the same time limits the presented information to what is relevant to the analyst's task. We use one pathway map as the focus of an analysis and allow a larger set of contextual pathways. For these context pathways we only show the contextual subsets, i.e., the parts of the graph that are relevant to a selection. Entourage suggests related pathways based on similarities and highlights parts of a pathway that are interesting in terms of mapped experimental data. We visualize interdependencies between pathways using stubs of visual links, which we found effective yet not obtrusive. By combining this approach with visualization of experimental data, we can provide domain experts with a highly valuable tool. We demonstrate the utility of Entourage with case studies conducted with a biochemist who researches the effects of drugs on pathways. We show that the technique is well suited to investigate interdependencies between pathways and to analyze, understand, and predict the effect that drugs have on different cell types.",
@@ -2831,7 +2831,7 @@
     "title": "enRoute: Dynamic Path Extraction from Biological Pathway Maps for In-Depth Experimental Data Analysis",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_236",
-    "doi": "https://doi.org/10.1109/biovis.2012.6378600"
+    "doi": "10.1109/biovis.2012.6378600"
   },
   {
     "url": "238",
@@ -2843,7 +2843,7 @@
     "title": "Intervention Planning of Hepatocellular Carcinoma Radio-Frequency Ablations",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_238",
-    "doi": "https://doi.org/10.1007/978-3-642-38079-2_2"
+    "doi": "10.1007/978-3-642-38079-2_2"
   },
   {
     "url": "239",
@@ -2855,7 +2855,7 @@
     "title": "Volumetric Real-Time Particle-Based Representation of Large Unstructured Tetrahedral Polygon Meshes",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_239",
-    "doi": "https://doi.org/10.1007/978-3-642-33463-4_16"
+    "doi": "10.1007/978-3-642-33463-4_16"
   },
   {
     "youtube": "UcKDbGqHsdE&list=PLlDsBa-6PMG0AwYG9hzvBn4fj_brn91G_&index=54&t=0s",
@@ -2869,7 +2869,7 @@
     "author": "Alexander Lex, Marc Streit, Hans-Joerg Schulz, Christian Partl, Dieter Schmalstieg, Peter Park, Nils Gehlenborg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_241",
-    "doi": "https://doi.org/10.1111/j.1467-8659.2012.03110.x"
+    "doi": "10.1111/j.1467-8659.2012.03110.x"
   },
   {
     "month": "September",
@@ -2888,7 +2888,7 @@
     "author": "Bernhard Kainz, Rupert Portugaller, Daniel Seider, Michael Moche, Philipp Stiegler, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_221",
-    "doi": "https://doi.org/10.1007/978-3-642-32630-1_8"
+    "doi": "10.1007/978-3-642-32630-1_8"
   },
   {
     "url": "237",
@@ -2916,7 +2916,7 @@
     "author": "Martin Urschler, Alexander Bornik, Eva Scheurer, Kathrin\nYen, Horst Bischof, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_210",
-    "doi": "https://doi.org/10.1109/mcg.2012.75"
+    "doi": "10.1109/mcg.2012.75"
   },
   {
     "selected": "1",
@@ -2931,7 +2931,7 @@
     "author": "Michael Gervautz, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_228",
-    "doi": "https://doi.org/10.1109/mc.2012.72"
+    "doi": "10.1109/mc.2012.72"
   },
   {
     "url": "233",
@@ -2943,7 +2943,7 @@
     "title": "Clustered Deep Shadow Maps for Integrated Polyhedral and Volume Rendering",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_233",
-    "doi": "https://doi.org/10.1007/978-3-642-33179-4_31"
+    "doi": "10.1007/978-3-642-33179-4_31"
   },
   {
     "url": "234",
@@ -2955,7 +2955,7 @@
     "title": "Frame Cache Management for Multi-frame Rate Systems",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_234",
-    "doi": "https://doi.org/10.1007/978-3-642-33191-6_28"
+    "doi": "10.1007/978-3-642-33191-6_28"
   },
   {
     "abstract": "As heterogeneous data from different sources are being increasingly linked, it becomes difficult for users to understand how the data are connected, to identify what means are suitable to analyze a given data set, or to find out how to proceed for a given analysis task. We target this challenge with a new model-driven design process that effectively codesigns aspects of data, view, analytics, and tasks. We achieve this by using the workflow of the analysis task as a trajectory through data, interactive views, and analytical processes. The benefits for the analysis session go well beyond the pure selection of appropriate data sets and range from providing orientation or even guidance along a preferred analysis path to a potential overall speedup, allowing data to be fetched ahead of time. We illustrate the design process for a biomedical use case that aims at determining a treatment plan for cancer patients from the visual analysis of a large, heterogeneous clinical data pool. As an example for how to apply the comprehensive design approach, we present Stack'n'flip, a sample implementation which tightly integrates visualizations of the actual data with a map of available data sets, views, and tasks, thus capturing and communicating the analytical workflow through the required data sets.",
@@ -2974,7 +2974,7 @@
     "author": "Marc Streit, Hans-Joerg Schulz, Alexander Lex, Dieter Schmalstieg\nand Heidrun Schumann",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_209",
-    "doi": "https://doi.org/10.1109/tvcg.2011.108"
+    "doi": "10.1109/tvcg.2011.108"
   },
   {
     "abstract": "Simultaneous visualization of multiple continuous data attributes in a single visualization is a task that is important for many application areas. Unsurprisingly, many methods have been proposed to solve this task. However, the behavior of such methods during the exploration stage, when the user tries to understand the data with panning and zooming, has not been given much attention. In this paper, we propose a method that uses procedural texture synthesis to create zoom-independent visualizations of three scalar data attributes. The method is based on random-phase Gabor noise, whose frequency is adapted for the visualization of the first data attribute. We ensure that the resulting texture frequency lies in the range that is perceived well by the human visual system at any zoom level. To enhance the perception of this attribute, we also apply a specially constructed transfer function that is based on statistical properties of the noise. Additionally, the transfer function is constructed in a way that it does not introduce any aliasing to the texture. We map the second attribute to the texture orientation. The third attribute is color coded and combined with the texture by modifying the value component of the HSV color model. The necessary contrast needed for texture and color perception was determined in a user study. In addition, we conducted a second user study that shows significant advantages of our method over current methods with similar goals. We believe that our method is an important step towards creating methods that not only succeed in visualizing multiple data attributes, but also adapt to the behavior of the user during the data exploration stage.",
@@ -2991,7 +2991,7 @@
     "author": "Rostislav Khlebnikov, Bernhard Kainz, Markus Steinberger, Marc Streit, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_231",
-    "doi": "https://doi.org/10.1111/j.1467-8659.2012.03127.x"
+    "doi": "10.1111/j.1467-8659.2012.03127.x"
   },
   {
     "abstract": "Identification and characterization of cancer subtypes are important areas of research that are based on the integrated analysis of multiple heterogeneous genomics datasets. Since there are no tools supporting this process, much of this work is done using ad-hoc scripts and static plots, which is inefficient and limits visual exploration of the data. To address this, we have developed StratomeX, an integrative visualization tool that allows investigators to explore the relationships of candidate subtypes across multiple genomic data types such as gene expression, DNA methylation, or copy number data. StratomeX represents datasets as columns and subtypes as bricks in these columns. Ribbons between the columns connect bricks to show subtype relationships across datasets. Drill-down features enable detailed exploration. StratomeX provides insights into the functional and clinical implications of candidate subtypes by employing small multiples, which allow investigators to assess the effect of subtypes on molecular pathways or outcomes such as patient survival. As the configuration of viewing parameters in such a multi-dataset, multi-view scenario is complex, we propose a meta visualization and configuration interface for dataset dependencies and data-view relationships. StratomeX is developed in close collaboration with domain experts. We describe case studies that illustrate how investigators used the tool to explore subtypes in large datasets and demonstrate how they efficiently replicated findings from the literature and gained new insights into the data.",
@@ -3009,7 +3009,7 @@
     "author": "Alexander Lex, Marc Streit, Hans-Joerg Schulz, Christian Partl, Dieter Schmalstieg, Peter Park, Nils Gehlenborg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_232",
-    "doi": "https://doi.org/10.1111/j.1467-8659.2012.03110.x"
+    "doi": "10.1111/j.1467-8659.2012.03110.x"
   },
   {
     "abstract": "In this paper, we analyze the special requirements of a dynamic memory allocator that is designed for massively parallel architectures such as Graphics Processing Units (GPUs). We show that traditional strategies, which work well on CPUs, are not well suited for the use on GPUs and present the thorough design of ScatterAlloc, which can efficiently deal with hundreds of requests in parallel. Our allocator greatly reduces collisions and congestion by scattering memory requests based on hashing. We analyze ScatterAlloc in terms of allocation speed, data access time and fragmentation, and compare it to current state-of-the-art allocators, including the one provided with the NVIDIA CUDA toolkit. Our results show, that ScatterAlloc clearly outperforms these other approaches, yielding speed-ups between 10 to 100.",
@@ -3039,7 +3039,7 @@
     "author": "Markus Steinberger, Manuela Waldner, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_225",
-    "doi": "https://doi.org/10.1111/j.1467-8659.2012.03041.x"
+    "doi": "10.1111/j.1467-8659.2012.03041.x"
   },
   {
     "url": "227",
@@ -3052,7 +3052,7 @@
     "title": "360 Degree Panoramic Overviews for Location-Based Services",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_227",
-    "doi": "https://doi.org/10.1145/2207676.2208645"
+    "doi": "10.1145/2207676.2208645"
   },
   {
     "url": "230",
@@ -3065,7 +3065,7 @@
     "title": "Indoor Navigation with Mixed Reality World-in-Miniature Views and Sparse Localization on Mobile Devices",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_230",
-    "doi": "https://doi.org/10.1145/2254556.2254595"
+    "doi": "10.1145/2254556.2254595"
   },
   {
     "selected": "1",
@@ -3082,7 +3082,7 @@
     "author": "Tobias Langlotz, Daniel Wagner, Alessandro Mulloni, Dieter\nSchmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_200",
-    "doi": "https://doi.org/10.1109/mprv.2010.69"
+    "doi": "10.1109/mprv.2010.69"
   },
   {
     "selected": "1",
@@ -3096,7 +3096,7 @@
     "author": "Eduardo Veas, Raphael Grasset, Ernst Kruijff, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_226",
-    "doi": "https://doi.org/10.1109/tvcg.2012.44"
+    "doi": "10.1109/tvcg.2012.44"
   },
   {
     "url": "222",
@@ -3108,7 +3108,7 @@
     "title": "Visualizing Uncertainty in Biological Expression Data",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_222",
-    "doi": "https://doi.org/10.1117/12.908516"
+    "doi": "10.1117/12.908516"
   },
   {
     "year": "2012",
@@ -3117,7 +3117,7 @@
     "author": "Eduardo Veas, Raphael Grasset, Ioan Ferencik, Thomas Gruenewald, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_240",
-    "doi": "https://doi.org/10.1007/s00779-012-0597-z"
+    "doi": "10.1007/s00779-012-0597-z"
   },
   {
     "abstract": "Current projectors can easily be combined to create an everywhere display, using all suitable surfaces in offices or meeting rooms for the presentation of information. However, the resulting irregular display is not well supported by tradi tional desktop window managers, which are optimized for rectangular screens. In this paper, we present novel display-adaptive window management techniques, which provide semi-automatic placement for desktop elements (such as windows or icons) for users of large, irregularly shaped displays. We report results from an exploratory study, which reveals interesting emerging strategies of users in the manipulation of windows on large irregular displays and shows that the new techniques increase subjective satisfaction with the window management interface.",
@@ -3132,7 +3132,7 @@
     "title": "Display-Adaptive Window Management for Irregular Surfaces",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_223",
-    "doi": "https://doi.org/10.1145/2076354.2076394"
+    "doi": "10.1145/2076354.2076394"
   },
   {
     "youtube": "_5J80uDTxD8",
@@ -3148,7 +3148,7 @@
     "author": "Alexander Lex, Hans-Joerg Schulz, Marc Streit, Christian Partl, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_213",
-    "doi": "https://doi.org/10.1109/tvcg.2011.250"
+    "doi": "10.1109/tvcg.2011.250"
   },
   {
     "abstract": "Evaluating, comparing, and interpreting related pieces of information are tasks that are commonly performed during visual data analysis and in many kinds of information-intensive work. Synchronized visual highlighting of related elements is a well-known technique used to assist this task. An alternative approach, which is more invasive but also more expressive is visual linking in which line connections are rendered between related elements. In this work, we present context-preserving visual links as a new method for generating visual links. The method specifically aims to fulfill the following two goals: first, visual links should minimize the occlusion of important information; second, links should visually stand out from surrounding information by minimizing visual interference. We employ an image-based analysis of visual saliency to determine the important regions in the original representation. A consequence of the image-based approach is that our technique is application-independent and can be employed in a large number of visual data analysis scenarios in which the underlying content cannot or should not be altered. We conducted a controlled experiment that indicates that users can find linked elements in complex visualizations more quickly and with greater subjective satisfaction than in complex visualizations in which plain highlighting is used. Context-preserving visual links were perceived as visually more attractive than traditional visual links that do not account for the context information.",
@@ -3166,7 +3166,7 @@
     "author": "Markus Steinberger, Manuela Waldner, Marc Streit, Alexander Lex, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_214",
-    "doi": "https://doi.org/10.1109/tvcg.2011.183"
+    "doi": "10.1109/tvcg.2011.183"
   },
   {
     "youtube": "mHO6gCm9EP4",
@@ -3182,7 +3182,7 @@
     "author": "Rostislav Khlebnikov, Bernhard Kainz, Judith Muehl, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_216",
-    "doi": "https://doi.org/10.1109/tvcg.2011.184"
+    "doi": "10.1109/tvcg.2011.184"
   },
   {
     "youtube": "JdhismVQYYE",
@@ -3196,7 +3196,7 @@
     "author": "Clemens Arth, Manfred Klopschitz, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_220",
-    "doi": "https://doi.org/10.1109/ismar.2011.6162870"
+    "doi": "10.1109/ismar.2011.6162870"
   },
   {
     "url": "220a",
@@ -3233,7 +3233,7 @@
     "author": "Denis Kalkofen, Christian Sandor, Sean White, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_217",
-    "doi": "https://doi.org/10.1007/978-1-4614-0064-6_3"
+    "doi": "10.1007/978-1-4614-0064-6_3"
   },
   {
     "url": "218",
@@ -3246,7 +3246,7 @@
     "author": "Raphael Grasset, Alessandro Mulloni, Mark Billinghurst, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_218",
-    "doi": "https://doi.org/10.1007/978-1-4614-0064-6_18"
+    "doi": "10.1007/978-1-4614-0064-6_18"
   },
   {
     "youtube": "kuFD7ul8BVQ",
@@ -3262,7 +3262,7 @@
     "author": "Alessandro Mulloni, Hartmut Seichter, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_202",
-    "doi": "https://doi.org/10.1145/2037373.2037406"
+    "doi": "10.1145/2037373.2037406"
   },
   {
     "youtube": "9cQIHbEcd08",
@@ -3280,7 +3280,7 @@
     "author": "Ann Morrison, Alessandro Mulloni, Saija Lemmelae, Antti\nOulasvirta, Giulio Jacucci, Peter Peltonen, Dieter Schmalstieg\nand Holger Regenbrecht",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_211",
-    "doi": "https://doi.org/10.1016/j.cag.2011.04.009"
+    "doi": "10.1016/j.cag.2011.04.009"
   },
   {
     "url": "212",
@@ -3309,7 +3309,7 @@
     "author": "Bernhard Kainz, Stefan Hauswiesner, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_215",
-    "doi": "https://doi.org/10.1145/2024676.2024685"
+    "doi": "10.1145/2024676.2024685"
   },
   {
     "selected": "1",
@@ -3325,7 +3325,7 @@
     "author": "Tobias Langlotz, Claus Degendorfer, Alessandro Mulloni and\nGerhard Schall, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_219",
-    "doi": "https://doi.org/10.1016/j.cag.2011.04.004"
+    "doi": "10.1016/j.cag.2011.04.004"
   },
   {
     "selected": "1",
@@ -3342,7 +3342,7 @@
     "author": "Daniel Pustka, Manuel Huber, Christian Waechter, Florian\nKeitler, Gudrun Klinker, Joseph Newman, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_199",
-    "doi": "https://doi.org/10.1109/mprv.2010.50"
+    "doi": "10.1109/mprv.2010.50"
   },
   {
     "url": "203",
@@ -3356,7 +3356,7 @@
     "author": "Thomas Geymayer, Alexander Lex, Marc Streit, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_203",
-    "doi": "https://doi.org/10.1109/iv.2011.52"
+    "doi": "10.1109/iv.2011.52"
   },
   {
     "url": "204",
@@ -3371,7 +3371,7 @@
     "author": "Andreas Hartl, Clemens Arth, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_204",
-    "doi": "https://doi.org/10.2316/p.2011.740-017"
+    "doi": "10.2316/p.2011.740-017"
   },
   {
     "url": "205",
@@ -3386,7 +3386,7 @@
     "author": "Clemens Arth, Andreas Hartl, Lukas Gruber, Stefan Hauswiesner\nand Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_205",
-    "doi": "https://doi.org/10.1109/cvprw.2011.5981789"
+    "doi": "10.1109/cvprw.2011.5981789"
   },
   {
     "abstract": "In this paper we present importance-driven compositing window management, which considers windows not only as basic rectangular shapes but also integrates the importance of the windows' content using a bottom-up visual attention model. Based on this information, importance-driven compositing optimizes the spatial window layout for maximum visibility and interactivity of occluded content in combination with see-through windows. We employ this technique for emerging window manager functions to minimize information overlap caused by popping up windows or floating toolbars and to improve the access to occluded window content. An initial user study indicates that our technique provides a more effective and satisfactory access to occluded information than the well-adopted Alt+Tab window switching technique and see-through windows without optimized spatial layout.",
@@ -3404,7 +3404,7 @@
     "author": "Manuela Waldner, Markus Steinberger, Raphael Grasset, Dieter\nSchmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_207",
-    "doi": "https://doi.org/10.1145/1978942.1979085"
+    "doi": "10.1145/1978942.1979085"
   },
   {
     "youtube": "S1kuPHfMlcI",
@@ -3420,7 +3420,7 @@
     "author": "Eduardo Veas, Erick Mendez, Steven Feiner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_208",
-    "doi": "https://doi.org/10.1145/1978942.1979158"
+    "doi": "10.1145/1978942.1979158"
   },
   {
     "url": "203a",
@@ -3452,7 +3452,7 @@
     "author": "Manuela Waldner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_206",
-    "doi": "https://doi.org/10.1109/pacificvis.2011.5742380"
+    "doi": "10.1109/pacificvis.2011.5742380"
   },
   {
     "youtube": "VikEPYTDzeA",
@@ -3470,7 +3470,7 @@
     "author": "Tobias Langlotz, Stefan Mooslechner, Stefanie Zollmann and\nClaus Degendorfer, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_197",
-    "doi": "https://doi.org/10.1007/s00779-011-0430-0"
+    "doi": "10.1007/s00779-011-0430-0"
   },
   {
     "selected": "1",
@@ -3486,7 +3486,7 @@
     "author": "Lukas Gruber, Steffen Gauglitz, Jonathan Ventura, Stefanie\nZollmann, Manuel Huber, Michael Schlegel, Gudrun Klinker\nand Dieter Schmalstieg, Tobias Hollerer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_188",
-    "doi": "https://doi.org/10.1109/ismar.2010.5643564"
+    "doi": "10.1109/ismar.2010.5643564"
   },
   {
     "url": "189",
@@ -3501,7 +3501,7 @@
     "author": "Lukas Gruber, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_189",
-    "doi": "https://doi.org/10.1109/ismar.2010.5643580"
+    "doi": "10.1109/ismar.2010.5643580"
   },
   {
     "url": "190",
@@ -3516,7 +3516,7 @@
     "author": "Manuela Waldner, Ernst Kruijff, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_190",
-    "doi": "https://doi.org/10.1145/1868914.1869036"
+    "doi": "10.1145/1868914.1869036"
   },
   {
     "url": "191",
@@ -3530,7 +3530,7 @@
     "author": "Manfred Klopschitz, Gerhard Schall, Dieter Schmalstieg and\nGerhard Reitmayr",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_191",
-    "doi": "https://doi.org/10.1109/ipin.2010.5648274"
+    "doi": "10.1109/ipin.2010.5648274"
   },
   {
     "youtube": "JvfGu-Yy6K4",
@@ -3547,7 +3547,7 @@
     "author": "Alessandro Mulloni, Andreas Duenser, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_192",
-    "doi": "https://doi.org/10.1145/1851600.1851629"
+    "doi": "10.1145/1851600.1851629"
   },
   {
     "url": "174",
@@ -3562,7 +3562,7 @@
     "author": "Lukas Gruber, Stefanie Zollmann, Daniel Wagner, Dieter Schmalstieg\nand Tobias Hollerer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_174",
-    "doi": "https://doi.org/10.1109/icpr.2010.880"
+    "doi": "10.1109/icpr.2010.880"
   },
   {
     "url": "176",
@@ -3577,7 +3577,7 @@
     "author": "Gerhard Reitmayr, Tobias Langlotz, Daniel Wagner, Alessandro\nMulloni, Gerhard Schall, Dieter Schmalstieg, Qi Pan",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_176",
-    "doi": "https://doi.org/10.1109/isuvr.2010.12"
+    "doi": "10.1109/isuvr.2010.12"
   },
   {
     "url": "185a",
@@ -3605,7 +3605,7 @@
     "author": "Markus Tatzgern, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_177",
-    "doi": "https://doi.org/10.1145/1809939.1809942"
+    "doi": "10.1145/1809939.1809942"
   },
   {
     "url": "178",
@@ -3621,7 +3621,7 @@
     "author": "Erick Mendez, Steve Feiner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_178",
-    "doi": "https://doi.org/10.1007/978-3-642-13544-6_22"
+    "doi": "10.1007/978-3-642-13544-6_22"
   },
   {
     "url": "182",
@@ -3636,7 +3636,7 @@
     "author": "Markus Sareika, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_182",
-    "doi": "https://doi.org/10.1145/1842993.1843027"
+    "doi": "10.1145/1842993.1843027"
   },
   {
     "url": "183",
@@ -3710,7 +3710,7 @@
     "author": "Manuela Waldner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_187",
-    "doi": "https://doi.org/10.1145/1842993.1843089"
+    "doi": "10.1145/1842993.1843089"
   },
   {
     "url": "173",
@@ -3724,7 +3724,7 @@
     "author": "Dieter Schmalstieg, Alexander Bornik, Gernot Mueller-Putz and\nGert Pfurtscheller",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_173",
-    "doi": "https://doi.org/10.1145/1785455.1785459"
+    "doi": "10.1145/1785455.1785459"
   },
   {
     "youtube": "jAkCUjAjdwQ",
@@ -3741,7 +3741,7 @@
     "author": "Daniel Wagner, Alessandro Mulloni, Tobias Langlotz, Dieter\nSchmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_179",
-    "doi": "https://doi.org/10.1109/vr.2010.5444786"
+    "doi": "10.1109/vr.2010.5444786"
   },
   {
     "url": "180",
@@ -3773,7 +3773,7 @@
     "author": "Alexander Lex, Marc Streit, Ernst Kruijff, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_181",
-    "doi": "https://doi.org/10.1109/pacificvis.2010.5429609"
+    "doi": "10.1109/pacificvis.2010.5429609"
   },
   {
     "url": "175",
@@ -3788,7 +3788,7 @@
     "author": "Manuela Waldner, Christian Pirchheim, Ernst Kruijff, Dieter\nSchmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_175",
-    "doi": "https://doi.org/10.1145/1719970.1720040"
+    "doi": "10.1145/1719970.1720040"
   },
   {
     "url": "196",
@@ -3805,7 +3805,7 @@
     "author": "Josef Faller, Gernot Mueller-Putz, Dieter Schmalstieg, Gert\nPfurtscheller",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_196",
-    "doi": "https://doi.org/10.1162/pres.19.1.25"
+    "doi": "10.1162/pres.19.1.25"
   },
   {
     "selected": "1",
@@ -3823,7 +3823,7 @@
     "author": "Markus Tatzgern, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_201",
-    "doi": "https://doi.org/10.1016/j.cag.2010.11.005"
+    "doi": "10.1016/j.cag.2010.11.005"
   },
   {
     "url": "193",
@@ -3836,7 +3836,7 @@
     "author": "Andreas Hartl, Clemens Arth, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_193",
-    "doi": "https://doi.org/10.1109/cvprw.2010.5543245"
+    "doi": "10.1109/cvprw.2010.5543245"
   },
   {
     "url": "194",
@@ -3883,7 +3883,7 @@
     "author": "Alexander Lex, Marc Streit, Christian Partl, Karl Kashofer\nand Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_198",
-    "doi": "https://doi.org/10.1109/tvcg.2010.138"
+    "doi": "10.1109/tvcg.2010.138"
   },
   {
     "url": "153a",
@@ -3898,7 +3898,7 @@
     "author": "Erick Mendez, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_153a",
-    "doi": "https://doi.org/10.1145/1643928.1643988"
+    "doi": "10.1145/1643928.1643988"
   },
   {
     "youtube": "jtd1tp_ALQk",
@@ -3915,7 +3915,7 @@
     "author": "Gerhard Schall, Daniel Wagner, Gerhard Reitmayr, Elise Taichmann\nand Manfred Wieser, Dieter Schmalstieg, Bernhard Hoffmann-Wellenhof",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_163",
-    "doi": "https://doi.org/10.1109/ismar.2009.5336489"
+    "doi": "10.1109/ismar.2009.5336489"
   },
   {
     "youtube": "bMs101aTQL4",
@@ -3932,7 +3932,7 @@
     "author": "Daniel Wagner, Dieter Schmalstieg, Horst Bischof",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_164",
-    "doi": "https://doi.org/10.1109/ismar.2009.5336497"
+    "doi": "10.1109/ismar.2009.5336497"
   },
   {
     "url": "159",
@@ -3947,7 +3947,7 @@
     "author": "Judith Muehl, Alexander Bornik, Markus Grabner, Stefan Hauswiesner\nand Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_159",
-    "doi": "https://doi.org/10.1007/978-3-642-03882-2_357"
+    "doi": "10.1007/978-3-642-03882-2_357"
   },
   {
     "url": "153",
@@ -3962,7 +3962,7 @@
     "author": "Heimo Mueller, Robert Reihs, Stefan Sauer, Kurt Zatloukal\nand Marc Streit, Alexander Lex, Bernhard Schlegl, Dieter\nSchmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_153",
-    "doi": "https://doi.org/10.1109/iv.2009.86"
+    "doi": "10.1109/iv.2009.86"
   },
   {
     "url": "153b",
@@ -3976,7 +3976,7 @@
     "author": "Daniel Wagner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_153b",
-    "doi": "https://doi.org/10.1109/isuvr.2009.11"
+    "doi": "10.1109/isuvr.2009.11"
   },
   {
     "url": "154",
@@ -4048,7 +4048,7 @@
     "author": "Denis Kalkofen, Markus Tatzgern, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_157",
-    "doi": "https://doi.org/10.1109/vr.2009.4811001"
+    "doi": "10.1109/vr.2009.4811001"
   },
   {
     "url": "158",
@@ -4063,7 +4063,7 @@
     "author": "Christian Pirchheim, Manuela Waldner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_158",
-    "doi": "https://doi.org/10.1109/vr.2009.4811010"
+    "doi": "10.1109/vr.2009.4811010"
   },
   {
     "selected": "1",
@@ -4079,7 +4079,7 @@
     "author": "Denis Kalkofen, Erick Mendez, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_150",
-    "doi": "https://doi.org/10.1109/tvcg.2008.96"
+    "doi": "10.1109/tvcg.2008.96"
   },
   {
     "url": "152",
@@ -4095,7 +4095,7 @@
     "author": "Daniel Wagner, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_152",
-    "doi": "https://doi.org/10.1109/mcg.2009.46"
+    "doi": "10.1109/mcg.2009.46"
   },
   {
     "url": "152a",
@@ -4111,7 +4111,7 @@
     "author": "Daniel Wagner, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_152a",
-    "doi": "https://doi.org/10.1109/mcg.2009.67"
+    "doi": "10.1109/mcg.2009.67"
   },
   {
     "url": "160",
@@ -4152,7 +4152,7 @@
     "author": "Clemens Arth, Daniel Wagner, Manfred Klopschitz, Arnold\nIrschara, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_162",
-    "doi": "https://doi.org/10.1109/ismar.2009.5336494"
+    "doi": "10.1109/ismar.2009.5336494"
   },
   {
     "url": "165",
@@ -4165,7 +4165,7 @@
     "author": "Lukas Gruber, Stefanie Zollmann, Daniel Wagner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_165",
-    "doi": "https://doi.org/10.1109/ismar.2009.5336469"
+    "doi": "10.1109/ismar.2009.5336469"
   },
   {
     "youtube": "NEblcENepTc",
@@ -4182,7 +4182,7 @@
     "author": "Bernhard Kainz, Markus Grabner, Alexander Bornik, Stefan\nHauswiesner, Judith Muehl, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_167",
-    "doi": "https://doi.org/10.1145/1661412.1618498"
+    "doi": "10.1145/1661412.1618498"
   },
   {
     "url": "168",
@@ -4198,7 +4198,7 @@
     "author": "Bernhard Kainz, Ursula Reiter, Gert Reiter, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_168",
-    "doi": "https://doi.org/10.1007/s00371-009-0315-7"
+    "doi": "10.1007/s00371-009-0315-7"
   },
   {
     "url": "169",
@@ -4214,7 +4214,7 @@
     "author": "Ina Wagner, Wolfgang Broll, Giulio Jacucci, Kari Kuutii\nand Rod McCall, Ann Morrison, Dieter Schmalstieg, Jean-Jacques\nTerrin",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_169",
-    "doi": "https://doi.org/10.1162/pres.18.4.249"
+    "doi": "10.1162/pres.18.4.249"
   },
   {
     "youtube": "Xznr7V9MBJs",
@@ -4247,7 +4247,7 @@
     "author": "Alessandro Mulloni, Daniel Wagner, Istvan Barakonyi, Dieter\nSchmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_171",
-    "doi": "https://doi.org/10.1109/mprv.2009.30"
+    "doi": "10.1109/mprv.2009.30"
   },
   {
     "youtube": "Uk-LgyA8ZBI",
@@ -4265,7 +4265,7 @@
     "author": "Alexander Lex, Marc Streit, Michael Kalkusch, Kurt Zatloukal\nand Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_172",
-    "doi": "https://doi.org/10.1093/bioinformatics/btp432"
+    "doi": "10.1093/bioinformatics/btp432"
   },
   {
     "url": "140",
@@ -4295,7 +4295,7 @@
     "author": "Gerhard Schall, Erick Mendez, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_141",
-    "doi": "https://doi.org/10.1109/ismar.2008.4637332"
+    "doi": "10.1109/ismar.2008.4637332"
   },
   {
     "youtube": "4Q2TAUo-vQ0",
@@ -4313,7 +4313,7 @@
     "author": "Daniel Wagner, Gerhard Reitmayr, Alessandro Mulloni, Tom\nDrummond, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_142",
-    "doi": "https://doi.org/10.1109/ismar.2008.4637338"
+    "doi": "10.1109/ismar.2008.4637338"
   },
   {
     "url": "143",
@@ -4328,7 +4328,7 @@
     "author": "Daniel Wagner, Tobias Langlotz, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_143",
-    "doi": "https://doi.org/10.1109/ismar.2008.4637337"
+    "doi": "10.1109/ismar.2008.4637337"
   },
   {
     "url": "144",
@@ -4343,7 +4343,7 @@
     "author": "Alessandro Mulloni, Daniel Wagner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_144",
-    "doi": "https://doi.org/10.1145/1413634.1413718"
+    "doi": "10.1145/1413634.1413718"
   },
   {
     "url": "132",
@@ -4357,7 +4357,7 @@
     "author": "Manuela Waldner, Christian Pirchheim, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_132",
-    "doi": "https://doi.org/10.1145/1394669.1394689"
+    "doi": "10.1145/1394669.1394689"
   },
   {
     "url": "133",
@@ -4372,7 +4372,7 @@
     "author": "Heimo Mueller, Kurt Zatloukal, Marc Streit, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_133",
-    "doi": "https://doi.org/10.1109/medivis.2008.13"
+    "doi": "10.1109/medivis.2008.13"
   },
   {
     "url": "134",
@@ -4405,7 +4405,7 @@
     "author": "Gerhard Schall, Erick Mendez, Ernst Kruijff, Eduardo Veas\nand Sebastian Junghanns, Bernhard Reitinger, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_138",
-    "doi": "https://doi.org/10.1007/s00779-008-0204-5"
+    "doi": "10.1007/s00779-008-0204-5"
   },
   {
     "selected": "1",
@@ -4422,7 +4422,7 @@
     "author": "Erick Mendez, Gerhard Schall, Sven Havemann, Sebastian Junghanns\nand Dieter Fellner, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_139",
-    "doi": "https://doi.org/10.1109/mcg.2008.53"
+    "doi": "10.1109/mcg.2008.53"
   },
   {
     "url": "135",
@@ -4438,7 +4438,7 @@
     "author": "Dieter Schmalstieg, Daniel Wagner",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_135",
-    "doi": "https://doi.org/10.1109/ismar.2008.4637337"
+    "doi": "10.1109/ismar.2008.4637337"
   },
   {
     "selected": "1",
@@ -4469,7 +4469,7 @@
     "author": "Eduardo Veas, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_137",
-    "doi": "https://doi.org/10.1109/vr.2008.4480808"
+    "doi": "10.1109/vr.2008.4480808"
   },
   {
     "url": "145",
@@ -4483,7 +4483,7 @@
     "author": "Daniel Wagner, Lukas Gruber, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_145",
-    "doi": "https://doi.org/10.1109/ismar.2008.4637337"
+    "doi": "10.1109/ismar.2008.4637337"
   },
   {
     "url": "146",
@@ -4507,7 +4507,7 @@
     "author": "Gerhard Schall, Helmut Grabner, Paul Wohlhart, Dieter Schmalstieg\nand Horst Bischof",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_147",
-    "doi": "https://doi.org/10.1109/cvprw.2008.4563134"
+    "doi": "10.1109/cvprw.2008.4563134"
   },
   {
     "selected": "1",
@@ -4523,7 +4523,7 @@
     "author": "Istvan Barakonyi, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_148",
-    "doi": "https://doi.org/10.1002/cav.220"
+    "doi": "10.1002/cav.220"
   },
   {
     "url": "149",
@@ -4553,7 +4553,7 @@
     "author": "Marc Streit, Michael Kalkusch, Karl Kashofer, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_151",
-    "doi": "https://doi.org/10.1111/j.1467-8659.2008.01229.x"
+    "doi": "10.1111/j.1467-8659.2008.01229.x"
   },
   {
     "url": "122",
@@ -4583,7 +4583,7 @@
     "author": "Manfred Klopschitz, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_123",
-    "doi": "https://doi.org/10.1109/ismar.2007.4538828"
+    "doi": "10.1109/ismar.2007.4538828"
   },
   {
     "url": "124",
@@ -4598,7 +4598,7 @@
     "author": "Markus Sareika, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_124",
-    "doi": "https://doi.org/10.1109/ismar.2007.4538821"
+    "doi": "10.1109/ismar.2007.4538821"
   },
   {
     "url": "125",
@@ -4613,7 +4613,7 @@
     "author": "Erick Mendez, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_125",
-    "doi": "https://doi.org/10.1109/ismar.2007.4538860"
+    "doi": "10.1109/ismar.2007.4538860"
   },
   {
     "youtube": "NOkWzJG2Ru4",
@@ -4631,7 +4631,7 @@
     "author": "Denis Kalkofen, Erick Mendez, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_126",
-    "doi": "https://doi.org/10.1109/ismar.2007.4538846"
+    "doi": "10.1109/ismar.2007.4538846"
   },
   {
     "note": "ISMAR Impact Paper Award 2023",
@@ -4649,7 +4649,7 @@
     "author": "Dieter Schmalstieg, Daniel Wagner",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_127",
-    "doi": "https://doi.org/10.1109/ismar.2007.4538819"
+    "doi": "10.1109/ismar.2007.4538819"
   },
   {
     "url": "116",
@@ -4707,7 +4707,7 @@
     "author": "Bernhard Reitinger, Christopher Zach, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_119",
-    "doi": "https://doi.org/10.1109/vr.2007.352485"
+    "doi": "10.1109/vr.2007.352485"
   },
   {
     "url": "120",
@@ -4722,7 +4722,7 @@
     "author": "Daniel Wagner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_120",
-    "doi": "https://doi.org/10.1109/vr.2007.352489"
+    "doi": "10.1109/vr.2007.352489"
   },
   {
     "url": "121",
@@ -4736,7 +4736,7 @@
     "author": "Istvan Barakonyi, Dieter Schmalstieg, Helmut Prendinger and\nMitsuru Ishizuka",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_121",
-    "doi": "https://doi.org/10.1109/3dui.2007.340777"
+    "doi": "10.1109/3dui.2007.340777"
   },
   {
     "selected": "1",
@@ -4765,7 +4765,7 @@
     "author": "Jochen von Spiczak, Eigil Samset, Simon DiMaio, Gerhard\nReitmayr, Dieter Schmalstieg, Catherina Burghart, Ron Kikinis",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_115",
-    "doi": "https://doi.org/10.1117/12.706079"
+    "doi": "10.1117/12.706079"
   },
   {
     "url": "128",
@@ -4794,7 +4794,7 @@
     "author": "Dieter Schmalstieg, Gerhard Reitmayr",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_129",
-    "doi": "https://doi.org/10.1007/978-3-540-36728-4_28"
+    "doi": "10.1007/978-3-540-36728-4_28"
   },
   {
     "url": "130",
@@ -4836,7 +4836,7 @@
     "author": "Dieter Schmalstieg, Gerhard Reitmayr, Gerhard Schall, Joseph\nNewman, Daniel Wagner, Florian Ledermann, Istvan Barakonyi",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_131",
-    "doi": "https://doi.org/10.1109/mcg.2007.85"
+    "doi": "10.1109/mcg.2007.85"
   },
   {
     "url": "105",
@@ -4849,7 +4849,7 @@
     "author": "Michael Kalkusch, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_105",
-    "doi": "https://doi.org/10.1145/1180495.1180547"
+    "doi": "10.1145/1180495.1180547"
   },
   {
     "url": "106",
@@ -4862,7 +4862,7 @@
     "author": "Alexander Bornik, Reinhard Beichel, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_106",
-    "doi": "https://doi.org/10.1145/1180495.1180536"
+    "doi": "10.1145/1180495.1180536"
   },
   {
     "url": "107",
@@ -4875,7 +4875,7 @@
     "author": "Ernst Kruijff, Dieter Schmalstieg, Steffi Beckhaus",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_107",
-    "doi": "https://doi.org/10.1145/1180495.1180558"
+    "doi": "10.1145/1180495.1180558"
   },
   {
     "url": "108",
@@ -4888,7 +4888,7 @@
     "author": "Ernst Kruijff, Gerold Wesche, Kai Riege, Gernot Goebbels\nand Martijn Kunstman, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_108",
-    "doi": "https://doi.org/10.1145/1180495.1180557"
+    "doi": "10.1145/1180495.1180557"
   },
   {
     "youtube": "w6A6VmCry4s",
@@ -4903,7 +4903,7 @@
     "author": "Istvan Barakonyi, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_102",
-    "doi": "https://doi.org/10.1109/ismar.2006.297806"
+    "doi": "10.1109/ismar.2006.297806"
   },
   {
     "youtube": "NxWvCmI_YBI",
@@ -4918,7 +4918,7 @@
     "author": "Erick Mendez, Denis Kalkofen, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_103",
-    "doi": "https://doi.org/10.1109/ismar.2006.297816"
+    "doi": "10.1109/ismar.2006.297816"
   },
   {
     "url": "104",
@@ -4931,7 +4931,7 @@
     "author": "Joseph Newman, Gerhard Schall, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_104",
-    "doi": "https://doi.org/10.1109/iswc.2006.286342"
+    "doi": "10.1109/iswc.2006.286342"
   },
   {
     "url": "109",
@@ -4956,7 +4956,7 @@
     "author": "Daniel Wagner, Mark Billinghurst, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_111",
-    "doi": "https://doi.org/10.1145/1178823.1178891"
+    "doi": "10.1145/1178823.1178891"
   },
   {
     "url": "095",
@@ -4969,7 +4969,7 @@
     "author": "Hannes Kaufmann, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_095",
-    "doi": "https://doi.org/10.1109/vr.2006.48"
+    "doi": "10.1109/vr.2006.48"
   },
   {
     "url": "096",
@@ -5009,7 +5009,7 @@
     "author": "Florian Ledermann, Istvan Barakonyi, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_098",
-    "doi": "https://doi.org/10.4018/9781599040660.ch007"
+    "doi": "10.4018/9781599040660.ch007"
   },
   {
     "url": "099",
@@ -5022,7 +5022,7 @@
     "author": "Dieter Schmalstieg, Gerhard Reitmayr",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_099",
-    "doi": "https://doi.org/10.1007/978-3-540-36651-5_19"
+    "doi": "10.1007/978-3-540-36651-5_19"
   },
   {
     "url": "100",
@@ -5044,7 +5044,7 @@
     "author": "Istvan Barakonyi, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_101",
-    "doi": "https://doi.org/10.1145/1179849.1179943"
+    "doi": "10.1145/1179849.1179943"
   },
   {
     "youtube": "ndHDT5WRNDs",
@@ -5060,7 +5060,7 @@
     "author": "Bernhard Reitinger, Alexander Bornik, Reinhard Beichel and\nDieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_110",
-    "doi": "https://doi.org/10.1109/mcg.2006.131"
+    "doi": "10.1109/mcg.2006.131"
   },
   {
     "url": "112",
@@ -5089,7 +5089,7 @@
     "author": "Daniel Wagner, Dieter Schmalstieg, Mark Billinghurst",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_113",
-    "doi": "https://doi.org/10.1007/11941354_10"
+    "doi": "10.1007/11941354_10"
   },
   {
     "selected": "1",
@@ -5106,7 +5106,7 @@
     "author": "Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_091",
-    "doi": "https://doi.org/10.1007/s10055-005-0006-2"
+    "doi": "10.1007/s10055-005-0006-2"
   },
   {
     "url": "089",
@@ -5131,7 +5131,7 @@
     "author": "Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_093",
-    "doi": "https://doi.org/10.1109/ismar.2005.17"
+    "doi": "10.1109/ismar.2005.17"
   },
   {
     "url": "094",
@@ -5144,7 +5144,7 @@
     "author": "Berhard Reitinger, Pascal Werlberger, Alexander Bornik and\nReinhard Beichel, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_094",
-    "doi": "https://doi.org/10.1109/ismar.2005.53"
+    "doi": "10.1109/ismar.2005.53"
   },
   {
     "url": "092",
@@ -5157,7 +5157,7 @@
     "author": "Istvan Barakonyi, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_092",
-    "doi": "https://doi.org/10.1007/11558651_34"
+    "doi": "10.1007/11558651_34"
   },
   {
     "http": "http://www.icg.tugraz.at/pub/pdf/MonkeyBridge",
@@ -5169,7 +5169,7 @@
     "author": "Istvan Barakonyi, Markus Weilguny, Thomas Psik, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_085",
-    "doi": "https://doi.org/10.1145/1178477.1178500"
+    "doi": "10.1145/1178477.1178500"
   },
   {
     "url": "086",
@@ -5193,7 +5193,7 @@
     "author": "Dieter Schmalstieg, Gerhard Reitmayr",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_090",
-    "doi": "https://doi.org/10.1007/978-3-540-36728-4_28"
+    "doi": "10.1007/978-3-540-36728-4_28"
   },
   {
     "youtube": "O0CMtUImw-A",
@@ -5208,7 +5208,7 @@
     "author": "Thomas Pintaric, Daniel Wagner, Florian Ledermann, Dieter\nSchmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_083",
-    "doi": "https://doi.org/10.1007/11428572_13"
+    "doi": "10.1007/11428572_13"
   },
   {
     "url": "084",
@@ -5234,7 +5234,7 @@
     "author": "Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_080",
-    "doi": "https://doi.org/10.1109/vr.2005.1492753"
+    "doi": "10.1109/vr.2005.1492753"
   },
   {
     "selected": "1",
@@ -5248,7 +5248,7 @@
     "author": "Florian Ledermann, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_081",
-    "doi": "https://doi.org/10.1109/vr.2005.1492773"
+    "doi": "10.1109/vr.2005.1492773"
   },
   {
     "url": "087",
@@ -5285,7 +5285,7 @@
     "author": "Raphael Grasset, Jean-Dominique Gascuel, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_082",
-    "doi": "https://doi.org/10.1109/ismar.2003.1240731"
+    "doi": "10.1109/ismar.2003.1240731"
   },
   {
     "youtube": "TYpilv5GAmc",
@@ -5300,7 +5300,7 @@
     "author": "Istvan Barakonyi, Thomas Psik, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_078",
-    "doi": "https://doi.org/10.1109/ismar.2004.11"
+    "doi": "10.1109/ismar.2004.11"
   },
   {
     "youtube": "rOWz8IESejQ",
@@ -5315,7 +5315,7 @@
     "author": "Joseph Newman, Martin Wagner, Martin Bauer, Asa MacWilliams\nand Thomas Pintaric, Dagmar Beyer, Daniel Pustka, Franz\nStrasser, Dieter Schmalstieg, Gudrun Klinker",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_079",
-    "doi": "https://doi.org/10.1109/ismar.2004.62"
+    "doi": "10.1109/ismar.2004.62"
   },
   {
     "selected": "1",
@@ -5406,7 +5406,7 @@
     "author": "Raphael Grasset, Jean-Dominique Gascuel, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_066",
-    "doi": "https://doi.org/10.1109/ismar.2003.1240731"
+    "doi": "10.1109/ismar.2003.1240731"
   },
   {
     "youtube": "I_XpAo1yMnw",
@@ -5421,7 +5421,7 @@
     "author": "Daniel Wagner, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_067",
-    "doi": "https://doi.org/10.1109/iswc.2003.1241402"
+    "doi": "10.1109/iswc.2003.1241402"
   },
   {
     "url": "069",
@@ -5486,7 +5486,7 @@
     "author": "Erik Pojar, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_063",
-    "doi": "https://doi.org/10.1145/641502.641505"
+    "doi": "10.1145/641502.641505"
   },
   {
     "youtube": "iAB11Koq47M",
@@ -5515,7 +5515,7 @@
     "author": "Oliver Bimber, Bernd Froehlich, Dieter Schmalstieg, L. Miguel\nEncarnacao",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_055",
-    "doi": "https://doi.org/10.1016/s0097-8493(03)00087-6"
+    "doi": "10.1016/s0097-8493(03)00087-6"
   },
   {
     "youtube": "FX0WDIhT6DI",
@@ -5530,7 +5530,7 @@
     "author": "Hannes Kaufmann, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_056",
-    "doi": "https://doi.org/10.1016/s0097-8493(03)00028-1"
+    "doi": "10.1016/s0097-8493(03)00028-1"
   },
   {
     "youtube": "EjR-1tyelRE",
@@ -5546,7 +5546,7 @@
     "author": "Dieter Schmalstieg, Gerhard Reitmayr, Gerd Hesina",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_061",
-    "doi": "https://doi.org/10.1162/105474603763835332"
+    "doi": "10.1162/105474603763835332"
   },
   {
     "url": "072",
@@ -5571,7 +5571,7 @@
     "author": "Stan Stoev, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_064",
-    "doi": "https://doi.org/10.1145/585740.585751"
+    "doi": "10.1145/585740.585751"
   },
   {
     "url": "059",
@@ -5583,7 +5583,7 @@
     "author": "Florian Ledermann, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_059",
-    "doi": "https://doi.org/10.1109/art.2002.1107012"
+    "doi": "10.1109/art.2002.1107012"
   },
   {
     "url": "060",
@@ -5595,7 +5595,7 @@
     "author": "Michael Kalkusch, Thomas Lidy, Michael Knapp, Gerhard Reitmayr\nand Hannes Kaufmann, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_060",
-    "doi": "https://doi.org/10.1109/art.2002.1107018"
+    "doi": "10.1109/art.2002.1107018"
   },
   {
     "youtube": "LW1F8vqgq9k",
@@ -5609,7 +5609,7 @@
     "author": "Dieter Schmalstieg, Gerd Hesina",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_053",
-    "doi": "https://doi.org/10.1109/vr.2002.996505"
+    "doi": "10.1109/vr.2002.996505"
   },
   {
     "url": "054",
@@ -5622,7 +5622,7 @@
     "author": "Stan Stoev, Dieter Schmalstieg, Wolfgang Strasser",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_054",
-    "doi": "https://doi.org/10.1109/vr.2002.996541"
+    "doi": "10.1109/vr.2002.996541"
   },
   {
     "abstract": "This paper describes Studierstube, an augmented reality system developed over the past four years at Vienna University of Technology, Austria, in extensive collaboration with Fraunhofer CRCG, Inc. in Providence, Rhode Island, U.S. Our starting point for developing the Studierstube system was the belief that augmented reality, the less obtrusive cousin of virtual reality, has a better chance of becoming a viable user interface for applications requiring manipulation of complex three-dimensional information as a daily routine. In essence, we are searching for a 3D user interface metaphor as powerful as the desktop metaphor for 2D. At the heart of the Studierstube system, collaborative augmented reality is used to embed computer-generated images into the real work environment. In the first part of this paper, we review the user interface of the initial Studierstube system, in particular the implementation of collaborative augmented reality, and the Personal Interaction Panel, a two-handed interface for interaction with the system. In the second part, an extended Studierstube system based on a heterogeneous distributed architecture is presented. This system allows the user to combine multiple approaches - augmented reality, projection displays, ubiquitous computing - to the interface as needed. The environment is controlled by the Personal Interaction Panel, a two-handed pen-and-pad interface, which has versatile uses for interacting with the virtual environment. Studierstube also borrows elements from the desktop, such as multi-tasking and multi-windowing. The resulting software architecture resembles in some ways what could be called an augmented reality operating system. The presentation is complemented by selected application examples.",
@@ -5638,7 +5638,7 @@
     "author": "Dieter Schmalstieg, Anton Fuhrmann, Gerd Hesina, Zsolt Szalavari\nand L. Miguel Encarnacao, Michael Gervautz, Werner Purgathofer",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_045",
-    "doi": "https://doi.org/10.1162/105474602317343640"
+    "doi": "10.1162/105474602317343640"
   },
   {
     "url": "057",
@@ -5649,7 +5649,7 @@
     "author": "Eike Umlauf, Harald Piringer, Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_057",
-    "doi": "https://doi.org/10.1109/art.2002.1106996"
+    "doi": "10.1109/art.2002.1106996"
   },
   {
     "url": "058",
@@ -5660,7 +5660,7 @@
     "author": "Stephan Veigl, Andreas Kaltenbach, Florian Ledermann, Gerhard\nReitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_058",
-    "doi": "https://doi.org/10.1109/art.2002.1106984"
+    "doi": "10.1109/art.2002.1106984"
   },
   {
     "abstract": "We present the Virtual Showcase, a new multiviewer augmented reality display device thathas the same form factor as a real showcase traditionally used for museum exhibits.",
@@ -5692,7 +5692,7 @@
     "author": "Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_052",
-    "doi": "https://doi.org/10.1145/505008.505018"
+    "doi": "10.1145/505008.505018"
   },
   {
     "url": "048",
@@ -5705,7 +5705,7 @@
     "author": "Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_048",
-    "doi": "https://doi.org/10.1109/iswc.2001.962125"
+    "doi": "10.1109/iswc.2001.962125"
   },
   {
     "abstract": "The combination of mobile computing and collaborative Augmented Reality into a single system makes the power of computer enhanced interaction and communication in the real world accessible anytime and everywhere. This paper describes our work to build a mobile collaborative Augmented Reality system that supports true stereoscopic 3D graphics, a pen and pad interface and direct interaction with virtual objects. The system is assembled from off-the-shelf hardware components and serves as a basic testbed for user interface experiments related to computer supported collaborative work in Augmented Reality. A mobile platform implementing the described features and collaboration between mobile and stationary users are demonstrated.",
@@ -5720,7 +5720,7 @@
     "author": "Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_050",
-    "doi": "https://doi.org/10.1109/isar.2001.970521"
+    "doi": "10.1109/isar.2001.970521"
   },
   {
     "abstract": "Optical tracking systems allow three-dimensional input for virtual environment applications with high precision and without annoying cables. Spontaneous and intuitive interaction is possible through gestures. In this paper, we present a finger tracker that allows gestural interaction and is simple, cheap, fast, robust against occlusion and accurate. It is based on a marked glove, a stereoscopic tracking system and a kinematic 3-d model of the human finger. Within our augmented reality application scenario, the user is able to grab, translate, rotate, and release objects in an intuitive way. We demonstrate our tracking system in an augmented reality chess game allowing a user to interact with virtual objects.",
@@ -5736,7 +5736,7 @@
     "author": "Klaus Dorfmueller-Ulhaas, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_051",
-    "doi": "https://doi.org/10.1109/isar.2001.970515"
+    "doi": "10.1109/isar.2001.970515"
   },
   {
     "selected": "0",
@@ -5791,7 +5791,7 @@
     "author": "Gerhard Reitmayr, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_043",
-    "doi": "https://doi.org/10.1109/vr.2001.913799"
+    "doi": "10.1109/vr.2001.913799"
   },
   {
     "url": "041",
@@ -5805,7 +5805,7 @@
     "author": "L. Miguel Encarnacao, Oliver Bimber, Dieter Schmalstieg and\nRobert Barton III",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_041",
-    "doi": "https://doi.org/10.1109/38.888003"
+    "doi": "10.1109/38.888003"
   },
   {
     "abstract": "The problem of resource bottlenecks is encountered in almost any distributed virtual environment or networked game. In a typical client-server setup, where the virtual world is managed by a server and replicated by connected clients which visualize the scene, the server must repeatedly transmit update messages to the clients. The computational power needed to select the messages to transmit to each client, or the network bandwidth limitations often allow only a subset of the update messages to be transmitted to the clients; this leads to a performance degradation and an accumulation of errors, e.g., a visual error based on the positional displacement of moving objects. This paper presents a scheduling algorithm that enforces priorities based on a freely definable error metric, trying to minimize the overall error. It is able to achieve a graceful degradation of the system's performance and to minimize the risc of starvation, while retaining an output sensitive behavior. This makes it suitable not only to schedule the update messages to transmit to the various clients, but it also allows to employ filtering techniques at a constant effort.",
@@ -5837,7 +5837,7 @@
     "author": "Dieter Schmalstieg, Anton Fuhrmann, Gerd Hesina",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_039",
-    "doi": "https://doi.org/10.1109/isar.2000.880919"
+    "doi": "10.1109/isar.2000.880919"
   },
   {
     "month": "August",
@@ -5851,7 +5851,7 @@
     "author": "Oliver Bimber, L. Miguel Encarnacao, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_035",
-    "doi": "https://doi.org/10.1111/1467-8659.00408"
+    "doi": "10.1111/1467-8659.00408"
   },
   {
     "url": "038",
@@ -5864,7 +5864,7 @@
     "author": "Christian Faisstnauer, Dieter Schmalstieg, Werner Purgathofer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_038",
-    "doi": "https://doi.org/10.1109/disrta.2000.874061"
+    "doi": "10.1109/disrta.2000.874061"
   },
   {
     "abstract": "Augmented Reality overlays computer generated images over the real world. This requires precise knowledge of the viewing projection of the head-mounted display (HMD) and its position. Most of the previously published methods are complicated or use special equipment for the calibration process. We present a collection of calibration methods usable for fast and easy calibration of camera parameters, object/camera to tracker transformations, and image rectification, which do not need additional instrumentation or complicated procedures. They are applicable for both see-through and video-based HMDs.",
@@ -5880,7 +5880,7 @@
     "author": "Anton Fuhrmann, Dieter Schmalstieg, Werner Purgathofer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_034",
-    "doi": "https://doi.org/10.1007/978-3-7091-6785-4_2"
+    "doi": "10.1007/978-3-7091-6785-4_2"
   },
   {
     "url": "036",
@@ -5907,7 +5907,7 @@
     "author": "Peter Wonka, Michael Wimmer, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_037",
-    "doi": "https://doi.org/10.1007/978-3-7091-6303-0_7"
+    "doi": "10.1007/978-3-7091-6303-0_7"
   },
   {
     "url": "032",
@@ -5921,7 +5921,7 @@
     "author": "Christian Faisstnauer, Dieter Schmalstieg, Werner Purgathofer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_032",
-    "doi": "https://doi.org/10.1109/vr.2000.840491"
+    "doi": "10.1109/vr.2000.840491"
   },
   {
     "url": "033",
@@ -5934,7 +5934,7 @@
     "author": "Oliver Bimber, L. Miguel Encarnacao, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_033",
-    "doi": "https://doi.org/10.1109/vr.2000.840359"
+    "doi": "10.1109/vr.2000.840359"
   },
   {
     "abstract": "Construct3D is a three dimensional geometric construction tool based on the collaborative augmented reality system Studierstube. Our setup uses a stereoscopic head mounted display (HMD) and the Personal Interaction Panel(PIP) - a two-handed 3D interaction tool that simplifies 3D model interaction. Means of application in mathematics and geometry education at high school aswell as university level are being discussed. A pilot study summarizes the strengths and possible extensions of our system. Anecdotal evidence supports our claim that the use of Construct3D is easy to learn and encourages experimentation with geometric constructions.",
@@ -5952,7 +5952,7 @@
     "author": "Hannes Kaufmann, Dieter Schmalstieg, Michael Wagner",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_040",
-    "doi": "https://doi.org/10.1023/a:1012049406877"
+    "doi": "10.1023/a:1012049406877"
   },
   {
     "abstract": "Distributed Open Inventor is an extension to the popular Open Inventor toolkit for interactive 3D graphics. The toolkit is extended with the concept of a distributed shared scene graph, similar to distributed shared memory. From the application programmer's perspective, multiple workstations share a common scene graph. The proposed system introduces a convenient mechanism for writing distributed graphical applications based on a popular tool in an almost transparent manner. Local variations in the scene graph allow for a wide range of possible applications, and local low latency interaction mechanisms called input streams together with a sophisticated networking architecture enable high performance while saving the programmer from network peculiarities.",
@@ -5967,7 +5967,7 @@
     "author": "Gerd Hesina, Dieter Schmalstieg, Anton Fuhrmann, Werner\nPurgathofer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_029",
-    "doi": "https://doi.org/10.1145/323663.323675"
+    "doi": "10.1145/323663.323675"
   },
   {
     "url": "030",
@@ -5980,7 +5980,7 @@
     "author": "Anton Fuhrmann, Dieter Schmalstieg, Werner Purgathofer",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_030",
-    "doi": "https://doi.org/10.1145/323663.323692"
+    "doi": "10.1145/323663.323692"
   },
   {
     "abstract": "This paper describes a new algorithm that employs image-based rendering for fast occlusion culling in complex urban environments. It exploits graphics hardware to render and automatically combine a relatively large set of occluders. The algorithm is fast to calculate and therefore also useful for scenes of moderate complexity and walkthroughs with over 20 frames per second. Occlusion is calculated dynamically and does not rely on any visibility precalculation or occluder preselection. Speed-ups of one order of magnitude can be obtained.",
@@ -5996,7 +5996,7 @@
     "author": "Peter Wonka, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_027",
-    "doi": "https://doi.org/10.1111/1467-8659.00327"
+    "doi": "10.1111/1467-8659.00327"
   },
   {
     "address": "Milano, Italy",
@@ -6011,7 +6011,7 @@
     "author": "L. Miguel Encarnacao, Oliver Bimber, Dieter Schmalstieg and\nSean Chandler",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_028",
-    "doi": "https://doi.org/10.1111/1467-8659.00348"
+    "doi": "10.1111/1467-8659.00348"
   },
   {
     "abstract": "The Virtual Table presents stereoscopic graphics to a user in a workbench-like setting. This paper reports on a user interface and new interaction techniques for the Virtual Table based on transparent props - a tracked hand-held pen and a pad. These props, but in particular the pad, are augmented with 3D graphics from the Virtual Table's display. This configuration creates a very powerful and flexible interface for two-handed interaction that can be applied to other back-projected stereographic displays as well: The pad can serve as a palette for tools and controls as well as a window-like see-through interface, a plane-shaped and through-the-plane tool, supporting a variety of new interaction techniques.",
@@ -6028,7 +6028,7 @@
     "author": "Dieter Schmalstieg, L. Miguel Encarnacao, Zsolt Szalavari",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_024",
-    "doi": "https://doi.org/10.1145/300523.300542"
+    "doi": "10.1145/300523.300542"
   },
   {
     "url": "025",
@@ -6042,7 +6042,7 @@
     "author": "Michael Wimmer, Markus Giegl, Dieter Schmalstieg",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_025",
-    "doi": "https://doi.org/10.1007/978-3-7091-6805-9_8"
+    "doi": "10.1007/978-3-7091-6805-9_8"
   },
   {
     "abstract": "This paper introduces the Spatially Extended Anchoring Mechanism (SEAM) as a 3-D user-interface metaphor to connect virtual worlds and manage scalability in distributed virtual environments. SEAMs provide a visual and navigable connection between worlds to manage both the complexity of rendering and network communication typically occurring in such environments. In the context of augmented reality, SEAMs can be applied as a 3-D window interface. A rendering algorithm is described which performs well on the graphics accelerators of standard personal computers.",
@@ -6058,7 +6058,7 @@
     "author": "Dieter Schmalstieg, Gernot Schaufler",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_026",
-    "doi": "https://doi.org/10.1162/105474699566332"
+    "doi": "10.1162/105474699566332"
   },
   {
     "abstract": "The area covered by a three-dimensional bounding box after projection onto the screen is relevant for view-dependent algorithms in real-time and photorealistic rendering. We describe a fast method to compute the accurate two-dimensional area of a three-dimensional oriented bounding box, and show how it can be computed equally fast or faster than its approximation with a two-dimensional bounding box enclosing the projected three-dimensional bounding box.",
@@ -6075,7 +6075,7 @@
     "author": "Dieter Schmalstieg, Robert F. Tobler",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_031",
-    "doi": "https://doi.org/10.1080/10867651.1999.10487504"
+    "doi": "10.1080/10867651.1999.10487504"
   },
   {
     "url": "023",
@@ -6112,7 +6112,7 @@
     "author": "Gerd Hesina, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_020",
-    "doi": "https://doi.org/10.1109/disrta.1998.694570"
+    "doi": "10.1109/disrta.1998.694570"
   },
   {
     "url": "019",
@@ -6126,7 +6126,7 @@
     "author": "Anton Fuhrmann, Dieter Schmalstieg, Michael Gervautz",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_019",
-    "doi": "https://doi.org/10.1007/978-3-7091-7519-4_21"
+    "doi": "10.1007/978-3-7091-7519-4_21"
   },
   {
     "abstract": "We propose an architecture for multi-user augmented reality with applications in visualization, presentation and education, which we call Studierstube. Our system presents three-dimensional stereoscopic graphics simultaneously to group of users wearing light weight see-through head mounted displays. The displays do not affect natural communication and interaction, making working together very effective. Users see the same spatially aligned model, but can independently control their viewpoint and different layers of the data to be displayed. The setup serves computer supported cooperative work and enhances cooperation of visualization experts. This paper presents the client-server software architecture underlying this system and details that must be addressed to create a high-quality augmented reality setup.",
@@ -6142,7 +6142,7 @@
     "author": "Zsolt Szalavari, Dieter Schmalstieg, Anton Fuhrmann, Michael\nGervautz",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_017",
-    "doi": "https://doi.org/10.1007/bf01409796"
+    "doi": "10.1007/bf01409796"
   },
   {
     "abstract": "-",
@@ -6158,7 +6158,7 @@
     "author": "Anton Fuhrmann, Helwig Loeffelmann, Dieter Schmalstieg and\nMichael Gervautz",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_018",
-    "doi": "https://doi.org/10.1109/38.689665"
+    "doi": "10.1109/38.689665"
   },
   {
     "abstract": "In this paper we present collaborative scientific visualization in STUDIERSTUBE. STUDIERSTUBE is an augmented reality system that has several advantages over conventional desktop and other virtual reality environments, including true stereoscopy, 3D-interaction, individual viewpoints and customized views for multiple users, unhindered natural collaboration and low cost. We demonstrate the application of this concept for the interaction of multiple users and illustrate it with several visualizations of dynamical systemsin DynSys3D, a visualization system running on top of AVS.",
@@ -6174,7 +6174,7 @@
     "author": "Anton Fuhrmann, Helwig Loeffelmann, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_015",
-    "doi": "https://doi.org/10.1109/visual.1997.663921"
+    "doi": "10.1109/visual.1997.663921"
   },
   {
     "url": "016",
@@ -6187,7 +6187,7 @@
     "author": "Dieter Schmalstieg, Michael Gervautz",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_016",
-    "doi": "https://doi.org/10.1145/261135.261173"
+    "doi": "10.1145/261135.261173"
   },
   {
     "url": "012",
@@ -6201,7 +6201,7 @@
     "author": "Dieter Schmalstieg, Robert F. Tobler",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_012",
-    "doi": "https://doi.org/10.1016/s0097-8493(96)00092-1"
+    "doi": "10.1016/s0097-8493(96)00092-1"
   },
   {
     "url": "013",
@@ -6214,7 +6214,7 @@
     "author": "Dieter Schmalstieg, Gernot Schaufler",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_013",
-    "doi": "https://doi.org/10.1109/vrais.1997.583039"
+    "doi": "10.1109/vrais.1997.583039"
   },
   {
     "url": "014",
@@ -6227,7 +6227,7 @@
     "author": "Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_014",
-    "doi": "https://doi.org/10.1145/253437.253473"
+    "doi": "10.1145/253437.253473"
   },
   {
     "url": "011",
@@ -6241,7 +6241,7 @@
     "author": "Dieter Schmalstieg, Gernot Schaufler",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_011",
-    "doi": "https://doi.org/10.1109/hicss.1997.667429"
+    "doi": "10.1109/hicss.1997.667429"
   },
   {
     "abstract": "We propose an architecture for multi-user augmented reality, with applications in visualization, presentation, and education.",
@@ -6255,7 +6255,7 @@
     "author": "Dieter Schmalstieg, Anton Fuhrmann, Zsolt Szalavari, Michael Gervautz",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_004",
-    "doi": "https://doi.org/10.1007/bf01409796"
+    "doi": "10.1007/bf01409796"
   },
   {
     "url": "008",
@@ -6268,7 +6268,7 @@
     "author": "Gernot Schaufler, Thomasz Mazuryk, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_008",
-    "doi": "https://doi.org/10.1145/257089.257298"
+    "doi": "10.1145/257089.257298"
   },
   {
     "url": "006",
@@ -6281,7 +6281,7 @@
     "author": "Dieter Schmalstieg, Christian Faisstnauer, Thomasz Mazuryk",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_006",
-    "doi": "https://doi.org/10.1080/019697296126318"
+    "doi": "10.1080/019697296126318"
   },
   {
     "url": "007",
@@ -6296,7 +6296,7 @@
     "author": "Dieter Schmalstieg, Michael Gervautz, Peter Stieglecker",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_007",
-    "doi": "https://doi.org/10.1007/978-3-7091-7488-3_1"
+    "doi": "10.1007/978-3-7091-7488-3_1"
   },
   {
     "url": "005",
@@ -6312,7 +6312,7 @@
     "author": "Dieter Schmalstieg, Michael Gervautz",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_005",
-    "doi": "https://doi.org/10.1080/019697296126318"
+    "doi": "10.1080/019697296126318"
   },
   {
     "abstract": "We present a strategy for rendering in distributed virtual environments. A geometry database is maintainedby a server, while users invoke individual clients to interact with the environment. Instead of downloading acomplete copy of the geometry data, the data is distributed on demand, thus gaining significant savings innetwork bandwidth. Our strategy combines several techniques, including levels of detail, progressiverefinement and graceful degradation to deliver the data just in time over the network to the renderingprocess. The method allows operate on a tight resource budget, which important if attempting to use lowcost systems for virtual reality applications.",
@@ -6327,7 +6327,7 @@
     "author": "Dieter Schmalstieg, Michael Gervautz",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_009",
-    "doi": "https://doi.org/10.1111/1467-8659.1530421"
+    "doi": "10.1111/1467-8659.1530421"
   },
   {
     "url": "010",
@@ -6340,7 +6340,7 @@
     "author": "Thomasz Mazuryk, Dieter Schmalstieg, Michael Gervautz",
     "ENTRYTYPE": "article",
     "ID": "Schmalstieg_010",
-    "doi": "https://doi.org/10.20870/ijvr.1996.2.3.2611"
+    "doi": "10.20870/ijvr.1996.2.3.2611"
   },
   {
     "url": "003",
@@ -6368,7 +6368,7 @@
     "author": "Michael Gervautz, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_004a",
-    "doi": "https://doi.org/10.1109/ca.1994.323995"
+    "doi": "10.1109/ca.1994.323995"
   },
   {
     "url": "002",
@@ -6394,6 +6394,6 @@
     "author": "Michael Gervautz, Dieter Schmalstieg",
     "ENTRYTYPE": "inproceedings",
     "ID": "Schmalstieg_001",
-    "doi": "https://doi.org/10.1109/ca.1994.323995"
+    "doi": "10.1109/ca.1994.323995"
   }
 ]
