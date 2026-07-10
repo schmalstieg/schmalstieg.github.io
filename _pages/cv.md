@@ -182,6 +182,7 @@ author_profile: true
 
 ### PhD graduates appointed as academic faculty
 
+- 2025: Dr. Bernhard Kerbl, professor at University of Copenhagen, Denmark
 - 2020: Dr. Manuela Waldner, professor at Vienna University of
   Technology, Austria
 - 2019: Dr. Eduardo Veas, professor at TU Graz,
