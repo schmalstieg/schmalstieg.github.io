@@ -1,6 +1,16 @@
 [
   {
     "year": "2026",
+    "month": "July 16",
+    "note": "Erlangen, Germany",
+    "howpublished": "Invited Talk, University of Nuremberg-Erlangen",
+    "title": "Shading Caching and Streaming",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_178"
+  },
+  {
+    "year": "2026",
     "month": "July 9",
     "note": "Tuebingen, Germany",
     "howpublished": "Lecture Series on Bionic Intelligence, University of Tuebingen",
