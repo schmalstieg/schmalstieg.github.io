@@ -1,6 +1,5 @@
 [
   {
-	"youtube": "fJj1Mi1_oJk", 
     "url": "461",
 	"abstract": "Inverse rendering decomposes a scene into geometry, materials, and lighting to enable physically consistent view synthesis and relighting. Inverse rendering approaches built upon Gaussian Splatting benefit from its efficient reconstruction pipeline, yet they struggle in the presence of strong shadows. Shadows are often absorbed into albedo, leading to view synthesis in which the original shadows remain, while newly computed shadows are simply overlaid during relighting. To address this issue, we present a shadow-aware inverse rendering method for 2D Gaussian Splatting that explicitly disentangles illumination effects from surface reflectance. Our approach estimates pixelwise directional visibility in image space from observed geometry, enabling accurate modeling of cast shadows. We further introduce material segmentation, which groups shadowed and non-shadowed pixels of the same surface into a single material, enforcing consistent reflectance and preventing shadows from being baked into the albedo. Our method produces shadow-free albedo and models shadows as directional attenuation, enabling stable and high-fidelity relighting under novel illumination.",
     "journal": "IEEE Open Journal of Signal Processing",
