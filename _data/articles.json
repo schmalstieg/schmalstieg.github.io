@@ -1,6 +1,17 @@
 [
   {
 	"youtube": "fJj1Mi1_oJk", 
+    "url": "461",
+	"abstract": "Inverse rendering decomposes a scene into geometry, materials, and lighting to enable physically consistent view synthesis and relighting. Inverse rendering approaches built upon Gaussian Splatting benefit from its efficient reconstruction pipeline, yet they struggle in the presence of strong shadows. Shadows are often absorbed into albedo, leading to view synthesis in which the original shadows remain, while newly computed shadows are simply overlaid during relighting. To address this issue, we present a shadow-aware inverse rendering method for 2D Gaussian Splatting that explicitly disentangles illumination effects from surface reflectance. Our approach estimates pixelwise directional visibility in image space from observed geometry, enabling accurate modeling of cast shadows. We further introduce material segmentation, which groups shadowed and non-shadowed pixels of the same surface into a single material, enforcing consistent reflectance and preventing shadows from being baked into the albedo. Our method produces shadow-free albedo and models shadows as directional attenuation, enabling stable and high-fidelity relighting under novel illumination.",
+    "journal": "IEEE Open Journal of Signal Processing",
+    "year": "2026",
+    "author": "Kotoka Matsunaga ad Xuening Tian and Hideo Saito and Dieter Schmalstieg and Shohei Mori",
+    "title": "Shadow-Aware Inverse Rendering in Gaussian Splatting",
+    "ENTRYTYPE": "article",
+	"doi": "10.1109/OJSP.2026.3735472",
+    "ID": "Schmalstieg_461", 
+  },  {
+	"youtube": "fJj1Mi1_oJk", 
     "url": "460",
     "selected": "1",
 	"abstract": "Controlling devices connected to the Internet of Things often requires juggling multiple smartphone apps or physical remote controls, creating a fragmented user experience. Augmented Reality (AR) can afford superior control by automatically presenting virtual user interfaces that are spatially aligned with networked devices. However, before such user interfaces can be delivered, physical devices must be localized in the environment. This paper introduces LORIOT (LOcalization-Ready Internet Of Things), a novel end-to-end system that uses a semantic scene graph and a large language model to map the identities of the networked devices to physical objects, given a pre-filtered set of IoTdevice candidate nodes. A declarative UI specification enables automatic generation of device control panels for AR and non-AR clients. We evaluate the mapping component on a controlled synthetic-room benchmark of 100 randomly generated rooms. Using device network metadata alone, we achieve a baseline macro-averaged F1 score of 0.80 for digital → physical associations. When device metadata is enriched with physical attributes (mounting location, materials, color, and size), performance improves to 0.88. Moreover, we evaluate the benefit of spatially registered AR control in a within-subject user study (N=20), comparing in-situ AR panels against conventional non-AR control with smartphone apps or physical remote controls. AR yields significantly faster task completion, lower mental demand, and higher usability.",
