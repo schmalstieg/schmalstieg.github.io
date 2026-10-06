@@ -1,6 +1,16 @@
 [
   {
     "year": "2026",
+    "month": "October 6",
+    "note": "Bari, Italy",
+    "howpublished": "Keynote, ISMAR Workshop on XR Solutions for Smart Production",
+    "title": "Augmented Reality Guidance with Semantic Scene Graphs",
+    "author": "Dieter Schmalstieg",
+    "ENTRYTYPE": "misc",
+    "ID": "Talk_180"
+  },
+  {
+    "year": "2026",
     "month": "September 22",
     "note": "Versailles, France",
     "howpublished": "Invited Talk at Workshop: Maniere de faire. Art de montrer. Enjeux et potentiels d'une reconstitution virtuelle des jardins de Versailles",
