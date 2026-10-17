@@ -2,7 +2,7 @@
   {
     "heading" : "Semantic Scene Graphs",
 	"description" : "This research focuses interfaces for augmented reality that rely on semantic scene graphs and other techniques providec by AI agents. With the help of scene understanding, a semantic model of the user's physical environment is created and used to deliver situated visualization and guidance.",
-	"papers" : 
+	"papers" : [
 	  {"id": "466", "title": "SnapPhysics: A Physics-Aware Scene Graph from a Single View for Interactive Mixed Reality Scenes" },
 	  {"id": "470", "title": "Think While You Map: Asynchronous Vision-Language Agents for Incremental 3D Scene Graphs" }
 	  {"id": "460", "title": "Semantic Scene Graphs for Creating a Localization-Ready Internet of Things" }
