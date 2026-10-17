@@ -1,5 +1,13 @@
 [
   {
+    "heading" : "Semantic Scene Graphs",
+	"description" : "This research focuses interfaces for augmented reality that rely on semantic scene graphs and other techniques providec by AI agents. With the help of scene understanding, a semantic model of the user's physical environment is created and used to deliver situated visualization and guidance.",
+	"papers" : 
+	  {"id": "466", "title": "SnapPhysics: A Physics-Aware Scene Graph from a Single View for Interactive Mixed Reality Scenes" },
+	  {"id": "470", "title": "Think While You Map: Asynchronous Vision-Language Agents for Incremental 3D Scene Graphs" }
+	  {"id": "460", "title": "Semantic Scene Graphs for Creating a Localization-Ready Internet of Things" }
+	]
+  },{ 
     "heading" : "Real-time graphics",
 	"description" : "This research focuses on scalable graphics algorithms for rendering large and complex scenes at real-time frame rates. We investigate novel approaches to techniques such as level of detail, image-based rendering, potentially visible sets, frame extrapolation and geometry compression. We are particularly interested in rendering methods suitable for streaming rendering and virtual reality displays.",
 	"papers" : [
@@ -14,6 +22,7 @@
     "heading" : "Situated visualizations",
 	"description" : "Situted visualization uses augmented reality displays to present information to a human user that is dynamically derived from the user's physical environment. It provides guidance, instructions and context in everyday situations. We investigate when, where and how to visualize such information, and what information to visualize.",
 	"papers" : [
+	  {"id": "467", "title": "Magnification Lenses for Small-Scale Augmented Reality Instructions" },
 	  {"id": "451", "title": "Situated Brushing and Linking in VR and AR" },
 	  {"id": "440", "title": "CECILIA: embedding visualizations in existing games" },
 	  {"id": "433", "title": "AR assembly guidance with error management" },
@@ -33,6 +42,7 @@
     "heading" : "Image-based modeling and rendering",
 	"description" : "Capturing the geometry and appearance of the real world and novel view sythesis from images is a key technique for compelling extended reality techniques, such as telepresence or mediated reality. In this work, we investigate emerging scene representations, such as light fields and radiance fields.",
 	"papers" : [
+	  {"id": "458", "title": "A LoD of Gaussians" },
 	  {"id": "448", "title": "Sorted Opacity Fields" },
 	  {"id": "442", "title": "AAA Gaussians" },
 	  {"id": "418", "title": "VR Photo Inpainting" },
