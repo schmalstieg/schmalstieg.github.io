@@ -32,7 +32,8 @@ author_profile: true
 	  <table><tr><td>{{ i.abstract }}</td></tr></table>
     </div>
 	<div>&nbsp;</div>
-	<div><button onclick="copyAbstractToClipboard()">Copy Abstract</button>
+	<div>
+	  <!--<button onclick="copyAbstractToClipboard()">Copy Abstract</button>-->
 	  {% if i.url %}&nbsp;&nbsp;&nbsp; 
 	    <img src="/images/pdf.png" width=20>&nbsp;<a href="/pdf/{{ i.ID }}.pdf">Download PDF</a>
 	  {% endif %}
@@ -59,7 +60,6 @@ author_profile: true
             author={ {{ i.author | replace: ",", " and" }} },
             title={ {{ i.title }} },
             journal={ {{i.journal}} }, 
-            author={ {{ i.author }} },
             year={ {{ i.year }} },
             month={ {{ i.month }} },
 	        volume={ {{i.volume}} },
@@ -76,7 +76,7 @@ author_profile: true
         {% endif %}</pre>
 	  </td></tr></table>
 	  </div>
-	  <button onclick="copyBibToClipboard()">Copy Bibtex</button>
+	  <!--<button onclick="copyBibToClipboard()">Copy Bibtex</button>-->
     </div>
   </div>
 {% endfor %}
